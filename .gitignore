@@ -5,13 +5,19 @@ __pycache__/
 
 # C extensions
 *.so
-
+*.pbz2
+*.pickle
 # Distribution / packaging
 .Python
 build/
 develop-eggs/
 dist/
 downloads/
+finetune_data/
+data/*/
+santos_supplementary_materials/
+groundtruth/
+out_model/
 eggs/
 .eggs/
 lib/
@@ -25,6 +31,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+diversity_algorithms/div_plots/*
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -82,6 +89,7 @@ target/
 profile_default/
 ipython_config.py
 
+glove.42B.300d.txt
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
 #   intended to run in multiple environments; otherwise, check them in:

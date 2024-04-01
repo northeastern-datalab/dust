@@ -82,7 +82,7 @@ elif embedding_type == "fasttext":
     tokenizer = ""
     vec_length = 300
 elif embedding_type == "dust" or embedding_type == "dust_serialized":
-    model_path = r'./out_model/tus_benchmark_corrected_roberta/checkpoints/best-checkpoint.pt'
+    model_path = r'./out_model/tus_finetune_roberta/checkpoints/best-checkpoint.pt'
     tokenizer = RobertaTokenizerFast.from_pretrained("roberta-base")
     model = RobertaModel.from_pretrained('roberta-base')
     model = BertClassifier(model, num_labels = 2, hidden_size = 768, output_size = 768)
@@ -423,8 +423,6 @@ def plot_accuracy_range(original_dict, embedding_type, benchmark_name, metric = 
     else:
         plt.show()
     plt.clf()
-
-destination_folder = r'data/tus_sampled_benchmark/datalake'
 
 
 # %%
