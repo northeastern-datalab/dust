@@ -1,0 +1,44 @@
+Word|Definition|Engineering Process|Technical Operation|Design|Software|Hardware|Mechanical|Digital|Analog|Robotics
+PLC|Programmable Logic Controller|Control system design|PLC programming|Logic diagram|Embedded systems|PLC module|Actuators|Signal processing|Data acquisition|Industrial automation
+CAD/CAM|Computer-aided design and manufacturing|Integrated design and production|CAD/CAM integration|Product modeling|Simulation software|Robotic arm|Precision machining|Microcontrollers|Power electronics|Automated assembly
+VR|Virtual Reality|Simulation and visualization|VR development|Immersive experience|Game engines|VR headset|Haptic feedback|Display technology|Audio processing|Gesture recognition|Telepresence
+IoT|Internet of Things|Integration and connectivity|IoT deployment|Sensor networks|Cloud platforms|IoT device|Wireless communication|Energy harvesting|Analog-to-digital conversion|Smart infrastructure
+3D Printing|Additive Manufacturing|Layered manufacturing|3D printing process|Prototype fabrication|Slicing software|Extruder|Printing bed|Printed circuitry|Thermistors|Robotic fabrication
+NLP|Natural Language Processing|Text analysis and generation|NLP algorithms|Language models|Chatbot development|Speech recognition|Semantic analysis|Linguistic processing|Voice synthesis|Conversational AI
+RPA|Robotic Process Automation|Workflow automation|Robotic automation|Task automation|Process modeling|Robotic arm|Sensors|Pneumatics|Digital twins|Business process optimization
+MEMS|Microelectromechanical Systems|Microfabrication|MEMS design|Microsensors|MEMS actuators|Microcontrollers|Microfluidics|MEMS packaging|Digital MEMS|Analog MEMS|Biomedical microdevices
+PLM|Product Lifecycle Management|Product development lifecycle|PLM software|Version control|Collaborative design|Product data management|Quality assurance|Configuration management|Simulation integration|Supply chain management
+BIM|Building Information Modeling|Architectural design|BIM software|Building simulation|Parametric modeling|Building components|Construction management|Energy analysis|Facility management|Virtual construction
+FPGA|Field-Programmable Gate Array|Logic design and synthesis|FPGA programming|Hardware acceleration|Digital logic|Configurable logic block|Verilog|High-level synthesis|Reconfigurable computing|Embedded FPGA
+HMI|Human-Machine Interface|Interface design|HMI development|User experience|Touchscreen display|Control panel|User input devices|UI/UX design|Gesture control|Interactive systems
+SLAM|Simultaneous Localization and Mapping|Robot localization|SLAM algorithms|Mapping techniques|Sensor fusion|LiDAR|Visual odometry|Robot navigation|Autonomous vehicles|Augmented reality
+CNC|Computer Numerical Control|Machining automation|CNC programming|Toolpath generation|G-code|Spindle|Axis control|Tool changer|Motion control|Precision machining
+Drones|Unmanned Aerial Vehicles|Drone operation|Drone navigation|Aerial photography|Flight control|Camera gimbal|Telemetry|Obstacle avoidance|Remote sensing|Drone swarming
+V2X|Vehicle-to-Everything Communication|Connected vehicles|V2X protocols|Vehicular networks|5G connectivity|On-board unit|Roadside infrastructure|Vehicle tracking|Collision avoidance|Intelligent transportation
+Blockchain|Distributed Ledger Technology|Blockchain development|Smart contracts|Cryptocurrency|Decentralized applications|Consensus mechanism|Transaction validation|Immutable ledger|Tokenization|Blockchain interoperability
+AR|Augmented Reality|AR development|AR visualization|Overlay information|Marker tracking|AR glasses|Spatial computing|Environment mapping|Object recognition|Mixed reality
+Renewables|Renewable Energy Sources|Renewable energy production|Energy storage|Solar panels|Wind turbines|Battery technology|Hydroelectric power|Geothermal energy|Bioenergy|Smart grid
+AIoT|Artificial Intelligence of Things|AI integration with IoT|AIoT platforms|Predictive maintenance|Machine learning algorithms|Edge computing|Data analytics|AI chips|Robotic automation|Smart sensors
+Wireless Charging|Inductive Charging|Wireless power transfer|Charging infrastructure|Qi standard|Resonant coupling|Charging pad|Power management|Energy efficiency|Electric vehicles|Smart homes
+Cybersecurity|Information Security|Cyber defense|Threat detection|Encryption|Firewalls|Intrusion detection|Vulnerability assessment|Security protocols|Identity management|Security analytics
+Quantum Computing|Quantum Information Science|Quantum algorithm development|Quantum hardware|Superposition|Entanglement|Quantum gate|Quantum supremacy|Quantum cryptography|Quantum network|Quantum simulation
+AR/VR|Mixed Reality|AR/VR integration|Cross-reality experience|Virtual environments|Spatial computing|Mixed reality headset|Hand tracking|Immersive storytelling|Spatial audio|Telepresence
+Smart Cities|Urban Innovation|City management|IoT infrastructure|Urban planning|Data analytics|Citizen engagement|Sustainable development|Transportation optimization|Energy efficiency|Digital governance
+HealthTech|Healthcare Technology|Medical device development|Telemedicine|Healthcare analytics|Patient monitoring|Medical imaging|Bioinformatics|Health information systems|Health AI|Digital therapeutics
+Edge Computing|Fog Computing|Edge device deployment|Edge analytics|Low-latency processing|Distributed computing|Edge gateway|IoT edge|Edge AI|Edge security|Real-time applications
+Genomics|Genomic Science|Genetic sequencing|Genomic data analysis|Personalized medicine|CRISPR technology|DNA synthesis|Genomic medicine|Gene editing|Bioinformatics|Precision agriculture
+Additive Manufacturing|3D Printing|Layered manufacturing|Additive fabrication|Prototype development|CAD software|Extruder|Printing bed|Digital fabrication|Additive processes|Robotic printing
+Renewable Energy|Sustainable Energy|Renewable resource utilization|Energy conversion|Solar power|Wind power|Hydropower|Biomass energy|Geothermal energy|Renewable energy systems|Smart grid integration
+Machine Learning|ML|Pattern recognition|Data analysis|Algorithm development|Data mining|Neural networks|Machine learning frameworks|Big data processing|Supervised learning|Unsupervised learning
+Nanotechnology|Nanoengineering|Nanomaterial synthesis|Nanofabrication|Nanostructures|Nanoelectronics|Nanomedicine|Nanocomposites|Quantum dots|Nanorobotics|Molecular nanotechnology
+Space Exploration|Aerospace Technology|Spacecraft design|Launch vehicle propulsion|Satellite systems|Space habitats|Astronaut training|Extraterrestrial resource utilization|Interplanetary travel|Space colonization|Astrobiology
+5G|Fifth Generation Wireless|Wireless communication standard|5G network infrastructure|High-speed data transmission|Low latency|Mobile broadband|Massive MIMO|Beamforming|Millimeter wave|Network slicing
+Bioengineering|Biomedical Engineering|Biological systems design|Tissue engineering|Genetic engineering|Biomechanics|Bioinformatics|Medical devices|Regenerative medicine|Biomimicry|Bioelectrical systems
+Cyber-Physical Systems|CPS|Integration of computing and physical processes|Real-time control systems|Sensor networks|Embedded systems|Cybersecurity|Smart sensors|Wireless communication|Autonomous systems|Industrial IoT
+Neuromorphic Computing|Brain-inspired Computing|Neural network hardware|Spiking neural networks|Neuromorphic chips|Event-based computation|Synaptic plasticity|Neural architecture|Neuroinformatics|Brain-computer interface|Cognitive computing
+Smart Grid|Intelligent Power Grid|Grid modernization|Grid automation|Distributed energy resources|Grid resilience|Demand response|Grid optimization|Energy management systems|Microgrids|Grid cybersecurity
+Industrial Internet of Things|IIoT|Integration of IoT in industrial settings|Smart manufacturing|Predictive maintenance|Asset tracking|Condition monitoring|Industrial automation|Factory optimization|Process efficiency|Industrial analytics
+Biometrics|Biometric Authentication|Biometric recognition|Fingerprint recognition|Facial recognition|Iris recognition|Voice recognition|Behavioral biometrics|Biometric sensors|Authentication systems|Identity verification
+Agricultural Technology|AgriTech|Precision agriculture|Smart farming|Crop monitoring|Livestock monitoring|Drone technology|IoT in agriculture|Sustainable farming|Vertical farming|Agroinformatics
+Renewable Fuels|Alternative Energy Sources|Biofuels|Hydrogen fuel cells|Ethanol production|Biodiesel|Algal biofuels|Renewable hydrogen|Waste-to-energy|Renewable energy carriers|Sustainable transportation
+Hybrid Vehicles|Electric Vehicles|Hybrid powertrains|Plug-in hybrid vehicles|Hybrid electric vehicles|Regenerative braking|Battery electric vehicles|Hydrogen fuel cell vehicles|Vehicle electrification|Eco-friendly transportation|Green vehicles

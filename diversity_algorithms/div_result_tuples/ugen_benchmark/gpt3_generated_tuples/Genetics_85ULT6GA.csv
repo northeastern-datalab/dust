@@ -1,0 +1,31 @@
+Word | Description | Type | Subtype | Chromosome | Location | Structure | Origin | Function | Regulation
+Plasmid | Circular DNA Molecule | Genetic Engineering | Vector | Bacterial | Cytoplasm | Replication Origin | Synthetic | Gene Cloning | Recombinant DNA Technology
+Enzyme | Biological Catalyst | Metabolism | Restriction | N/A | N/A | Active Site | Cellular | Catalyze Reactions | Enzyme Inhibition
+Polymerase | Enzyme Group | DNA Replication | RNA | N/A | N/A | Polymerization Site | Biological | Synthesize Nucleic Acids | Proofreading
+Translocation | Chromosomal Rearrangement | Genetics | Balanced | N/A | N/A | Chromosome Breakpoints | Spontaneous | Chromosome Abnormalities | Gene Fusion
+Codon | Genetic Code Unit | Translation | Start | N/A | N/A | Coding Region | Mutational | Amino Acid Incorporation | Codon Usage Bias
+Ribosome | Protein Synthesis Machinery | Translation | N/A | N/A | N/A | Ribosomal RNA | Cellular | Protein Assembly | Ribosome Profiling
+Restriction Enzyme | Molecular Scissors | Genetic Engineering | Endonuclease | Plasmid | Recognition Site | Palindromic Sequence | Bacterial | DNA Cleavage | Restriction Fragment Length Polymorphism
+Telomerase | Enzyme Complex | Chromosome Maintenance | Telomere | N/A | N/A | Telomeric Repeat | Eukaryotic | Telomere Lengthening | Senescence
+Antisense RNA | Regulatory Molecule | Gene Expression | Non-Coding | N/A | N/A | Complementary Sequence | Synthetic | Gene Silencing | RNA Interference
+Recombinant DNA | Hybrid Molecule | Genetic Engineering | Gene Splicing | N/A | N/A | Fusion Junction | Laboratory | DNA Manipulation | Biotechnology
+Oncogene | Cancer-Causing Gene | Tumorigenesis | Proto-oncogene | N/A | N/A | Oncogenic Mutation | Somatic | Cell Proliferation | Tumor Suppressor Gene
+Apoptosis | Programmed Cell Death | Cell Cycle Regulation | Intrinsic | N/A | N/A | Apoptotic Pathway | Cellular | Tissue Homeostasis | Caspase Activation
+CRISPR | Genome Editing Tool | Genetic Engineering | Cas9 | N/A | N/A | Guide RNA | Bacterial | DNA Targeting | Genome Surgery
+miRNA | MicroRNA Molecule | Gene Regulation | Post-Transcriptional | N/A | N/A | RNA Interference | Eukaryotic | mRNA Degradation | Gene Expression Control
+Histone Modification | Epigenetic Alteration | Chromatin Remodeling | Acetylation | N/A | N/A | Histone Tail | Environmental | Chromatin Accessibility | Transcriptional Regulation
+Pluripotent Stem Cell | Undifferentiated Cell | Cell Differentiation | Embryonic | N/A | N/A | Stem Cell Niche | Developmental | Tissue Regeneration | Induced Pluripotent Stem Cell
+Nucleosome | DNA Packaging Unit | Chromatin Structure | Octamer | N/A | N/A | Histone Core | Cellular | Gene Regulation | Chromatin Remodeling
+Genome Sequencing | Determination of DNA Sequence | Genomics | Next-Generation | N/A | N/A | Reference Genome | Research | Genetic Variation | Comparative Genomics
+Proteomics | Study of Proteins | Functional Genomics | Protein Profiling | N/A | N/A | Protein Interaction Network | Bioinformatic | Protein Expression | Mass Spectrometry
+Epistasis | Gene Interaction | Genetics | Modifier | N/A | N/A | Genetic Interaction | Multifactorial | Phenotypic Variation | Quantitative Trait Loci
+Operon | Genetic Regulatory System | Prokaryotic Gene Expression | Lac | N/A | N/A | Operator Site | Bacterial | Gene Regulation | Inducible Operon
+Telomere | Chromosomal End Protection | Chromosome Stability | Replicative | N/A | N/A | Telomere Binding Protein | Cellular | Senescence Prevention | Telomerase Activation
+RNA Splicing | Transcript Processing | Gene Expression | Alternative | N/A | N/A | Spliceosome Complex | Nuclear | Exon Junction Complex | Splicing Regulation
+CRISPR-Cas9 | Genome Editing System | Genetic Engineering | DNA Targeting | N/A | N/A | Protospacer Adjacent Motif | Bacterial | Gene Knockout | Precision Genome Editing
+Gene Regulation | Control of Gene Expression | Transcriptional Regulation | Regulatory Region | N/A | N/A | Transcriptional Activator | Environmental | Gene Induction | Signal Transduction
+Antisense Oligonucleotide | Synthetic RNA Molecule | Gene Silencing | Therapeutic | N/A | N/A | mRNA Targeting | Pharmaceutical | Genetic Therapy | Antisense Therapy
+DNA Methylation | Epigenetic Modification | Gene Regulation | CpG Island | N/A | N/A | Methyltransferase Enzyme | Environmental | Gene Silencing | Transcriptional Repression
+Bioinformatics | Computational Biology | Genomics | Data Analysis | N/A | N/A | Sequence Alignment | Research | Genome Annotation | Machine Learning
+Gene Therapy | Genetic Medicine | Human Health | Therapeutic | N/A | N/A | Vector Delivery | Clinical | Disease Treatment | Somatic Cell Gene Editing
+Promoter | Gene Regulatory Region | Transcription Initiation | TATA Box | N/A | N/A | Transcription Factor Binding Site | Cellular | Gene Activation | Enhancer-Promoter Communication

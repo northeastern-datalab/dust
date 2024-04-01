@@ -1,0 +1,46 @@
+Hardware | ISA | Compiler | Microarchitecture | Bus | High-Level Language | Processors | Data Encryption | Operating System | Network | Artificial Intelligence | Encoding | Algorithm
+Peripheral | ARM | GCC | Zen 3 | PCIe | Kotlin | Snapdragon | Serpent | Android | NFC | Speech Recognition | UTF-16 | Dynamic Programming
+Network Card | MIPS | Clang | Cascade Lake | InfiniBand | Scala | Threadripper | Blowfish | CentOS | 4G | Gesture Recognition | BSON | Prim's Algorithm
+Monitor | MIPS | LLVM | Turing | HDMI | Swift | Ryzen 9 | AES-192 | Windows | USB 3.1 | Emotion Recognition | YAML | Greedy Algorithms
+SSD | MIPS | GCC | Ryzen Threadripper | NVMe | Python | Core i9 | AES-128 | ChromeOS | Bluetooth 5.0 | Sentiment Analysis | Protocol Buffers | Dijkstra's Algorithm
+Trackpad | SPARC | LLVM | Zen 2 | SATA | Perl | Atom | Twofish | FreeBSD | Zigbee | Object Detection | Base58 | Depth-first Search
+Joystick | ARM | Clang | Zen+ | USB-C | Lua | Ryzen 7 | Camellia | Debian | Zigbee | Gesture Recognition | BSON | A* Algorithm
+Webcam | SPARC | GCC | Zen | Thunderbolt 3 | Ruby | Athlon | Serpent | OpenBSD | Wi-Fi 6 | Facial Recognition | MessagePack | Floyd-Warshall Algorithm
+Speaker | RISC-V | LLVM | Zen 3+ | FireWire | Bash | Xeon Phi | RC5 | Arch Linux | Zigbee | Speech Synthesis | BSON | Kruskal's Algorithm
+Microphone | PowerPC | GCC | Zen 4 | eSATA | Go | Opteron | RC6 | CentOS | 6G | Speaker Recognition | BSON | Bellman-Ford Algorithm
+VR Headset | CISC | Clang | Zen 5 | DisplayPort | Perl | Xeon | Skipjack | Fedora | Zigbee | Gaze Tracking | BSON | Johnson's Algorithm
+Touchscreen | x86 | LLVM | Zen 6 | DVI | Julia | Core i5 | RC6 | Gentoo | NFC | Handwriting Recognition | BSON | Edmonds-Karp Algorithm
+Smartwatch | MIPS | GCC | Zen 7 | VGA | PHP | Core i3 | Serpent | OpenSUSE | Zigbee | Fall Detection | BSON | Hungarian Algorithm
+Scanner | Power ISA | Clang | Zen 8 | Parallel ATA | TypeScript | Athlon XP | MISTY1 | Red Hat | Z-Wave | Object Tracking | BSON | Tarjan's Algorithm
+Gamepad | RISC-V | GCC | Zen 9 | Serial ATA | Ruby | Ryzen 3 | IDEA | Ubuntu | NFC | Gesture Control | BSON | Rabin-Karp Algorithm
+Stylus | UltraSPARC | LLVM | Zen 10 | SCSI | JavaScript | Ryzen 5 | AES | Arch Linux | NFC | Signature Verification | BSON | Boyer-Moore Algorithm
+Bluetooth Headset | ARM | GCC | Zen 11 | SATA | Python | Ryzen 7 | Twofish | Alpine Linux | Bluetooth 4.2 | Voice Recognition | BSON | Euclidean Algorithm
+External Hard Drive | SPARC | Clang | Zen 12 | NVLink | Swift | Xeon Phi | Blowfish | Void Linux | Thunderbolt 4 | Object Recognition | BSON | Gauss-Seidel Algorithm
+USB Hub | CISC | LLVM | Zen 13 | USB 2.0 | Java | Opteron | RC4 | Kali Linux | Wi-Fi Direct | Face Detection | BSON | Depth-limited Search
+Graphics Tablet | x86 | GCC | Zen 14 | USB 3.2 | Perl | Core i7 | IDEA | Lubuntu | Zigbee | Scene Recognition | BSON | Simplex Algorithm
+Barcode Scanner | RISC-V | Clang | Zen 15 | USB 3.0 | Bash | Ryzen 9 | Skipjack | Debian | RFID | Barcode Recognition | BSON | Floyd's Algorithm
+Ethernet Cable | MIPS | LLVM | Zen 16 | Ethernet | Scala | Atom | Serpent | Linux Mint | Ethernet 2.5 | Text Recognition | BSON | Gauss-Jordan Elimination
+Printer Ink | PowerPC | GCC | Zen 17 | USB 4.0 | Go | Ryzen 5 | AES-256 | Fedora | Bluetooth 5.1 | Ink Level Detection | BSON | Quickselect Algorithm
+Wireless Mouse | SPARC | Clang | Zen 18 | Thunderbolt 2 | Python | Opteron | RC5 | Manjaro | Bluetooth 5.2 | Gesture Navigation | BSON | Ant Colony Optimization
+SD Card | CISC | GCC | Zen 19 | USB 3.1 | Ruby | Ryzen 7 | IDEA | CentOS | Zigbee | Object Classification | BSON | Radix Sort
+NFC Tag | x86 | LLVM | Zen 20 | USB 3.0 | Swift | Core i3 | Twofish | MX Linux | Near Field Communication | Tag Recognition | BSON | Merge Sort
+VR Gloves | ARM | Clang | Zen 21 | USB 3.2 | Java | Ryzen 3 | AES-192 | Alpine Linux | Bluetooth 5.3 | Gesture Control | BSON | Bucket Sort
+Wireless Keyboard | RISC-V | GCC | Zen 22 | USB 3.1 Gen 2 | Bash | Xeon Phi | RC6 | Ubuntu | Zigbee | Keystroke Recognition | BSON | Counting Sort
+HDMI Cable | MIPS | LLVM | Zen 23 | HDMI 2.1 | Perl | Opteron | Serpent | Fedora | HDMI-CEC | Video Recognition | BSON | Pigeonhole Sort
+External DVD Drive | SPARC | GCC | Zen 24 | USB 3.1 Gen 1 | Python | Ryzen 5 | IDEA | Manjaro | Bluetooth 5.4 | Optical Disc Recognition | BSON | Cocktail Shaker Sort
+CPU | x86 | GCC | Skylake | HyperTransport | C++ | Pentium | SHA256 | Windows | 802.11ac | Deep Learning | UTF-8 | Sorting 
+RAM | PowerPC | LLVM | Kaby Lake | SCSI | Java | Core i7 | AES-256 | macOS | Ethernet | Robotics | Base64 | Compression
+Motherboard | ARM | Clang | Broadwell | PCI | Python | Ryzen | RC4 | Linux | IPv4 | Machine Learning | HTML | Hashing
+Graphics Card | RISC-V | JIT | Broadcom | SATA | Ruby | Ryzen 5 | RSA | Android | Bluetooth | Natural Language Processing | JSON | Vectorization
+Sound Card | MIPS | Compiler Pass | Coffee Lake | ThunderBolt | Swift | Core i5 | HMAC | iOS | DSL | Genetic Algorithms | XML | Big-O
+Drive | Power ISA | Parsing | Haswell | VMEbus | Go | Athlon | Twofish | ChromeOS | 5G | Computer Vision | URL | Greedy Algorithms
+Power Supply | SPARC | Type Inference | Ice Lake | Fibre Channel | Rust | Athlon XP | Blowfish | Ubuntu | WiMax | Neural Networks | ASCII | Divide and Conquer
+Printer | HyperSPARC | Machine Code Generation | Skylake-X | Firewire | C# | Atom | SHA-1 | Fedora | Modem | Autonomous Vehicles | CSS | Backtracking
+Keyboard | UltraSPARC | Symbol Table | Cannon Lake | USB | PHP | Xeon | 3DES | Raspbian | DSL | Reinforcement Learning | SGML | Algorithmic Complexity
+Mouse | CISC | Lexical Analysis | Nehalem | IDE | JavaScript | Xeon Phi | MARS | ARCOS | LTE | Image Processing | Locale | Topological Sort
+USB | EDVAC | Intermediate Code Generation | Sandy Bridge | ISA | TypeScript | Opteron | IDEA | SUSE | FTTx | Decision Trees | OAuth | Graph Theory
+Monitor | MIPS | GCC | Ivy Bridge | Serial | Swift | Ryzen 7 | MD5 | CentOS | 4G | Pattern Recognition | ASCII | Dijkstra's Algorithm
+Router | ARM | Clang | Comet Lake | Ethernet | Python | Atom | SHA-512 | Debian | 3G | Expert Systems | Base64 | A* Search
+Scanner | SPARC | LLVM | Tiger Lake | InfiniBand | Go | Core i9 | SHA-384 | Red Hat | Bluetooth | Fuzzy Logic | UTF-16 | Floyd-Warshall Algorithm
+Webcam | RISC-V | JIT | Coffee Lake | ThunderBolt | Java | Ryzen 9 | AES-128 | Arch Linux | NFC | Bayesian Networks | Binary | Prim's Algorithm
+Speakers | CISC | Compiler Pass | Zen | PCI Express | Ruby | Athlon 64 | RSA-2048 | OpenSUSE | LTE | Swarm Intelligence | Hexadecimal | Bellman-Ford Algorithm

@@ -1,0 +1,31 @@
+Name  | Clinic | Type  | Date | Time | Experience | Equipment | Specialty    | Cost 
+Snake | D      | Exam  | 7/14 | 9am  | 3 Years    | X-ray    | Veterinarian | $60
+Frog  | E      | Scan  | 8/15 | 10am | 5 Years    | Ultrasound| Dentist      | $80
+Turtle| F      | X-ray | 9/16 | 11am | 2 Years    | Digital  | Surgeon      | $90
+Fish  | G      | Exam  | 10/17| 12pm | 4 Years    | MRI      | Oncologist   | $110
+Hamster| H     | Scan  | 11/18| 1pm  | 6 Years    | X-ray    | Optometrist  | $130
+Guinea Pig| I  | X-ray | 12/19| 2pm  | 8 Years    | Ultrasound| Surgeon    | $140
+Lizard| J      | Exam  | 1/20 | 3pm  | 7 Years    | MRI      | Dentist      | $150
+Monkey| K      | Scan  | 2/21 | 4pm  | 1 Year     | Digital  | Veterinarian | $160
+Kangaroo| L    | Exam  | 3/22 | 5pm  | 10 Years   | Ultrasound| Surgeon    | $170
+Dolphin| M     | Scan  | 4/23 | 6pm  | 3 Years    | MRI      | Oncologist   | $180
+Penguin| N     | X-ray | 5/24 | 7pm  | 6 Years    | X-ray    | Optometrist  | $190
+Elephant| O    | Exam  | 6/25 | 8pm  | 4 Years    | Ultrasound| Dentist    | $200
+Zebra | P      | Scan  | 7/26 | 9am  | 2 Years    | Digital  | Surgeon      | $210
+Giraffe| Q     | X-ray | 8/27 | 10am | 5 Years    | MRI      | Veterinarian | $220
+Rhino | R      | Exam  | 9/28 | 11am | 7 Years    | Ultrasound| Oncologist   | $230
+Panda | S      | Scan  | 10/29| 12pm | 3 Years    | Digital  | Dentist      | $240
+Koala | T      | X-ray | 11/30| 1pm  | 6 Years    | MRI      | Optometrist  | $250
+Tiger | U      | Exam  | 12/31| 2pm  | 8 Years    | Ultrasound| Surgeon      | $260
+Lion  | V      | Scan  | 1/1  | 3pm  | 1 Year     | Digital  | Oncologist   | $270
+Bear  | W      | X-ray | 2/2  | 4pm  | 10 Years   | X-ray    | Veterinarian | $280
+Wolf  | X      | Exam  | 3/3  | 5pm  | 2 Years    | Ultrasound| Dentist      | $290
+Fox   | Y      | Scan  | 4/4  | 6pm  | 5 Years    | MRI      | Surgeon      | $300
+Deer  | Z      | X-ray | 5/5  | 7pm  | 7 Years    | Digital  | Veterinarian | $310
+Ant   | A1     | Exam  | 6/6  | 8pm  | 3 Years    | Ultrasound| Oncologist   | $320
+Bee   | B1     | Scan  | 7/7  | 9am  | 6 Years    | Digital  | Optometrist  | $330
+Butterfly| C1  | X-ray | 8/8  | 10am | 8 Years    | MRI      | Surgeon      | $340
+Ladybug| D1    | Exam  | 9/9  | 11am | 2 Years    | Ultrasound| Dentist      | $350
+Dragonfly| E1  | Scan  | 10/10| 12pm | 5 Years    | Digital  | Veterinarian | $360
+Snail | F1     | X-ray | 11/11| 1pm  | 7 Years    | MRI      | Oncologist   | $370
+Slug  | G1     | Exam  | 12/12| 2pm  | 3 Years    | Ultrasound| Surgeon      | $380

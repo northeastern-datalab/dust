@@ -1,0 +1,3 @@
+algorithm,query_name,|S|,|q|,k,algorithm_distance_function,evaluation_distance_function,with_query_flag,normalized,max_div_score,max-min_div_score,avg_div_score,time_taken_(s),embedding_type
+our,25000.csv,25000,100,100,cosine,n/a,n/a,True,,,,7716.92,roberta
+our,40000.csv,40000,100,100,cosine,n/a,n/a,True,,,,15793.54,roberta

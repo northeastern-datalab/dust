@@ -1,0 +1,35 @@
+Biome | Environment | Latitude | Longitude | Climate | Flora | Fauna | Organic Matter | Abiotic 
+Oceanic | Marine | 0° N | 50° W | Temperate | Kelp | Sharks | Plankton | Saltwater 
+Savanna | Tropical | 15° S | 30° E | Hot | Acacia trees | Lions | Grass | Soil 
+Alpine | Mountainous | 45° N | 10° E | Cold | Alpine plants | Mountain goat | Detritus | Rocks 
+Mangrove | Tropical | 10° N | 70° E | Hot | Mangrove trees | Crab | Detritus | Water 
+Steppe | Temperate | 45° N | 30° E | Dry | Short grass | Pronghorn | Dead leaves | Sand 
+Chaparral | Mediterranean | 35° N | 120° W | Hot | Scrub oak | Coyote | Leaf litter | Soil 
+Boreal Forest | Temperate | 55° N | 100° W | Cold | Spruce trees | Lynx | Leaf litter | Soil 
+Montane Forest | Mountainous | 30° S | 70° E | Cool | Beech trees | Chamois | Decomposed matter | Rocks 
+Estuary | Coastal | 20° N | 90° W | Temperate | Spartina grass | Heron | Organic debris | Mud 
+Atoll | Tropical | 0° | 160° W | Warm | Coconut palms | Clownfish | Coral detritus | Reef 
+Coral Reef | Marine | 10° S | 150° E | Tropical | Coral | Parrotfish | Algae | Calcium carbonate 
+Fjord | Polar | 60° N | 50° E | Cold | Lichen | Arctic fox | Seabird guano | Glacial rock 
+Semi-Arid | Desert | 25° N | 70° W | Hot | Cacti | Roadrunner | Dead plant matter | Sand 
+Temperate Rainforest | Temperate | 50° N | 130° W | Cool | Redwoods | Black bear | Leaf litter | Stream 
+Moorland | Temperate | 50° N | 5° W | Cool | Heather | Red deer | Peat | Granite 
+Subtropical Forest | Tropical | 20° S | 50° E | Warm | Mahogany trees | Macaw | Humus | Limestone 
+Mediterranean Forest | Mediterranean | 40° N | 5° E | Warm | Olive trees | Wild boar | Duff | Clay 
+Algal Bloom | Marine | 30° S | 140° E | Warm | Phytoplankton | Krill | Dead algae | Ocean water 
+Floodplain | Temperate | 30° N | 90° E | Mild | Willow trees | Beaver | Decaying vegetation | Alluvium 
+Salt Marsh | Coastal | 40° N | 70° W | Temperate | Cordgrass | Marsh harrier | Organic sediment | Salt 
+Loess Plateau | Temperate | 35° N | 110° E | Semi-arid | Grasses | Tibetan antelope | Wind-blown soil | Loess 
+Mangrove Swamp | Tropical | 5° S | 80° E | Hot | Avicennia | Mudskipper | Detritus | Brackish water 
+Volcanic Island | Oceanic | 20° S | 150° W | Hot | Lava moss | Giant tortoise | Ash | Volcanic rock 
+Arctic Desert | Arctic | 75° N | 130° W | Cold | Arctic willow | Lemming | Snow | Permafrost 
+Kelp Forest | Marine | 40° S | 150° E | Cold | Giant kelp | Sea otter | Kelp detritus | Seawater 
+Mangrove Estuary | Coastal | 10° S | 60° E | Tropical | Rhizophora | Mud crab | Mangrove detritus | Estuarine water 
+Subarctic Tundra | Arctic | 60° N | 130° W | Cold | Dwarf birch | Caribou | Peat | Glacial till 
+Alpine Tundra | Mountainous | 50° N | 100° E | Cold | Arctic willow | Marmot | Alpine moss | Permafrost 
+Subalpine Meadow | Mountainous | 40° N | 120° E | Cool | Lupine | Mountain goat | Meadow grass | Glacial moraine
+Savannah | Tropical | 10° S | 25° E | Hot | Baobab trees | Giraffe | Grasses | Soil 
+Mediterranean Scrub | Mediterranean | 35° N | 5° E | Warm | Rosemary | Iberian lynx | Fallen leaves | Sandstone 
+Alpine Meadow | Mountainous | 50° N | 110° E | Cold | Alpine grasses | Pika | Moss | Glacial soil 
+Thornscrub | Arid | 20° N | 105° W | Hot | Mesquite | Roadrunner | Dead leaves | Sand 
+Temperate Shrubland | Temperate | 45° N | 20° E | Mild | Sagebrush | Jackrabbit | Leaf litter | Gravel

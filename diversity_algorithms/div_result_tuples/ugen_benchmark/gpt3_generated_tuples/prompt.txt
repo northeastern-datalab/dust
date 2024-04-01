@@ -1,0 +1,5 @@
+Given the following query table: 
+
+{Table}
+
+Generate 30 new tuples that are unionable to the query table. The generated tuples should be non-redundant and diverse with respect to the existing tuples. Return the tuples in pipe separated format as above table.

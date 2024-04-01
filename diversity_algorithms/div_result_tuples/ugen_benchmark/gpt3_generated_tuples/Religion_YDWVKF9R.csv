@@ -1,0 +1,57 @@
+| Religion  | Scripture | Deity   | Places     | Practices   | History  | Description  | Symbol | Language | Founded  | Significance     | School of Thought | Beliefs   |
+| Christianity | Bible    | God     | Jerusalem  | Eucharist   | New Testament | Monotheism  | Cross  | Greek    | 1st Century AD | Salvation through Jesus | Roman Catholicism | 1 God    |
+| Sikhism   | Guru Granth Sahib | Waheguru | Amritsar | Simran      | 15th Century | Monotheism  | Khanda | Punjabi  | Guru Nanak | Equality of all | Sikhism | 1 God    |
+| Taoism    | Tao Te Ching | Tao    | China      | Tai Chi     | Ancient   | Philosophical| Yin-Yang| Chinese  | Pre-4th Century BC | Harmony with Nature | Taoism | No Gods  |
+| Shintoism | Kojiki    | Kami    | Japan      | Kagura      | Ancient  | Animism      | Torii  | Japanese | Ancient   | Connection to Nature | Shintoism | Many Spirits |
+| Jainism   | Agamas    | No      | Varanasi   | Ahimsa      | Ancient  | Nonviolence  | Ahimsa | Prakrit  | Pre-1st Century BC | Liberation of Soul | Digambara | No Gods |
+| Zoroastrianism | Avesta | Ahura Mazda | Iran | Fire Rituals | Ancient | Dualism | Faravahar | Avestan | Pre-6th Century BC | Struggle of Good and Evil | Zoroastrianism | 1 God |
+| Confucianism | Confucian Classics | Tian  | China      | Li          | Ancient  | Ethical      | Junzi  | Chinese  | Pre-5th Century BC | Moral Virtue | Confucianism | No Gods |
+| Wicca     | Book of Shadows | Goddess | Sacred groves | Ritual Magic | 20th Century | Neopaganism | Pentacle | English  | 20th Century | Nature Worship | Wicca | Polytheism |
+| Rastafarianism | Holy Piby | Jah    | Ethiopia   | Nyabingi    | 20th Century | Afrocentrism | Lion   | English  | 20th Century | Unity with Africa | Rastafarianism | Monotheism |
+| Shakers   | Sacred Texts | Mother Ann | United States | Shaking Dance | 18th Century | Communalism | Star   | English  | 18th Century | Celibacy and Equality | Shakers | Monotheism |
+| Baha'i Faith | Kitáb-i-Aqdas | Baha'u'llah | Iran    | Ridván      | 19th Century | Unity of Religion | Nine-pointed Star | Persian | Baha'u'llah | Unity of Mankind | Baha'i Faith | 1 God |
+| Santería  | Odu Ifá   | Orishas | Cuba       | Orisha Worship | 19th Century | Syncretism   | Beads  | Spanish  | 19th Century | Blend of African and Catholicism | Santería | Polytheism |
+| Native American Spirituality | Oral Tradition | Great Spirit | North America | Vision Quest | Ancient | Animism | Medicine Wheel | Various | Ancient | Connection to Land | Native American Spirituality | Many Spirits |
+| Scientology | Dianetics | Xenu    | United States | Auditing    | 20th Century | Self-Help    | E-meter | English  | 20th Century | Mental Health Improvement | Scientology | No Gods |
+| Sufism    | Poetry    | Allah   | Iran       | Sufi Whirling | Early Islamic | Mysticism    | Heart  | Persian  | Early Islamic | Union with the Divine | Sufism | Monotheism |
+| Druidry   | Druidic Texts | Nature Spirits | Britain  | Druidic Rituals | Ancient | Nature Worship | Oak   | Celtic   | Ancient | Connection to Nature | Druidry | Polytheism |
+| Hare Krishna | Bhagavad Gita | Krishna | India    | Kirtan      | 20th Century | Vaishnavism  | Hare   | Sanskrit | 15th Century | Devotion to Krishna | Hare Krishna | Polytheism |
+| Unitarian Universalism | No central scripture | Universal Spirit | United States | Social Justice | 18th Century | Liberal Religion | Flaming Chalice | English | 18th Century | Freedom of Belief | Unitarian Universalism | Various |
+| Eckankar  | Shariyat-Ki-Sugmad | SUGMAD | United States | Soul Travel  | 20th Century | Spiritual Freedom | ECK    | English  | 20th Century | Path to Spiritual Freedom | Eckankar | Monotheism |
+| Falun Gong | Zhuan Falun | Li Hongzhi | China  | Falun Dafa  | 20th Century | Spiritual Discipline | Falun  | Chinese  | 20th Century | Truthfulness, Compassion, Forbearance | Falun Gong | No Gods |
+| Hellenism | Homeric Hymns | Gods   | Greece    | Hellenic Polytheistic Rituals | Ancient | Polytheism   | Olive Wreath | Greek    | Ancient | Worship of Greek Gods | Hellenism | Many Gods |
+| New Age Spirituality | Various | Cosmic Consciousness | Worldwide | Meditation | 20th Century | Holistic Wellness | Om    | Various  | 20th Century | Spiritual Growth | New Age Spirituality | Various |
+| Satanism  | Satanic Bible | Satan   | Various    | Ritual Magic | 20th Century | Individualism | Pentagram | English  | 20th Century | Rejection of Judeo-Christian Values | LaVeyan Satanism | No Gods |
+| Druidry   | Mabinogion | Cernunnos | Ireland | Celtic Rituals | Ancient | Nature Worship | Stag   | Welsh    | Ancient | Celtic Deity | Druidry | Polytheism |
+| Shamanism | Oral Tradition | Spirits | Siberia    | Shamanic Journey | Ancient | Animism      | Drum   | Various  | Ancient   | Connection to Spirits | Shamanism | Many Spirits |
+| Jainism   | No       | No      | Bihar      | Vows       | Ancient  | Nonviolence  | Ahimsa | Prakrit  | Pre-1st Century BC | Liberation of Soul | Svetambara | No Gods |
+| Hare Krishna | Srimad Bhagavatam | Radha Krishna | India | Bhakti Yoga | 15th Century | Vaishnavism | Peacock Feather | Sanskrit | 15th Century | Devotion to Radha-Krishna | Gaudiya Vaishnavism | Polytheism |
+| Christianity | Bible    | God     | Rome   | Eucharist | New Testament | Monotheism | Cross  | Latin    | 1st Century | Salvation through Jesus | Catholicism | 1 God |
+| Sikhism      | Guru Granth Sahib | Waheguru | Punjab | Seva     | 15th Century  | Monotheism | Khanda | Punjabi  | Guru Nanak  | Equality of all religions | Sikhism | 1 God |
+| Taoism       | Tao Te Ching     | Tao    | China  | Meditation | Ancient China | Philosophical | Yin Yang | Chinese  | Laozi      | Harmony with Nature | Taoism | No Gods |
+| Shintoism    | Kojiki           | Kami   | Japan  | Kagura   | Ancient Japan | Polytheism  | Torii  | Japanese | Ancient Times| Connection with Nature | Shinto | Many Gods |
+| Jainism      | Agamas           | Jina   | India  | Ahimsa   | Pre-6th Century | Nonduality | Ahimsa | Prakrit | Mahavira   | Non-violence | Jainism | No Gods |
+| Zoroastrianism | Avesta        | Ahura Mazda | Persia | Fire worship | Ancient Persia | Dualism | Faravahar | Avestan | Zoroaster | Battle between Good and Evil | Zoroastrianism | 1 God |
+| Confucianism | Analects         | Tian   | China  | Filial Piety | Ancient China | Philosophical | Junzi | Chinese | Confucius | Moral rectitude | Confucianism | No Gods |
+| Wicca        | Book of Shadows | God    | Various| Ritual Magic | 20th Century | Polytheism | Pentacle | English | Gerald Gardner | Nature worship | Wicca | Many Gods |
+| Sikhism      | Guru Granth Sahib | Waheguru | Punjab | Seva     | 15th Century  | Monotheism | Khanda | Punjabi  | Guru Nanak  | Equality of all religions | Sikhism | 1 God |
+| Bahá'í       | Kitáb-i-Aqdas     | God     | Iran   | Prayer   | 19th Century | Monotheism | Nine-pointed star | Arabic | Bahá'u'lláh | Unity of Religion | Bahá'í | 1 God |
+| Shintoism    | Kojiki           | Kami   | Japan  | Kagura   | Ancient Japan | Polytheism  | Torii  | Japanese | Ancient Times| Connection with Nature | Shinto | Many Gods |
+| Sikhism      | Guru Granth Sahib | Waheguru | Punjab | Seva     | 15th Century  | Monotheism | Khanda | Punjabi  | Guru Nanak  | Equality of all religions | Sikhism | 1 God |
+| Bahá'í       | Kitáb-i-Aqdas     | God     | Iran   | Prayer   | 19th Century | Monotheism | Nine-pointed star | Arabic | Bahá'u'lláh | Unity of Religion | Bahá'í | 1 God |
+| Sikhism      | Guru Granth Sahib | Waheguru | Punjab | Seva     | 15th Century  | Monotheism | Khanda | Punjabi  | Guru Nanak  | Equality of all religions | Sikhism | 1 God |
+| Shintoism    | Kojiki           | Kami   | Japan  | Kagura   | Ancient Japan | Polytheism  | Torii  | Japanese | Ancient Times| Connection with Nature | Shinto | Many Gods |
+| Jainism      | Agamas           | Jina   | India  | Ahimsa   | Pre-6th Century | Nonduality | Ahimsa | Prakrit | Mahavira   | Non-violence | Jainism | No Gods |
+| Zoroastrianism | Avesta        | Ahura Mazda | Persia | Fire worship | Ancient Persia | Dualism | Faravahar | Avestan | Zoroaster | Battle between Good and Evil | Zoroastrianism | 1 God |
+| Confucianism | Analects         | Tian   | China  | Filial Piety | Ancient China | Philosophical | Junzi | Chinese | Confucius | Moral rectitude | Confucianism | No Gods |
+| Wicca        | Book of Shadows | God    | Various| Ritual Magic | 20th Century | Polytheism | Pentacle | English | Gerald Gardner | Nature worship | Wicca | Many Gods |
+| Sikhism      | Guru Granth Sahib | Waheguru | Punjab | Seva     | 15th Century  | Monotheism | Khanda | Punjabi  | Guru Nanak  | Equality of all religions | Sikhism | 1 God |
+| Bahá'í       | Kitáb-i-Aqdas     | God     | Iran   | Prayer   | 19th Century | Monotheism | Nine-pointed star | Arabic | Bahá'u'lláh | Unity of Religion | Bahá'í | 1 God |
+| Sikhism      | Guru Granth Sahib | Waheguru | Punjab | Seva     | 15th Century  | Monotheism | Khanda | Punjabi  | Guru Nanak  | Equality of all religions | Sikhism | 1 God |
+| Bahá'í       | Kitáb-i-Aqdas     | God     | Iran   | Prayer   | 19th Century | Monotheism | Nine-pointed star | Arabic | Bahá'u'lláh | Unity of Religion | Bahá'í | 1 God |
+| Sikhism      | Guru Granth Sahib | Waheguru | Punjab | Seva     | 15th Century  | Monotheism | Khanda | Punjabi  | Guru Nanak  | Equality of all religions | Sikhism | 1 God |
+| Shintoism    | Kojiki           | Kami   | Japan  | Kagura   | Ancient Japan | Polytheism  | Torii  | Japanese | Ancient Times| Connection with Nature | Shinto | Many Gods |
+| Jainism      | Agamas           | Jina   | India  | Ahimsa   | Pre-6th Century | Nonduality | Ahimsa | Prakrit | Mahavira   | Non-violence | Jainism | No Gods |
+| Zoroastrianism | Avesta        | Ahura Mazda | Persia | Fire worship | Ancient Persia | Dualism | Faravahar | Avestan | Zoroaster | Battle between Good and Evil | Zoroastrianism | 1 God |
+| Confucianism | Analects         | Tian   | China  | Filial Piety | Ancient China | Philosophical | Junzi | Chinese | Confucius | Moral rectitude | Confucianism | No Gods |
+| Wicca        | Book of Shadows | God    | Various| Ritual Magic | 20th Century | Poly

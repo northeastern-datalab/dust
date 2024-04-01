@@ -1,0 +1,31 @@
+Sequence|Gene|Function|Cytogenetic Location|Organism |Nucleotide Accession|Protein Accession |Enzyme Classification |Pathway Class |Tissue/Cell Type |Metabolic Pathway |Subcellular Localization |Reaction Type |Reaction Substrate |Reaction Products
+AAAGGGTTT|HBB|Hemoglobin subunit beta|11p15.5|Homo sapiens|NC_000011.11|NP_000509.4|Oxidoreductases|Metabolism|Red Blood Cells|Amino acid metabolism|Cytoplasm|Transfer|Valine|Histidine
+GGAGCTCTC|TP53|Tumor protein p53|17p13.1|Homo sapiens|NC_000017.11|NP_000537.3|Transferases|Signaling & Regulation|Various|DNA repair|Nucleus|Phosphorylation|Thymine|Cytosine
+CCGGATTAC|EGFR|Epidermal growth factor receptor|7p12.1|Homo sapiens|NC_000007.14|NP_005219.2|Kinases|Signaling & Regulation|Various|Cell proliferation|Cell membrane|Phosphorylation|Aspartate|Glutamate
+TTTAAGGCT|INS|Insulin|11p15.5|Homo sapiens|NC_000011.10|NP_000198.1|Isomerases|Metabolism|Pancreatic beta cells|Glucose metabolism|Cytoplasm|Isomerization|Glucose|Fructose
+AAGCTAGTA|BRCA1|Breast cancer type 1 susceptibility protein|17q21.31|Homo sapiens|NC_000017.11|NP_009225.1|Ligases|DNA repair & Replication|Breast tissue|DNA repair|Nucleus|Ligation|Adenine|Cytosine
+CGGGATACA|TNF|Tumor necrosis factor|6p21.33|Homo sapiens|NC_000006.12|NP_000585.2|Hydrolases|Immune response|Macrophages|Inflammatory response|Cell membrane|Hydrolysis|Proline|Arginine
+AATCGATCG|CFTR|Cystic fibrosis transmembrane conductance regulator|7q31.2|Homo sapiens|NC_000007.14|NP_000483.3|Transporters|Ion transport|Epithelial cells|Chloride transport|Cell membrane|Transport|Chloride|Sodium
+GGGTAAACC|APOE|Apolipoprotein E|19q13.32|Homo sapiens|NC_000019.10|NP_000032.1|Lipases|Lipid metabolism|Various|Cholesterol metabolism|Extracellular|Hydrolysis|Triglyceride|Fatty acid
+CCCCTAATT|PTEN|Phosphatase and tensin homolog|10q23.31|Homo sapiens|NC_000010.11|NP_000305.2|Phosphatases|Signaling & Regulation|Various|Cell cycle regulation|Cytoplasm|Dephosphorylation|Tyrosine|Serine
+TTAGGAGCT|TP63|Tumor protein p63|3q28|Homo sapiens|NC_000003.12|NP_003370.2|Transferases|Signaling & Regulation|Various|Cell differentiation|Nucleus|Acetylation|Histidine|Lysine
+AGGCTAGTA|BRCA2|Breast cancer type 2 susceptibility protein|13q13.1|Homo sapiens|NC_000013.11|NP_000050.2|Ligases|DNA repair & Replication|Breast tissue|DNA repair|Nucleus|Ligation|Thymine|Guanine
+TAATTAAGG|MYC|MYC proto-oncogene|8q24.21|Homo sapiens|NC_000008.11|NP_002458.3|Transcription factors|Gene regulation|Various|Cell growth regulation|Nucleus|Transcription|Adenine|Uracil
+GCTTAAGGA|VEGFA|Vascular endothelial growth factor A|6p21.1|Homo sapiens|NC_000006.12|NP_001025368.1|Hydrolases|Angiogenesis|Endothelial cells|Blood vessel formation|Extracellular|Hydrolysis|Asparagine|Glutamine
+ATTGGGGCC|EGF|Epidermal growth factor|4q25|Homo sapiens|NC_000004.12|NP_001954.1|Ligases|Signaling & Regulation|Various|Cell proliferation|Cell membrane|Ligation|Threonine|Alanine
+TTTAAGGCT|P53|Cellular tumor antigen p53|17p13.1|Homo sapiens|NC_000017.11|NP_000537.3|Transferases|Signaling & Regulation|Various|Cell cycle regulation|Nucleus|Phosphorylation|Guanine|Cytosine
+AGCTCTAGC|KIT|Stem cell growth factor receptor|4q12|Homo sapiens|NC_000004.12|NP_000213.1|Kinases|Signaling & Regulation|Various|Cell growth regulation|Cell membrane|Phosphorylation|Threonine|Tyrosine
+CCCTAATTC|PDGFRA|Platelet-derived growth factor receptor alpha|4q12|Homo sapiens|NC_000004.12|NP_958787.2|Phosphatases|Signaling & Regulation|Various|Cell growth regulation|Cell membrane|Dephosphorylation|Cytosine|Guanine
+CTGGAATCC|ATM|Ataxia telangiectasia mutated|11q22.3|Homo sapiens|NC_000011.10|NP_000042.3|Kinases|Signaling & Regulation|Various|DNA repair|Nucleus|Phosphorylation|Adenine|Thymine
+TAATGGGCA|GAPDH|Glyceraldehyde-3-phosphate dehydrogenase|12p13.31|Homo sapiens|NC_000012.12|NP_002037.2|Isomerases|Metabolism|Various|Glycolysis|Cytoplasm|Isomerization|Glucose|Fructose
+GCGGATTAG|GATA1|GATA-binding factor 1|Xp11.23|Homo sapiens|NC_000023.11|NP_002043.2|Transcription factors|Gene regulation|Various|Hematopoiesis|Nucleus|Transcription|Thymine|Adenine
+GGCTTAGGA|IL6R|Interleukin-6 receptor|1q21.3|Homo sapiens|NC_000001.11|NP_000556.1|Receptors|Signaling & Regulation|Immune cells|Immune response|Cell membrane|Binding|Cytosine|Thymine
+AGGCTTAAG|PTGS2|Prostaglandin-endoperoxide synthase 2|1q25.2|Homo sapiens|NC_000001.11|NP_000963.1|Isomerases|Signaling & Regulation|Various|Inflammation response|Endoplasmic reticulum|Isomerization|Arachidonic acid|Prostaglandin H2
+TAAGGCTTA|IL1B|Interleukin-1 beta|2q14.1|Homo sapiens|NC_000002.12|NP_000567.1|Hydrolases|Immune response|Macrophages|Inflammatory response|Extracellular|Hydrolysis|Aspartate|Glutamate
+CCTAAGGCT|TNFRSF1A|Tumor necrosis factor receptor superfamily member 1A|12p13.31|Homo sapiens|NC_000012.12|NP_001057.2|Receptors|Signaling & Regulation|Various|Apoptosis regulation|Cell membrane|Binding|Cytosine|Thymine
+GTTAGGCTA|CXCL8|C-X-C motif chemokine ligand 8|4q13.3|Homo sapiens|NC_000004.12|NP_000575.1|Ligases|Immune response|Various|Chemotaxis|Extracellular|Ligation|Guanine|Cytosine
+TCTAAGGCT|IL10|Interleukin-10|1q32.1|Homo sapiens|NC_000001.11|NP_000563.2|Hydrolases|Immune response|T lymphocytes|Anti-inflammatory response|Extracellular|Hydrolysis|Asparagine|Glutamine
+AGGCTTAAA|CDKN1A|Cyclin-dependent kinase inhibitor 1A|6p21.2|Homo sapiens|NC_000006.12|NP_000385.2|Kinases|Cell cycle regulation|Various|Cell cycle arrest|Nucleus|Phosphorylation|Thymine|Cytosine
+GGCTTAAGG|IL4|Interleukin-4|5q31.1|Homo sapiens|NC_000005.10|NP_000580.1|Hydrolases|Immune response|T lymphocytes|Anti-inflammatory response|Extracellular|Hydrolysis|Aspartate|Glutamate
+TGGCTAAGG|IL12B|Interleukin-12 subunit beta|5q31.1|Homo sapiens|NC_000005.10|NP_000873.1|Hydrolases|Immune response|Monocytes|Inflammatory response|Extracellular|Hydrolysis|Alanine|Valine
+CTGGCTAAG|IL2|Interleukin-2|4q27|Homo sapiens|NC_000004.12|NP_000577.1|Hydrolases|Immune response|T lymphocytes|Proliferation|Extracellular|Hydrolysis|Alanine|Glycine

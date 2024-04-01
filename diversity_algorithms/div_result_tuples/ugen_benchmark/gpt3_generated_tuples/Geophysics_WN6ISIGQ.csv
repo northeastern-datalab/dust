@@ -1,0 +1,35 @@
+Chronostratigraphic | Lithologic       | Online    | Geomagnetic   | Production   | Reflection  | Electrical   | Stratigraphic  | Structural  | Chemical    | Biostratigraphic  | Seismic     | Reservoir      |
+Eocene | Dolomite | Faultline | Gravimetry | Depth | Signatures | Electrofacies | Group | Faults | Isotopes | Zone | Attenuation | Anisotropy
+Paleogene | Conglomerate | Dome | Magnetics | Oil & Gas | Seismic Attributes | Petrophysics | Series | Anticlines | Geochemistry | Member | Waveform | Petrophysical Properties
+Neogene | Marl | Rift | Polarization | Water | Seismic Reflection | Dielectric | Formation | Thrusts | Mineralogy | Epoch | Amplitude | Fluid Flow
+Miocene | Chalk | Basin | Anomalies | Geothermal | Amplitude Variation | Petrography | Subgroup | Thrust Faults | Organic Matter | Subzone | Wavelet | Porosity
+Oligocene | Evaporites | Graben | Dynamics | Geopressure | Velocity Modeling | Spectroscopy | Supergroup | Normal Faults | Sedimentology | Class | Dip | Fluid Contacts
+Pliocene | Halite | Swell | Inversion | Permeability | Wavelet Analysis | Resistivity Logging | Interval | Transform Faults | Elemental Composition | Bed | Frequency | Porosity Permeability
+Devonian | Gypsum | Dome | Intensity | Synthetics | AVO Analysis | Dielectric Logging | Subformation | Fold Axes | Sedimentary Facies | Interval | Reflection Coefficients | Lithofacies
+Silurian | Lignite | Foreland | Magnetization | Wind | Seismic Tomography | Spectral Decomposition | Parasequence | Thrust Faults | Organic Geochemistry | Parasequence Set | Waveform Analysis | Diagenesis
+Carboniferous | Quartzite | Archipelago | Pattern | Surface | Seismic Stratigraphy | Rock Physics | Interval | Anticlines | Carbonate Diagenesis | Formation | Coherence | Permeability Heterogeneity
+Pennsylvanian | Phyllite | Shelf | Refraction | Seawater | VSP Data | Sonic Log | Sequence | Synclines | Inorganic Geochemistry | Member | Frequency Content | Pressure Data
+Mississippian | Serpentinite | Trough | Refraction | Carbon Dioxide | Full Waveform Inversion | Core Analysis | Member | Overthrusts | Isotopic Composition | Formation | Spectral Attributes | Reservoir Quality
+Devonian-Carboniferous | Slate | Basin | Magnetites | Subsidence | Stratigraphic Inversion | Nuclear Magnetic Resonance | Group | Tectonic Events | Pore Geometry | Sequence | Seismic Amplitude | Pore Pressure
+Ordovician-Silurian | Travertine | Archipelago | Variation | Subsurface | Sedimentological Analysis | Nuclear Magnetic Logging | Class | Folding | Elemental Analysis | Member | Shear Wave Splitting | Fracture Density
+Triassic-Jurassic | Limestone | Shelf | Variation | Subsidence | Hydrocarbon Potential | Dielectric Properties | Formation | Fault Blocks | Petrographic Analysis | Zone | Reflection Coefficients | Hydrocarbon Saturation
+Jurassic-Cretaceous | Mudstone | Foreland | Magnetization | Geodynamic Modeling | Petrophysical Analysis | Electrofacies | Group | Anticlines | Organic Petrology | Member | Lithofacies | Fluid Distribution
+Cretaceous-Paleogene | Gneiss | Trough | Inversion | Sedimentology | Seismic Inversion | Dielectric Properties | Interval | Diapirism | Elemental Isotopes | Bed | Seismic Facies | Fracture Connectivity
+Paleogene-Neogene | Limestone | Platform | Dynamics | Thermal Conductivity | Seismic Attributes | Well Logging | Sequence | Domes | Organic Matter | Zone | Waveform Analysis | Rock Properties
+Neogene-Quaternary | Marl | Basin | Anomalies | Carbon Dioxide | Full Waveform Inversion | Nuclear Magnetic Resonance | Member | Thrust Faults | Mineralogy | Interval | Seismic Interpretation | Porosity Heterogeneity
+Quaternary | Conglomerate | Rift | Polarization | Subsidence | Seismic Tomography | Spectral Decomposition | Subgroup | Faults | Organic Geochemistry | Subzone | Waveform Analysis | Diagenesis
+Precambrian | Granite | Dome | Intensity | Synthetics | AVO Analysis | Dielectric Logging | Group | Folds | Sedimentary Facies | Epoch | Reflection Coefficients | Lithofacies
+Archean | Schist | Foreland | Magnetization | Wind | Seismic Tomography | Spectral Decomposition | Formation | Thrust Faults | Organic Geochemistry | Parasequence Set | Waveform Analysis | Diagenesis
+Proterozoic | Sandstone | Rift | Variation | Subsurface | Sedimentological Analysis | Nuclear Magnetic Logging | Subgroup | Folding | Elemental Analysis | Member | Shear Wave Splitting | Fracture Density
+Phanerozoic | Shale | Shelf | Variation | Subsidence | Hydrocarbon Potential | Dielectric Properties | Formation | Fault Blocks | Petrographic Analysis | Zone | Reflection Coefficients | Hydrocarbon Saturation
+Paleozoic-Mesozoic | Quartzite | Foreland | Magnetization | Geodynamic Modeling | Petrophysical Analysis | Electrofacies | Group | Anticlines | Organic Petrology | Member | Lithofacies | Fluid Distribution
+Mesozoic-Cenozoic | Breccia | Trough | Inversion | Sedimentology | Seismic Inversion | Dielectric Properties | Interval | Diapirism | Elemental Isotopes | Bed | Seismic Facies | Fracture Connectivity
+Cenozoic-Present | Gneiss | Basin | Anomalies | Carbon Dioxide | Full Waveform Inversion | Nuclear Magnetic Resonance | Member | Thrust Faults | Mineralogy | Interval | Seismic Interpretation | Porosity Heterogeneity
+Precambrian-Archean | Sandstone | Basin | Polarization | Geothermal Gradient | Seismic Attributes | Well Logging | Sequence | Folds | Mineralogy | Subzone | Seismic Interpretation | Rock Properties
+Archean-Proterozoic | Granite | Rift | Dynamics | Thermal Conductivity | Seismic Reflection | Petrophysics | Subgroup | Normal Faults | Sedimentology | Class | Dip | Fluid Contacts
+Proterozoic-Phanerozoic | Schist | Swell | Inversion | Permeability | Wavelet Analysis | Resistivity Logging | Formation | Thrusts | Organic Matter | Zone | Amplitude | Porosity
+Phanerozoic-Paleozoic | Limestone | Archipelago | Anomalies | Water | Seismic Reflection | Dielectric | Group | Faults | Isotopes | Epoch | Reflection Coefficients | Anisotropy
+Paleozoic-Mesozoic | Sandstone | Rift | Intensity | Synthetics | AVO Analysis | Dielectric Logging | Subgroup | Folds | Sedimentary Facies | Member | Attenuation | Lithofacies
+Mesozoic-Cenozoic | Breccia | Foreland | Magnetization | Wind | Seismic Tomography | Spectral Decomposition | Formation | Thrusts | Organic Geochemistry | Zone | Waveform Analysis | Fluid Distribution
+Cenozoic-Present | Shale | Trough | Pattern | Surface | Seismic Stratigraphy | Rock Physics | Interval | Anticlines | Carbonate Diagenesis | Bed | Coherence | Permeability Heterogeneity
+Present | Mudstone | Shelf | Refraction | Seawater | VSP Data | Sonic Log | Parasequence | Synclines | Inorganic Geochemistry | Member | Pressure Data | Fracture Density
