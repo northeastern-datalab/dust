@@ -43,12 +43,14 @@ Unionable table search techniques input a query table from the user and search f
 
 ## Fine-tuned model
 
-The fine-tuned DUST models are available at: . Please download them and upload to out_model folder under respective subfolders based on the models.
+The fine-tuned DUST models are available at this [link](https://drive.google.com/drive/folders/15xrVhCN68nfurz2nLeyRNJAGh4ABeckh?usp=sharing). Please download them and upload to out_model folder under respective benchmark's subfolders.
 
 ## Reproducibility
 
 1. CD to the repo.
 
-2. To finetune DUST model, run preprocess_finetune.py with necessary parameters.
+2. To run column alignment experiments, run preprocess_align.py file by updating the parameters.
 
-3. To run diversity algorithm, CD to diversity_algorithms and run main.py with necessary parameters.
+2. To finetune DUST model, run preprocess_finetune.py file by updating the parameters.
+
+3. To run diversity algorithm, CD to diversity_algorithms and run main.py by updating the parameters.
