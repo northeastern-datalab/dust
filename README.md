@@ -2,8 +2,6 @@
 
 This repository contains the implementation codes for paper: Diverse Unionable Tuple Search, currently under submission. 
 
-Authors: Aamod Khatiwada, Roee Shraga and Renée J. Miller
-
 ![dust blockdiagram](dust.jpg)*Block Diagram of DUST System*
 
 ## Abstract
