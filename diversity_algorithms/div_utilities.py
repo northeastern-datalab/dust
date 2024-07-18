@@ -12,6 +12,8 @@ from sklearn.metrics import pairwise_distances
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 import time
+from scipy.spatial.distance import cosine
+
 
 def debug_dict(dictionary, k, name = "Dictionary"):
     k = min(k, len(dictionary))
@@ -668,9 +670,29 @@ def cluster_tuples(embedding_dict, q_dict , k, method = "bkmeans", metric = "l2"
         return R, cluster_plot
 
 
+def prune_candidate_tuples(embedding_dict, s_dict_max):
+    # Extract the embeddings from the dictionary
+    embeddings = np.array([embedding for embedding in embedding_dict.values()])
+    
+    # Compute the mean embedding
+    mean_embedding = np.mean(embeddings, axis=0)
+    
+    # Compute the cosine distance for each key's embedding from the mean embedding
+    cosine_distances = {key: cosine(embedding, mean_embedding) for key, embedding in embedding_dict.items()}
+    
+    # Sort the keys based on their cosine distance, furthest first
+    sorted_cosine_distances = sorted(cosine_distances.items(), key=lambda item: item[1], reverse=True)
+    # Get the top s_dict_max keys
+    top_keys = [item[0] for item in sorted_cosine_distances[:s_dict_max]]
+    
+    # Create a dictionary for the top s_dict_max embeddings
+    top_cosine_distances_dict = {key: embedding_dict[key] for key in top_keys}
+    # Return the top s_dict_max tuples
+    return top_cosine_distances_dict
 
-def our_algorithm(embedding_dict, query_dict, k, method = "bkmeans", metric = "l2", lmda = 0.7, strategy = "average", linkage = "average", print_results = False, normalize = False, max_metric = True, compute_metric = True):
+def our_algorithm(embedding_dict, query_dict, k, method = "bkmeans", metric = "l2", lmda = 0.7, strategy = "min", linkage = "average", print_results = False, normalize = False, max_metric = True, compute_metric = True, s_dict_max = 2500):
     start_time = time.time_ns()
+    embedding_dict = prune_candidate_tuples(embedding_dict, s_dict_max)
     q = np.mean(list(query_dict.values()), axis=0)
     k_dash = min(len(embedding_dict), 2 * k)  # Number of clusters
     print("K dash = ", k_dash)
@@ -704,6 +726,7 @@ def our_algorithm(embedding_dict, query_dict, k, method = "bkmeans", metric = "l
     # Sort the list of pairs based on the selected strategy
     sorted_pairs = sorted(key_value_pairs, key=lambda x: x[1], reverse=rev)
     # Extract the sorted keys
+    
     sorted_avg_keys = [pair[0] for pair in sorted_pairs][:k]
     end_time = time.time_ns()
     total_time = round(int(end_time - start_time) / 10 ** 9, 2)

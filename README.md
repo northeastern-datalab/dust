@@ -41,10 +41,6 @@ Unionable table search techniques input a query table from the user and search f
    pip install -r requirements.txt
    ```
 
-## Fine-tuned model
-
-The fine-tuned DUST models are available at this [link](https://drive.google.com/drive/folders/15xrVhCN68nfurz2nLeyRNJAGh4ABeckh?usp=sharing). Please download them and upload to out_model folder under respective benchmark's subfolders.
-
 ## Reproducibility
 
 1. CD to the repo.

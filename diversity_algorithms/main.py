@@ -109,7 +109,10 @@ def RunDiversityAlgorithms(S_dict, q_dict, algorithm, query_name, k, metric, nor
     if "our" in algorithm  or "all" in algorithm:
         print(f"Using Our method.")
         current_algorithm = "our"
-        our_results, our_metrics, our_embedding_plot, our_cluster_plot = div_utl.our_algorithm(embedding_dict = copy.deepcopy(S_dict), query_dict = copy.deepcopy(q_dict), k = k, method = "hierarchical", metric = metric, linkage="average", lmda = 0.7, strategy = "min", normalize=normalize, max_metric=max_metric, compute_metric = compute_metric)
+        s_dict_max = 10000 # remember to handle this parameter
+        # reduce the size of dictionary to s_dict_max.
+
+        our_results, our_metrics, our_embedding_plot, our_cluster_plot = div_utl.our_algorithm(embedding_dict = copy.deepcopy(S_dict), query_dict = copy.deepcopy(q_dict), k = k, method = "hierarchical", metric = metric, linkage="average", lmda = 0.7, strategy = "min", normalize=normalize, max_metric=max_metric, compute_metric = compute_metric, s_dict_max= s_dict_max)
         diversified_tuples[current_algorithm] = our_results
         if compute_metric == True:
             our_embedding_plot.title(f'{metric.capitalize()} distance PCA Embeddings of {query_name} result by Our algorithm')
@@ -128,17 +131,17 @@ def RunDiversityAlgorithms(S_dict, q_dict, algorithm, query_name, k, metric, nor
     #stats_df.to_csv(stats_df_path, index = False)
 run_sample = "regular"  # {"sample", "efficiency_s", "efficiency_s", "efficiency_large", "regular"}
 # query_name = r"sample_query.csv"
-benchmark_name = r"ugen_benchmark" #will be the name of stat file
+benchmark_name = r"labeled_benchmark" #will be the name of stat file
 if run_sample == "efficiency_k" or run_sample == "efficiency_s":
     benchmark_name = r"efficiency_benchmark"
 if run_sample == "efficiency_large":
     benchmark_name = r"efficiency_large_benchmark"
-k = 30 #30
+k = 100 #30
 lmda = 0.7
 # algorithm = {"all"} # gmc, gne, clt, our, all
-s_dict_max = 2500
+s_dict_max = 10000
 q_dict_max = 100
-algorithm =  {"gmc", "clt", "our"} # {"all"} 
+algorithm =  {"gmc", "clt"} # {"all"} 
 algorithm = {"our"}
 metric = "cosine" # cosine, l1, l2
 embedding_type = "dust"
@@ -146,12 +149,13 @@ eplot_folder_path = r"div_plots" + os.sep + "embedding_plots" + os.sep
 cplot_folder_path = r"div_plots" + os.sep + "cluster_plots" + os.sep 
 result_folder_path = r"div_result_tables" + os.sep
 algorithm_text = "_".join(algorithm)
+algorithm_text += "unpruned"
 stats_df_path = r"final_stats" + os.sep + benchmark_name + "__" + metric + "__" + embedding_type + "__" + algorithm_text + ".csv"
 normalize = True
 max_metric = False
 compute_metric = True
 full_dust = False
-save_results = False
+save_results = True
 allowed_algorithms = {"all", "gmc", "gne", "clt", "our_base", "our"}
 # div_result_path = r"div_result_tables" + os.sep + benchmark_name + os.sep + metric + os.sep + embedding_type + os.sep
 div_result_path = os.path.join(r"div_result_tables", benchmark_name, metric, embedding_type)
@@ -356,12 +360,14 @@ else:
                 for tup in serialized_tuples:
                     dl_tuple_dict[tuple_id] = tup
                     tuple_id += 1
-            if len(dl_tuple_dict) > s_dict_max:
+            if len(dl_tuple_dict) > s_dict_max: #and "our" not in algorithm: # We select random S tuples for the baselines as they do not scale for larger S.
                 random.seed(random_seed)
-                sampled_keys = random.sample(dl_tuple_dict.keys(), s_dict_max)
-                sampled_dict = {key: dl_tuple_dict[key] for key in sampled_keys}
-                dl_tuple_dict = sampled_dict
-
+                try:
+                    sampled_keys = random.sample(dl_tuple_dict.keys(), s_dict_max)
+                    sampled_dict = {key: dl_tuple_dict[key] for key in sampled_keys}
+                    dl_tuple_dict = sampled_dict
+                except Exception as e:
+                    print("sampling did not work. less than: ", e)
             S_dict = utl.EmbedTuples(list(dl_tuple_dict.values()), model, embedding_type,tokenizer, 1000)
             S_dict = dict(zip(list(dl_tuple_dict.keys()), S_dict))
             print("Total data lake tuples:", len(dl_tuple_dict))
