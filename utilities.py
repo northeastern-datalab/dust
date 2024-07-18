@@ -168,6 +168,7 @@ def encode_finetuned(sentences, model, tokenizer):
     # print("embeddings numpy:", len(embeddings), type(embeddings))
     # print("average embeddings len:", len(np.mean(embeddings, axis = 0)))
     # sys.exit()
+    del sentences
     return embeddings
 
 # visualize the results.
