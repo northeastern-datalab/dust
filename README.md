@@ -2,6 +2,8 @@
 
 This repository contains the implementation codes for paper: Diverse Unionable Tuple Search, currently under submission. 
 
+Authors: Aamod Khatiwada, Roee Shraga and Renée J. Miller
+
 ![dust blockdiagram](dust.jpg)*Block Diagram of DUST System*
 
 ## Abstract
@@ -38,6 +40,10 @@ Unionable table search techniques input a query table from the user and search f
    ```
    pip install -r requirements.txt
    ```
+
+## Fine-tuned model
+
+All the fine-tuned DUST models are available at this [link](https://drive.google.com/drive/folders/15xrVhCN68nfurz2nLeyRNJAGh4ABeckh?usp=sharing). Please download them and upload to out_model folder under respective benchmark's subfolders.
 
 ## Reproducibility
 

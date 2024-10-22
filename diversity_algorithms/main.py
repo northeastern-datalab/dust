@@ -131,12 +131,12 @@ def RunDiversityAlgorithms(S_dict, q_dict, algorithm, query_name, k, metric, nor
     #stats_df.to_csv(stats_df_path, index = False)
 run_sample = "regular"  # {"sample", "efficiency_s", "efficiency_s", "efficiency_large", "regular"}
 # query_name = r"sample_query.csv"
-benchmark_name = r"labeled_benchmark" #will be the name of stat file
+benchmark_name = r"ugen_benchmark" #will be the name of stat file
 if run_sample == "efficiency_k" or run_sample == "efficiency_s":
     benchmark_name = r"efficiency_benchmark"
 if run_sample == "efficiency_large":
     benchmark_name = r"efficiency_large_benchmark"
-k = 100 #30
+k = 30 #30 or 100
 lmda = 0.7
 # algorithm = {"all"} # gmc, gne, clt, our, all
 s_dict_max = 10000
@@ -144,12 +144,12 @@ q_dict_max = 100
 algorithm =  {"gmc", "clt"} # {"all"} 
 algorithm = {"our"}
 metric = "cosine" # cosine, l1, l2
-embedding_type = "dust"
+embedding_type = "roberta"
 eplot_folder_path = r"div_plots" + os.sep + "embedding_plots" + os.sep 
 cplot_folder_path = r"div_plots" + os.sep + "cluster_plots" + os.sep 
 result_folder_path = r"div_result_tables" + os.sep
 algorithm_text = "_".join(algorithm)
-algorithm_text += "unpruned"
+# algorithm_text += "unpruned"
 stats_df_path = r"final_stats" + os.sep + benchmark_name + "__" + metric + "__" + embedding_type + "__" + algorithm_text + ".csv"
 normalize = True
 max_metric = False
