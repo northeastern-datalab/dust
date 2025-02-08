@@ -1,0 +1,4 @@
+algorithm,query_name,|S|,|q|,k,algorithm_distance_function,evaluation_distance_function,with_query_flag,normalized,max_div_score,max-min_div_score,avg_div_score,time_taken_(s),embedding_type
+our,query_table.csv,2044,98,500,cosine,cosine,yes,True,,0.0001691877841949463,0.13563485164716257,51.69,dust
+our,query_table.csv,2044,98,500,cosine,cosine,no,True,,0.00028643012046813965,0.14233815175418157,51.69,dust
+our,query_table.csv,2044,98,500,cosine,cosine,mix,True,,0.00028643012046813965,0.13679109348317728,51.69,dust
