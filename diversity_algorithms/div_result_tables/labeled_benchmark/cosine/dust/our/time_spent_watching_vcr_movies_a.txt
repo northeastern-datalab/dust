@@ -1,0 +1,100 @@
+[CLS] GEO  Ireland [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  13 years [SEP] Activity  Play computer games [SEP]
+[CLS] DGUID  nan [SEP] Activity  Play computer games [SEP] Time spent  1 to 3 hours [SEP] UOM  Percent [SEP] UOM_ID  239 [SEP] SCALAR_FACTOR  units [SEP]
+[CLS] GEO  Germany [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  13 years [SEP] Activity  Watch VCR movies [SEP]
+[CLS] GEO  Canada [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  11 years [SEP] Activity  Watch VCR movies [SEP]
+[CLS] Sex  Females [SEP] Age group  13 years [SEP] Activity  Watch VCR movies [SEP] Time spent  10 hours or more [SEP] UOM  Percent [SEP]
+[CLS] GEO  Finland [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  13 years [SEP] Activity  Watch VCR movies [SEP]
+[CLS] Sex  Females [SEP] Age group  11 years [SEP] Activity  Play computer games [SEP] Time spent  4 to 6 hours [SEP] UOM  Percent [SEP]
+[CLS] DGUID  nan [SEP] Activity  Watch VCR movies [SEP] Time spent  10 hours or more [SEP] UOM  Percent [SEP] UOM_ID  239 [SEP] SCALAR_FACTOR  units [SEP]
+[CLS] GEO  Belgium (Flemish speaking) [SEP] DGUID  nan [SEP] Sex  Males [SEP] Age group  11 years [SEP] Activity  Watch VCR movies [SEP]
+[CLS] DGUID  nan [SEP] Activity  Watch VCR movies [SEP] Time spent  Less than 1 hour [SEP] UOM  Percent [SEP] UOM_ID  239 [SEP] SCALAR_FACTOR  units [SEP]
+[CLS] ï»¿"REF_DATE"  1994 [SEP] Age group  15 years [SEP] Activity  Watch VCR movies [SEP] Time spent  4 to 6 hours [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] GEO  Wales [SEP] Activity  Watch VCR movies [SEP] Time spent  7 to 9 hours [SEP] UOM  Percent [SEP]
+[CLS] ï»¿"REF_DATE"  1994 [SEP] Age group  11 years [SEP] Activity  Play computer games [SEP] Time spent  4 to 6 hours [SEP]
+[CLS] GEO  Greenland [SEP] DGUID  nan [SEP] Sex  Males [SEP] Age group  11 years [SEP] Activity  Watch VCR movies [SEP]
+[CLS] Sex  Males [SEP] Age group  11 years [SEP] Activity  Watch VCR movies [SEP] Time spent  10 hours or more [SEP] UOM  Percent [SEP]
+[CLS] Sex  Males [SEP] Age group  15 years [SEP] Activity  Play computer games [SEP] Time spent  10 hours or more [SEP] UOM  Percent [SEP]
+[CLS] ï»¿"REF_DATE"  1994 [SEP] GEO  Northern Ireland [SEP] Activity  Watch VCR movies [SEP] Time spent  Less than 1 hour [SEP] UOM  Percent [SEP]
+[CLS] GEO  Russia [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  11 years [SEP] Activity  Watch VCR movies [SEP]
+[CLS] GEO  Belgium (Flemish speaking) [SEP] DGUID  nan [SEP] Sex  Males [SEP] Age group  13 years [SEP] Activity  Play computer games [SEP]
+[CLS] ï»¿"REF_DATE"  1994 [SEP] GEO  Israel [SEP] Activity  Watch VCR movies [SEP] Time spent  Less than 1 hour [SEP] UOM  Percent [SEP]
+[CLS] ï»¿"REF_DATE"  1990 [SEP] GEO  Wales [SEP] Activity  Watch VCR movies [SEP] Time spent  Not at all [SEP] UOM  Percent [SEP]
+[CLS] GEO  Austria [SEP] DGUID  nan [SEP] Sex  Males [SEP] Age group  13 years [SEP] Activity  Watch VCR movies [SEP]
+[CLS] DGUID  nan [SEP] Activity  Play computer games [SEP] Time spent  10 hours or more [SEP] UOM  Percent [SEP] UOM_ID  239 [SEP] SCALAR_FACTOR  units [SEP]
+[CLS] DGUID  nan [SEP] Activity  Play computer games [SEP] Time spent  Not at all [SEP] UOM  Percent [SEP] UOM_ID  239 [SEP] SCALAR_FACTOR  units [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] GEO  Belgium (French speaking) [SEP] Activity  Play computer games [SEP] Time spent  4 to 6 hours [SEP] UOM  Percent [SEP]
+[CLS] GEO  Czech Republic [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  13 years [SEP] Activity  Play computer games [SEP]
+[CLS] GEO  Germany [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  13 years [SEP] Activity  Play computer games [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] GEO  Belgium (Flemish speaking) [SEP] Activity  Watch VCR movies [SEP] Time spent  Not at all [SEP] UOM  Percent [SEP]
+[CLS] GEO  United States [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  15 years [SEP] Activity  Watch VCR movies [SEP]
+[CLS] Sex  Males [SEP] Age group  13 years [SEP] Activity  Play computer games [SEP] Time spent  4 to 6 hours [SEP] UOM  Percent [SEP]
+[CLS] GEO  Belgium [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  11 years [SEP] Activity  Watch VCR movies [SEP]
+[CLS] DGUID  nan [SEP] Activity  Watch VCR movies [SEP] Time spent  10 hours or more [SEP] UOM  Percent [SEP] UOM_ID  239 [SEP] SCALAR_FACTOR  units [SEP]
+[CLS] GEO  Estonia [SEP] DGUID  nan [SEP] Sex  Males [SEP] Age group  13 years [SEP] Activity  Play computer games [SEP]
+[CLS] DGUID  nan [SEP] Activity  Play computer games [SEP] Time spent  7 to 9 hours [SEP] UOM  Percent [SEP] UOM_ID  239 [SEP] SCALAR_FACTOR  units [SEP]
+[CLS] DGUID  nan [SEP] Activity  Play computer games [SEP] Time spent  7 to 9 hours [SEP] UOM  Percent [SEP] UOM_ID  239 [SEP] SCALAR_FACTOR  units [SEP]
+[CLS] ï»¿"REF_DATE"  1990 [SEP] GEO  Scotland [SEP] Activity  Watch VCR movies [SEP] Time spent  7 to 9 hours [SEP] UOM  Percent [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Age group  15 years [SEP] Activity  Watch VCR movies [SEP] Time spent  7 to 9 hours [SEP]
+[CLS] Sex  Males [SEP] Age group  13 years [SEP] Activity  Play computer games [SEP] Time spent  10 hours or more [SEP] UOM  Percent [SEP]
+[CLS] DGUID  nan [SEP] Activity  Watch VCR movies [SEP] Time spent  Less than 1 hour [SEP] UOM  Percent [SEP] UOM_ID  239 [SEP] SCALAR_FACTOR  units [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] GEO  Belgium (French speaking) [SEP] Activity  Watch VCR movies [SEP] Time spent  Less than 1 hour [SEP] UOM  Percent [SEP]
+[CLS] Sex  Females [SEP] Age group  13 years [SEP] Activity  Play computer games [SEP] Time spent  10 hours or more [SEP] UOM  Percent [SEP]
+[CLS] DGUID  nan [SEP] Activity  Play computer games [SEP] Time spent  Less than 1 hour [SEP] UOM  Percent [SEP] UOM_ID  239 [SEP] SCALAR_FACTOR  units [SEP]
+[CLS] ï»¿"REF_DATE"  1994 [SEP] GEO  Russia [SEP] Activity  Play computer games [SEP] Time spent  Less than 1 hour [SEP] UOM  Percent [SEP]
+[CLS] Sex  Females [SEP] Age group  11 years [SEP] Activity  Watch VCR movies [SEP] Time spent  Less than 1 hour [SEP] UOM  Percent [SEP]
+[CLS] DGUID  nan [SEP] Activity  Watch VCR movies [SEP] Time spent  10 hours or more [SEP] UOM  Percent [SEP] UOM_ID  239 [SEP] SCALAR_FACTOR  units [SEP]
+[CLS] GEO  Canada [SEP] DGUID  nan [SEP] Sex  Males [SEP] Age group  13 years [SEP] Activity  Watch VCR movies [SEP]
+[CLS] DGUID  nan [SEP] Activity  Play computer games [SEP] Time spent  Not at all [SEP] UOM  Percent [SEP] UOM_ID  239 [SEP] SCALAR_FACTOR  units [SEP]
+[CLS] Sex  Males [SEP] Age group  11 years [SEP] Activity  Play computer games [SEP] Time spent  Less than 1 hour [SEP] UOM  Percent [SEP]
+[CLS] GEO  Belgium (French speaking) [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  15 years [SEP] Activity  Watch VCR movies [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Age group  11 years [SEP] Activity  Watch VCR movies [SEP] Time spent  1 to 3 hours [SEP]
+[CLS] Sex  Males [SEP] Age group  13 years [SEP] Activity  Watch VCR movies [SEP] Time spent  4 to 6 hours [SEP] UOM  Percent [SEP]
+[CLS] GEO  Poland [SEP] DGUID  nan [SEP] Sex  Males [SEP] Age group  11 years [SEP] Activity  Play computer games [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] GEO  United States [SEP] Activity  Watch VCR movies [SEP] Time spent  4 to 6 hours [SEP] UOM  Percent [SEP]
+[CLS] Sex  Females [SEP] Age group  15 years [SEP] Activity  Watch VCR movies [SEP] Time spent  10 hours or more [SEP] UOM  Percent [SEP]
+[CLS] GEO  Canada [SEP] DGUID  nan [SEP] Sex  Males [SEP] Age group  11 years [SEP] Activity  Watch VCR movies [SEP]
+[CLS] GEO  Ireland [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  13 years [SEP] Activity  Watch VCR movies [SEP]
+[CLS] GEO  Northern Ireland [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  15 years [SEP] Activity  Watch VCR movies [SEP]
+[CLS] GEO  Northern Ireland [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  15 years [SEP] Activity  Play computer games [SEP]
+[CLS] Sex  Females [SEP] Age group  15 years [SEP] Activity  Play computer games [SEP] Time spent  10 hours or more [SEP] UOM  Percent [SEP]
+[CLS] GEO  Belgium (Flemish speaking) [SEP] DGUID  nan [SEP] Sex  Males [SEP] Age group  13 years [SEP] Activity  Play computer games [SEP]
+[CLS] GEO  Finland [SEP] DGUID  nan [SEP] Sex  Males [SEP] Age group  15 years [SEP] Activity  Play computer games [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] GEO  Ireland [SEP] Activity  Watch VCR movies [SEP] Time spent  1 to 3 hours [SEP] UOM  Percent [SEP]
+[CLS] GEO  France [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  11 years [SEP] Activity  Play computer games [SEP]
+[CLS] GEO  Spain [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  11 years [SEP] Activity  Play computer games [SEP]
+[CLS] GEO  Northern Ireland [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  15 years [SEP] Activity  Play computer games [SEP]
+[CLS] Sex  Males [SEP] Age group  13 years [SEP] Activity  Play computer games [SEP] Time spent  1 to 3 hours [SEP] UOM  Percent [SEP]
+[CLS] Sex  Males [SEP] Age group  11 years [SEP] Activity  Play computer games [SEP] Time spent  7 to 9 hours [SEP] UOM  Percent [SEP]
+[CLS] Sex  Females [SEP] Age group  11 years [SEP] Activity  Play computer games [SEP] Time spent  7 to 9 hours [SEP] UOM  Percent [SEP]
+[CLS] GEO  Finland [SEP] DGUID  nan [SEP] Sex  Males [SEP] Age group  11 years [SEP] Activity  Play computer games [SEP]
+[CLS] GEO  Sweden [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  15 years [SEP] Activity  Play computer games [SEP]
+[CLS] GEO  Northern Ireland [SEP] DGUID  nan [SEP] Sex  Males [SEP] Age group  11 years [SEP] Activity  Watch VCR movies [SEP]
+[CLS] Sex  Females [SEP] Age group  13 years [SEP] Activity  Play computer games [SEP] Time spent  Less than 1 hour [SEP] UOM  Percent [SEP]
+[CLS] GEO  Germany [SEP] DGUID  nan [SEP] Sex  Males [SEP] Age group  15 years [SEP] Activity  Play computer games [SEP]
+[CLS] ï»¿"REF_DATE"  1990 [SEP] GEO  Poland [SEP] Activity  Play computer games [SEP] Time spent  10 hours or more [SEP] UOM  Percent [SEP]
+[CLS] DGUID  nan [SEP] Activity  Play computer games [SEP] Time spent  4 to 6 hours [SEP] UOM  Percent [SEP] UOM_ID  239 [SEP] SCALAR_FACTOR  units [SEP]
+[CLS] ï»¿"REF_DATE"  1994 [SEP] GEO  Denmark [SEP] Activity  Play computer games [SEP] Time spent  1 to 3 hours [SEP] UOM  Percent [SEP]
+[CLS] GEO  Canada [SEP] DGUID  nan [SEP] Sex  Males [SEP] Age group  15 years [SEP] Activity  Play computer games [SEP]
+[CLS] GEO  United States [SEP] DGUID  nan [SEP] Sex  Males [SEP] Age group  11 years [SEP] Activity  Play computer games [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Age group  15 years [SEP] Activity  Watch VCR movies [SEP] Time spent  1 to 3 hours [SEP]
+[CLS] DGUID  nan [SEP] Activity  Watch VCR movies [SEP] Time spent  1 to 3 hours [SEP] UOM  Percent [SEP] UOM_ID  239 [SEP] SCALAR_FACTOR  units [SEP]
+[CLS] GEO  Ireland [SEP] DGUID  nan [SEP] Sex  Males [SEP] Age group  13 years [SEP] Activity  Play computer games [SEP]
+[CLS] GEO  Belgium (French speaking) [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  15 years [SEP] Activity  Watch VCR movies [SEP]
+[CLS] DGUID  nan [SEP] Activity  Watch VCR movies [SEP] Time spent  7 to 9 hours [SEP] UOM  Percent [SEP] UOM_ID  239 [SEP] SCALAR_FACTOR  units [SEP]
+[CLS] DGUID  nan [SEP] Activity  Watch VCR movies [SEP] Time spent  7 to 9 hours [SEP] UOM  Percent [SEP] UOM_ID  239 [SEP] SCALAR_FACTOR  units [SEP]
+[CLS] GEO  Finland [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  13 years [SEP] Activity  Play computer games [SEP]
+[CLS] DGUID  nan [SEP] Activity  Play computer games [SEP] Time spent  10 hours or more [SEP] UOM  Percent [SEP] UOM_ID  239 [SEP] SCALAR_FACTOR  units [SEP]
+[CLS] GEO  Russia [SEP] DGUID  nan [SEP] Sex  Males [SEP] Age group  11 years [SEP] Activity  Watch VCR movies [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Age group  15 years [SEP] Activity  Watch VCR movies [SEP] Time spent  7 to 9 hours [SEP]
+[CLS] GEO  Norway [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  11 years [SEP] Activity  Watch VCR movies [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Age group  11 years [SEP] Activity  Watch VCR movies [SEP] Time spent  Less than 1 hour [SEP]
+[CLS] Sex  Males [SEP] Age group  15 years [SEP] Activity  Watch VCR movies [SEP] Time spent  7 to 9 hours [SEP] UOM  Percent [SEP]
+[CLS] Sex  Females [SEP] Age group  15 years [SEP] Activity  Play computer games [SEP] Time spent  1 to 3 hours [SEP] UOM  Percent [SEP]
+[CLS] Sex  Females [SEP] Age group  15 years [SEP] Activity  Watch VCR movies [SEP] Time spent  10 hours or more [SEP] UOM  Percent [SEP]
+[CLS] Sex  Males [SEP] Age group  13 years [SEP] Activity  Watch VCR movies [SEP] Time spent  1 to 3 hours [SEP] UOM  Percent [SEP]
+[CLS] DGUID  nan [SEP] Activity  Watch VCR movies [SEP] Time spent  Less than 1 hour [SEP] UOM  Percent [SEP] UOM_ID  239 [SEP] SCALAR_FACTOR  units [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Age group  11 years [SEP] Activity  Watch VCR movies [SEP] Time spent  Less than 1 hour [SEP]
+[CLS] GEO  Canada [SEP] DGUID  nan [SEP] Sex  Males [SEP] Age group  13 years [SEP] Activity  Watch VCR movies [SEP]
+[CLS] Sex  Males [SEP] Age group  11 years [SEP] Activity  Play computer games [SEP] Time spent  4 to 6 hours [SEP] UOM  Percent [SEP]
+[CLS] GEO  United States [SEP] DGUID  nan [SEP] Sex  Females [SEP] Age group  13 years [SEP] Activity  Play computer games [SEP]
+[CLS] Sex  Females [SEP] Age group  15 years [SEP] Activity  Play computer games [SEP] Time spent  Not at all [SEP] UOM  Percent [SEP]

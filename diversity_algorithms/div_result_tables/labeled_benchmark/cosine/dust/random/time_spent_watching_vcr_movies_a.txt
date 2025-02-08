@@ -1,0 +1,100 @@
+[CLS] Activity  Play computer games [SEP] Time spent  7 to 9 hours [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  Not at all [SEP]
+[CLS] ï»¿"REF_DATE"  1990 [SEP] Activity  Watch VCR movies [SEP]
+[CLS] GEO  Northern Ireland [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  1 to 3 hours [SEP]
+[CLS] ï»¿"REF_DATE"  1990 [SEP] GEO  Spain [SEP] Activity  Watch VCR movies [SEP] Time spent  7 to 9 hours [SEP] UOM  Percent [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  Not at all [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  1 to 3 hours [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Activity  Play computer games [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  10 hours or more [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  1 to 3 hours [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  1 to 3 hours [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  1 to 3 hours [SEP] UOM  Percent [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Activity  Watch VCR movies [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Activity  Play computer games [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  Less than 1 hour [SEP] UOM  Percent [SEP]
+[CLS] ï»¿"REF_DATE"  1994 [SEP] GEO  Spain [SEP] Activity  Watch VCR movies [SEP] Time spent  4 to 6 hours [SEP] UOM  Percent [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  Less than 1 hour [SEP]
+[CLS] GEO  Greenland [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  Less than 1 hour [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  Less than 1 hour [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  Not at all [SEP] UOM  Percent [SEP]
+[CLS] GEO  France [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Activity  Watch VCR movies [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Activity  Play computer games [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Activity  Watch VCR movies [SEP]
+[CLS] ï»¿"REF_DATE"  1994 [SEP] Activity  Watch VCR movies [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  1 to 3 hours [SEP] UOM  Percent [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Activity  Watch VCR movies [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] GEO  Spain [SEP] Activity  Watch VCR movies [SEP] Time spent  Less than 1 hour [SEP] UOM  Percent [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  7 to 9 hours [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Activity  Watch VCR movies [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  Not at all [SEP] UOM  Percent [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  1 to 3 hours [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Activity  Play computer games [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] GEO  Ireland [SEP] Activity  Watch VCR movies [SEP] Time spent  1 to 3 hours [SEP] UOM  Percent [SEP]
+[CLS] GEO  Canada [SEP]
+[CLS] ï»¿"REF_DATE"  1994 [SEP] Activity  Play computer games [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] GEO  Ireland [SEP] Activity  Play computer games [SEP] Time spent  10 hours or more [SEP] UOM  Percent [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] GEO  Norway [SEP] Activity  Watch VCR movies [SEP] Time spent  Not at all [SEP] UOM  Percent [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] GEO  Spain [SEP] Activity  Play computer games [SEP] Time spent  10 hours or more [SEP] UOM  Percent [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  Less than 1 hour [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  1 to 3 hours [SEP] UOM  Percent [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  Less than 1 hour [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  1 to 3 hours [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  7 to 9 hours [SEP] UOM  Percent [SEP]
+[CLS] ï»¿"REF_DATE"  1994 [SEP] Activity  Watch VCR movies [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  7 to 9 hours [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  Not at all [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  10 hours or more [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  1 to 3 hours [SEP] UOM  Percent [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  4 to 6 hours [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  Less than 1 hour [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  Not at all [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  Less than 1 hour [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  4 to 6 hours [SEP] UOM  Percent [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  10 hours or more [SEP] UOM  Percent [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  7 to 9 hours [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  Less than 1 hour [SEP] UOM  Percent [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  1 to 3 hours [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Activity  Watch VCR movies [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  4 to 6 hours [SEP] UOM  Percent [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Activity  Play computer games [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Activity  Watch VCR movies [SEP]
+[CLS] ï»¿"REF_DATE"  1990 [SEP] Activity  Watch VCR movies [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  1 to 3 hours [SEP] UOM  Percent [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  Not at all [SEP] UOM  Percent [SEP]
+[CLS] ï»¿"REF_DATE"  1990 [SEP] Activity  Play computer games [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Activity  Play computer games [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  Not at all [SEP] UOM  Percent [SEP]
+[CLS] ï»¿"REF_DATE"  1994 [SEP] Activity  Play computer games [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  4 to 6 hours [SEP] UOM  Percent [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Activity  Play computer games [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Activity  Watch VCR movies [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  10 hours or more [SEP] UOM  Percent [SEP]
+[CLS] GEO  Lithuania [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Activity  Watch VCR movies [SEP]
+[CLS] ï»¿"REF_DATE"  1994 [SEP] Activity  Play computer games [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  Not at all [SEP] UOM  Percent [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] GEO  Spain [SEP] Activity  Watch VCR movies [SEP] Time spent  4 to 6 hours [SEP] UOM  Percent [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  Not at all [SEP] UOM  Percent [SEP]
+[CLS] ï»¿"REF_DATE"  1994 [SEP] Activity  Play computer games [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  7 to 9 hours [SEP] UOM  Percent [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Activity  Play computer games [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  7 to 9 hours [SEP] UOM  Percent [SEP]
+[CLS] ï»¿"REF_DATE"  1994 [SEP] Activity  Watch VCR movies [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Activity  Play computer games [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] GEO  Latvia [SEP] Activity  Watch VCR movies [SEP] Time spent  4 to 6 hours [SEP] UOM  Percent [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  Less than 1 hour [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  10 hours or more [SEP]
+[CLS] ï»¿"REF_DATE"  1990 [SEP] Activity  Play computer games [SEP]
+[CLS] GEO  Estonia [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  4 to 6 hours [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  Not at all [SEP]
+[CLS] ï»¿"REF_DATE"  1990 [SEP] Activity  Watch VCR movies [SEP]
+[CLS] ï»¿"REF_DATE"  1998 [SEP] Activity  Play computer games [SEP]
+[CLS] Activity  Watch VCR movies [SEP] Time spent  4 to 6 hours [SEP] UOM  Percent [SEP]
+[CLS] Activity  Play computer games [SEP] Time spent  7 to 9 hours [SEP]
+[CLS] GEO  Russia [SEP]
+[CLS] ï»¿"REF_DATE"  1994 [SEP] Activity  Watch VCR movies [SEP]

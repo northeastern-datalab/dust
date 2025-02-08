@@ -1,0 +1,100 @@
+[CLS] PracticeName  Dr McKay & Partners [SEP] Address1  57 THOMAS STREET [SEP] Address2  DUNGANNON [SEP] Address3  CO TYRONE [SEP] Postcode  BT70 1HW [SEP] LCG  Southern [SEP]
+[CLS] PracticeName  Drs Henry & McAreavy [SEP] Address1  CORNMARKET SURGERY [SEP] Address2  NEWRY HEALTH VILLAGE [SEP] Address3  MONAGHAN STREET [SEP] Postcode  BT35 6BW [SEP] LCG  Southern [SEP]
+[CLS] Address1  THE HEALTH CENTRE [SEP] Address2  DOWNPATRICK ROAD [SEP] Address3  ARDGLASS [SEP] Postcode  BT30 7SF [SEP] LCG  South Eastern [SEP]
+[CLS] PracticeName  Dr. DAVIS & PARTNERS [SEP] Address1  52 MAIN STREET [SEP] Address2  MOIRA [SEP] Address3  CRAIGAVON [SEP] Postcode  BT67 0LQ [SEP] LCG  South Eastern [SEP] Registered_Patients  9983 [SEP]
+[CLS] Address1  HEALTH CENTRE [SEP] Address2  BALLYNAHINCH ST [SEP] Address3  HILLSBOROUGH [SEP] Postcode  BT26 6AW [SEP] LCG  South Eastern [SEP]
+[CLS] PracticeName  Dr Fullerton [SEP] Address1  256 BERRYHILL ROAD [SEP] Address2  DUNAMANAGH [SEP] Address3  STRABANE [SEP] Postcode  BT82 0NB [SEP] LCG  Western [SEP]
+[CLS] PracticeName  Dr. CARSON & PARTNERS [SEP] Address1  CAMPBELL SURGERY [SEP] Address2  10 QUARRY LANE [SEP] Address3  DUNGANNON [SEP] Postcode  BT70 1HX [SEP] LCG  Southern [SEP] Registered_Patients  9905 [SEP]
+[CLS] Address1  THE SURGERY [SEP] Address2  BEGNEY HILL ROAD [SEP] Address3  DROMARA [SEP] Postcode  BT25 2AT [SEP] LCG  South Eastern [SEP]
+[CLS] Address1  THE HEALTH CENTRE [SEP] Address2  LINENHALL STREET [SEP] Address3  LISBURN [SEP] Postcode  BT28 1LU [SEP] LCG  South Eastern [SEP]
+[CLS] PracticeName  Dr. MAGOWAN & PARTNER [SEP] Address1  THE SURGERY [SEP] Address2  77 GALGORM ROAD [SEP] Address3  BALLYMENA [SEP] Postcode  BT42 1AA [SEP] LCG  Northern [SEP] Registered_Patients  2491 [SEP]
+[CLS] PracticeName  Dr. MAGUIRE & PARTNERS [SEP] Address1  15/17 CLIFTON STREET [SEP] Address2  BELFAST [SEP] Address3  nan [SEP] Postcode  BT13 1AD [SEP] LCG  Belfast [SEP] Registered_Patients  8926 [SEP]
+[CLS] PracticeName  Dr. QUINN & PARTNERS [SEP] Address1  THE HEALTH CENTRE [SEP] Address2  6 GREENVIEW, MAYNOOTH ROAD [SEP] Address3  RICHHILL, ARMAGH [SEP] Postcode  BT61 9PD [SEP] LCG  Southern [SEP] Registered_Patients  5451 [SEP]
+[CLS] PracticeName  Dr. O'NEILL & PARTNERS [SEP] Address1  MEADOWLANDS SURGERY [SEP] Address2  MONAGHAN STREET [SEP] Address3  NEWRY [SEP] Postcode  BT35 6BW [SEP] LCG  Southern [SEP] Registered_Patients  7158 [SEP]
+[CLS] PracticeName  Dr. PORTEOUS & PARTNERS [SEP] Address1  MAPLE GROUP PRACTICE [SEP] Address2  DRUMHAW [SEP] Address3  LISNASKEA, ENNISKILLEN [SEP] Postcode  BT92 0FP [SEP] LCG  Western [SEP] Registered_Patients  14476 [SEP]
+[CLS] PracticeName  Dr. IRWIN & PARTNERS [SEP] Address1  HARLAND MEDICAL PRACTICE [SEP] Address2  WESTMINSTER AVENUE [SEP] Address3  BELFAST [SEP] Postcode  BT4 1NS [SEP] LCG  Belfast [SEP] Registered_Patients  6758 [SEP]
+[CLS] PracticeName  Dr Hetherington & Partners [SEP] Address1  EGLINTON MEDICAL PRACTICE [SEP] Address2  29 MAIN STREET [SEP] Address3  EGLINTON, LONDONDERRY [SEP] Postcode  BT47 3AB [SEP] LCG  Western [SEP]
+[CLS] PracticeName  Dr. MCLISTER & PARTNERS [SEP] Address1  DALRIADA FAMILY PRACTICE [SEP] Address2  1A [SEP] ERAINE ROAD [SEP] Address3  BALLYCASTLE [SEP] Postcode  BT54 6BA [SEP] LCG  Northern [SEP] Registered_Patients  4,147 [SEP]
+[CLS] PracticeName  Dr Redmond & Partners [SEP] Address1  THE HEALTH CENTRE [SEP] Address2  76 MAIN STREET [SEP] Address3  BROUGHSHANE BALLYMENA [SEP] Postcode  BT42 4JA [SEP] LCG  Northern [SEP]
+[CLS] PracticeName  Dr Cummings & Partners [SEP] Address1  115 FALLS ROAD [SEP] Address2  BELFAST [SEP] Address3  nan [SEP] Postcode  BT12 6AA [SEP] LCG  Belfast [SEP]
+[CLS] PracticeName  Dr. TOPPING & PARTNERS [SEP] Address1  PORTSTEWART MEDICAL CENTRE [SEP] Address2  MILL ROAD [SEP] Address3  PORTSTEWART [SEP] Postcode  BT55 7SW [SEP] LCG  Northern [SEP] Registered_Patients  4,192 [SEP]
+[CLS] PracticeName  Dr. LEAVY & PARTNERS [SEP] Address1  463 SPRINGFIELD ROAD [SEP] Address2  BELFAST [SEP] Address3  nan [SEP] Postcode  BT12 7DP [SEP] LCG  Belfast [SEP] Registered_Patients  6477 [SEP]
+[CLS] PracticeName  Dr. HICKS & PARTNER [SEP] Address1  41 MAIN STREET [SEP] Address2  PLUMBRIDGE [SEP] Address3  OMAGH [SEP] Postcode  BT79 8DL [SEP] LCG  Western [SEP] Registered_Patients  3325 [SEP]
+[CLS] PracticeName  Dr. MCCOY & PARTNERS [SEP] Address1  THE HEALTH CENTRE [SEP] Address2  50 HILLHEAD [SEP] Address3  STEWARTSTOWN, DUNGANNON [SEP] Postcode  BT71 5HY [SEP] LCG  Northern [SEP] Registered_Patients  5,803 [SEP]
+[CLS] PracticeName  Dr Gardner & Partners [SEP] Address1  54 HOLYWOOD ROAD [SEP] Address2  BELFAST [SEP] Address3  nan [SEP] Postcode  BT4 1NT [SEP] LCG  Belfast [SEP]
+[CLS] PracticeName  Dr. KURIACOSE & PARTNERS [SEP] Address1  MONEYMORE MEDICAL PRACTICE [SEP] Address2  3 FAIRHILL [SEP] Address3  MONEYMORE [SEP] Postcode  BT45 7LJ [SEP] LCG  Northern [SEP] Registered_Patients  5,939 [SEP]
+[CLS] PracticeName  Drs Nutt & Siberry [SEP] Address1  LIFFOCK [SEP] Address2  69 SEA ROAD [SEP] Address3  CASTLEROCK, [SEP] ERAINE [SEP] Postcode  BT51 4TW [SEP] LCG  Northern [SEP]
+[CLS] PracticeName  Dr. MCAULEY & PARTNERS [SEP] Address1  87/89 WILLIAM STREET [SEP] Address2  LURGAN [SEP] Address3  CRAIGAVON [SEP] Postcode  BT66 6JB [SEP] LCG  Southern [SEP] Registered_Patients  5,591 [SEP]
+[CLS] Address1  52 MAIN STREET [SEP] Address2  MOIRA [SEP] Address3  CRAIGAVON [SEP] Postcode  BT67 0LQ [SEP] LCG  South Eastern [SEP]
+[CLS] PracticeName  Dr. GREER & PARTNERS [SEP] Address1  CLOUGH SURGERY [SEP] Address2  1 CASTLEWELLAN ROAD [SEP] Address3  CLOUGH [SEP] Postcode  BT30 8RD [SEP] LCG  South Eastern [SEP] Registered_Patients  10374 [SEP]
+[CLS] PracticeName  Dr. LEGGETT & PARTNERS [SEP] Address1  DONARD FAMILY PRACTICE [SEP] Address2  56 MAIN STREET [SEP] Address3  NEWCASTLE, CO DOWN [SEP] Postcode  BT33 0AE [SEP] LCG  South Eastern [SEP] Registered_Patients  11858 [SEP]
+[CLS] Address1  SALISBURY MEDICAL CENTRE [SEP] Address2  474 ANTRIM ROAD [SEP] Address3  BELFAST [SEP] Postcode  BT15 5GF [SEP] LCG  Belfast [SEP]
+[CLS] Address1  173 ANDERSONSTOWN ROAD [SEP] Address2  BELFAST [SEP] Address3  nan [SEP] Postcode  BT11 9EA [SEP] LCG  Belfast [SEP]
+[CLS] PracticeName  DR. M MURPHY [SEP] Address1  THE HEALTH CENTRE [SEP] Address2  DOWNPATRICK ROAD [SEP] Address3  ARDGLASS [SEP] Postcode  BT30 7SF [SEP] LCG  South Eastern [SEP]
+[CLS] PracticeName  nan [SEP] Address1  MOUNT ORIEL MEDICAL PRACTICE [SEP] Address2  KNOCKBREDA WTC [SEP] Address3  110 SAINTFIELD ROAD, BELFAST [SEP] Postcode  BT8 6GR [SEP] LCG  Belfast [SEP]
+[CLS] PracticeName  Dr. CRAIG & PARTNER [SEP] Address1  140 GROOMSPORT ROAD [SEP] Address2  BANGOR [SEP] Address3  CO DOWN [SEP] Postcode  BT20 5PE [SEP] LCG  South Eastern [SEP] Registered_Patients  5840 [SEP]
+[CLS] PracticeName  Dr. DE ALWIS & PARTNERS [SEP] Address1  WYNNE HILL SURGERY [SEP] Address2  51 HILL STREET [SEP] Address3  LURGAN, CRAIGAVON [SEP] Postcode  BT66 6BW [SEP] LCG  Southern [SEP] Registered_Patients  11501 [SEP]
+[CLS] PracticeName  Dr. KING & PARTNERS [SEP] Address1  CLANRYE SURGERY [SEP] Address2  NEWRY HEALTH VILLAGE [SEP] Address3  MONAGHAN STREET, NEWRY [SEP] Postcode  BT35 6BW [SEP] LCG  Southern [SEP] Registered_Patients  9,235 [SEP]
+[CLS] Address1  ORMEAU ROAD HEALTH CENTRE [SEP] Address2  120 ORMEAU ROAD [SEP] Address3  BELFAST [SEP] Postcode  BT7 2EB [SEP] LCG  Belfast [SEP]
+[CLS] Address1  53 DUNDALK STREET [SEP] Address2  NEWTOWNHAMILTON [SEP] Address3  NEWRY [SEP] Postcode  BT35 0PB [SEP] LCG  Southern [SEP]
+[CLS] PracticeName  Dr. DAVIS & PARTNERS [SEP] Address1  52 MAIN STREET [SEP] Address2  MOIRA [SEP] Address3  CRAIGAVON [SEP] Postcode  BT67 0LQ [SEP] LCG  South Eastern [SEP] Registered_Patients  10120 [SEP]
+[CLS] PracticeName  DR. W.J.C.WILSON AND PARTNERS [SEP] Address1  PORTGLENONE HEALTH CENTRE [SEP] Address2  17 TOWNHILL ROAD [SEP] Address3  PORTGLENONE, BALLYMENA [SEP] Postcode  BT44 8AD [SEP] LCG  Northern [SEP]
+[CLS] PracticeName  Dr. NEOH & PARTNERS [SEP] Address1  KILLYNETHER PRACTICE [SEP] Address2  2A FREDERICK STREET [SEP] Address3  NEWTOWNARDS [SEP] Postcode  BT23 4LR [SEP] LCG  South Eastern [SEP]
+[CLS] PracticeName  Dr. MALLON & PARTNER [SEP] Address1  THE HEALTH CENTRE [SEP] Address2  ERNE ROAD [SEP] Address3  ENNISKILLEN [SEP] Postcode  BT74 6NN [SEP] LCG  Western [SEP] Registered_Patients  2,990 [SEP]
+[CLS] PracticeName  DR D S RAINEY [SEP] Address1  THE SURGERY [SEP] Address2  TOOME HOUSE, 55 MAIN STREET [SEP] Address3  TOOMEBRIDGE, ANTRIM [SEP] Postcode  BT41 3TF [SEP] LCG  Northern [SEP]
+[CLS] PracticeName  Dr. PORTEOUS & PARTNERS [SEP] Address1  MAPLE GROUP PRACTICE [SEP] Address2  DRUMHAW [SEP] Address3  LISNASKEA, ENNISKILLEN [SEP] Postcode  BT92 0FP [SEP] LCG  Western [SEP] Registered_Patients  14,195 [SEP]
+[CLS] Address1  WOODBROOK MEDICAL PRACTICE [SEP] Address2  STEWARTSTOWN ROAD [SEP] Address3  DUNMURRY BELFAST [SEP] Postcode  BT17 0FB [SEP] LCG  South Eastern [SEP]
+[CLS] PracticeName  Dr. CATHCART & PARTNERS [SEP] Address1  THE HEALTH CENTRE [SEP] Address2  ERNE ROAD [SEP] Address3  ENNISKILLEN [SEP] Postcode  BT74 6NN [SEP] LCG  Western [SEP] Registered_Patients  7,460 [SEP]
+[CLS] PracticeName  Dr. QUINN & PARTNERS [SEP] Address1  THE HEALTH CENTRE [SEP] Address2  6 GREENVIEW, MAYNOOTH ROAD [SEP] Address3  RICHHILL, ARMAGH [SEP] Postcode  BT61 9PD [SEP] LCG  Southern [SEP] Registered_Patients  5486 [SEP]
+[CLS] PracticeName  Dr H C Johnston & Partners [SEP] Address1  THE HEALTH CENTRE [SEP] Address2  NEWTOWNARDS ROAD [SEP] Address3  BANGOR [SEP] Postcode  BT20 4LD [SEP] LCG  South Eastern [SEP]
+[CLS] PracticeName  Dr. MCKNIGHT & PARTNER [SEP] Address1  CLANRYE SURGERY [SEP] Address2  NEWRY HEALTH VILLAGE [SEP] Address3  MONAGHAN STREET, NEWRY [SEP] Postcode  BT35 6BW [SEP] LCG  Southern [SEP]
+[CLS] PracticeName  Dr N Majury [SEP] Address1  SILVERBIRCH MEDICAL PRACTICE [SEP] Address2  39A SILVERBIRCH ROAD [SEP] Address3  BANGOR [SEP] Postcode  BT19 6EU [SEP] LCG  South Eastern [SEP]
+[CLS] Address1  BLOOMFIELD SURGERY [SEP] Address2  95 BLOOMFIELD ROAD [SEP] Address3  BANGOR [SEP] Postcode  BT20 4XA [SEP] LCG  South Eastern [SEP]
+[CLS] PracticeName  Dr. O'HARA & PARTNER [SEP] Address1  CUSHENDALL ROAD [SEP] Address2  BALLYMENA [SEP] Address3  CO ANTRIM [SEP] Postcode  BT43 6HQ [SEP] LCG  Northern [SEP]
+[CLS] PracticeName  Dr. LAMBE & PARTNERS [SEP] Address1  53 DUNDALK STREET [SEP] Address2  NEWTOWNHAMILTON [SEP] Address3  NEWRY [SEP] Postcode  BT35 0PB [SEP] LCG  Southern [SEP] Registered_Patients  4025 [SEP]
+[CLS] PracticeName  Dr. MCKINLEY & PARTNERS [SEP] Address1  CORNMARKET SURGERY [SEP] Address2  NEWRY HEALTH VILLAGE [SEP] Address3  MONAGHAN STREET, NEWRY [SEP] Postcode  BT35 6BW [SEP] LCG  Southern [SEP] Registered_Patients  7349 [SEP]
+[CLS] Address1  LOUGH VIEW SURGERY [SEP] Address2  2 MAIN STREET [SEP] Address3  KIRCUBBIN, NEWTOWNARDS [SEP] Postcode  BT22 2SP [SEP] LCG  South Eastern [SEP]
+[CLS] Address1  BERNAGHMORE MEDICAL PRACTICE [SEP] Address2  BALLYMENA HEALTH & CARE CENTRE [SEP] Address3  86 CUSHENDALL ROAD, BALLYMENA [SEP] Postcode  BT43 6HB [SEP] LCG  Northern [SEP]
+[CLS] PracticeName  nan [SEP] Address1  GROVE WELLBEING CENTRE, GROVE MEDICAL PRACTICE [SEP] Address2  120 YORK ROAD [SEP] Address3  BELFAST [SEP] Postcode  BT15 3HF [SEP] LCG  Belfast [SEP]
+[CLS] PracticeName  nan [SEP] Address1  SLEMISH VIEW MEDICAL PRACTICE [SEP] Address2  BALLYMENA HEALTH & CARE CENTRE [SEP] Address3  86 CUSHENDALL ROAD, BALLYMENA [SEP] Postcode  BT43 6HB [SEP] LCG  Northern [SEP]
+[CLS] PracticeName  Dr Magnier & Partners [SEP] Address1  BRIDGE STREET MEDICAL CENTRE [SEP] Address2  BRIDGE STREET [SEP] Address3  LONDONDERRY [SEP] Postcode  BT48 6LD [SEP] LCG  Western [SEP]
+[CLS] Address1  THE HEALTH CENTRE [SEP] Address2  CASTLEROCK ROAD [SEP] Address3  [SEP] ERAINE [SEP] Postcode  BT51 3HP [SEP] LCG  Northern [SEP]
+[CLS] PracticeName  Dr Mulholland & Partners [SEP] Address1  CROCUS STREET SURGERY [SEP] Address2  1 CROCUS STREET [SEP] Address3  BELFAST [SEP] Postcode  BT12 7AP [SEP] LCG  Belfast [SEP]
+[CLS] PracticeName  Dr. GALLAGHER & PARTNERS [SEP] Address1  DRUMRAGH FAMILY PRACTICE, THE HEALTH CENTRE [SEP] Address2  MOUNTJOY ROAD [SEP] Address3  OMAGH [SEP] Postcode  BT79 7BA [SEP] LCG  Western [SEP]
+[CLS] PracticeName  Dr. MCCUTCHEON & PARTNERS [SEP] Address1  HOLYWOOD ARCHES HEALTH CENTRE [SEP] Address2  WESTMINSTER AVE [SEP] Address3  BELFAST [SEP] Postcode  BT4 1NS [SEP] LCG  Belfast [SEP] Registered_Patients  7158 [SEP]
+[CLS] PracticeName  Drs McCurdy & Armstrong [SEP] Address1  THE FROCESS MEDICAL CENTRE [SEP] Address2  56 MAIN STREET [SEP] Address3  CLOUGHMILLS, BALLYMENA [SEP] Postcode  BT44 9LF [SEP] LCG  Northern [SEP]
+[CLS] PracticeName  Dr Brown & Partners [SEP] Address1  SALISBURY MEDICAL CENTRE [SEP] Address2  474 ANTRIM ROAD [SEP] Address3  BELFAST [SEP] Postcode  BT15 5GF [SEP] LCG  Belfast [SEP]
+[CLS] PracticeName  Drs Good & Good [SEP] Address1  TANDRAGEE MEDICAL CENTRE [SEP] Address2  3 MONTAGUE STREET [SEP] Address3  TANDRAGEE, CRAIGAVON [SEP] Postcode  BT62 2AN [SEP] LCG  Southern [SEP]
+[CLS] PracticeName  Dr Crory & Partners [SEP] Address1  VICTORIA SURGERY [SEP] Address2  MOYLE MEDICAL CENTRE [SEP] Address3  OLD GLENARM ROAD [SEP] Postcode  BT40 1XH [SEP] LCG  Northern [SEP]
+[CLS] PracticeName  Drs Howie & Carlisle [SEP] Address1  LARNE FAMILY PRACTICE, LARNE HEALTH CENTRE [SEP] Address2  GLOUCESTER AVENUE [SEP] Address3  LARNE [SEP] Postcode  BT40 1PB [SEP] LCG  Northern [SEP]
+[CLS] Address1  THE DIAMOND MEDICAL CENTRE [SEP] Address2  MARKET SQUARE [SEP] Address3  MAGHERAFELT [SEP] Postcode  BT45 6ED [SEP] LCG  Northern [SEP]
+[CLS] PracticeName  nan [SEP] Address1  6 DRUMINTEE ROAD [SEP] Address2  MEIGH [SEP] Address3  NEWRY [SEP] Postcode  BT35 8SJ [SEP] LCG  Southern [SEP]
+[CLS] Address1  BROWNLOW HEALTH CENTRE [SEP] Address2  1 LEGAHORY CENTRE [SEP] Address3  LEGAHORY, CRAIGAVON [SEP] Postcode  BT65 5BE [SEP] LCG  Southern [SEP]
+[CLS] PracticeName  Dr Ahmed & Partners [SEP] Address1  CAMPBELL SURGERY [SEP] Address2  10 QUARRY LANE [SEP] Address3  DUNGANNON [SEP] Postcode  BT70 1HX [SEP] LCG  Southern [SEP]
+[CLS] PracticeName  Dr E Murdock [SEP] Address1  CREGAGH SURGERY [SEP] Address2  36 MONTGOMERY ROAD [SEP] Address3  BELFAST [SEP] Postcode  BT6 9HL [SEP] LCG  Belfast [SEP]
+[CLS] PracticeName  Dr. CHAMBERS & PARTNERS [SEP] Address1  BALLYSILLAN GROUP PRACTICE [SEP] Address2  156-158 BALLYSILLAN ROAD [SEP] Address3  BELFAST [SEP] Postcode  BT14 7QR [SEP] LCG  Belfast [SEP] Registered_Patients  5573 [SEP]
+[CLS] Address1  THE HEALTH CENTRE [SEP] Address2  DOWNPATRICK ROAD [SEP] Address3  ARDGLASS [SEP] Postcode  BT30 7SF [SEP] LCG  South Eastern [SEP]
+[CLS] PracticeName  Drs Armstrong & Stelfox [SEP] Address1  THE SURGERY [SEP] Address2  1 CHURCH STREET [SEP] Address3  NEWTOWNARDS [SEP] Postcode  BT23 4FH [SEP] LCG  South Eastern [SEP]
+[CLS] Address1  WILLOWBANK [SEP] Address2  KEADY [SEP] Address3  CO ARMAGH [SEP] Postcode  BT60 3RL [SEP] LCG  Southern [SEP]
+[CLS] PracticeName  Dr Hyndman & Partners [SEP] Address1  1 GLENAVY ROAD [SEP] Address2  CRUMLIN [SEP] Address3  CO ANTRIM [SEP] Postcode  BT29 4LA [SEP] LCG  Northern [SEP]
+[CLS] Address1  ERRIGAL MEDICAL CENTRE [SEP] Address2  OLD DUNGANNON ROAD [SEP] Address3  BALLYGAWLEY,DUNGANNON [SEP] Postcode  BT70 2EY [SEP] LCG  Southern [SEP]
+[CLS] PracticeName  Dr. WRIGHT & PARTNERS [SEP] Address1  17 BALLYGOMARTIN ROAD [SEP] Address2  BELFAST [SEP] Address3  nan [SEP] Postcode  BT13 3BW [SEP] LCG  Belfast [SEP] Registered_Patients  8009 [SEP]
+[CLS] PracticeName  Dr. HAIGNEY & PARTNERS [SEP] Address1  MOUNT ORIEL MEDICAL PRACTICE [SEP] Address2  KNOCKBREDA WTC [SEP] Address3  110 SAINTFIELD ROAD, BELFAST [SEP] Postcode  BT8 6GR [SEP] LCG  Belfast [SEP] Registered_Patients  6582 [SEP]
+[CLS] PracticeName  Dr McVerry & Partners [SEP] Address1  MCVERRY/MCEVOY MEDICAL CENTRE [SEP] Address2  NEWRY HEALTH VILLAGE [SEP] Address3  MONAGHAN STREET, NEWRY [SEP] Postcode  BT35 6BW [SEP] LCG  Southern [SEP]
+[CLS] PracticeName  Dr Casey & Partners [SEP] Address1  OAKLEAF MEDICAL PRACTICE [SEP] Address2  GREAT JAMES STREET [SEP] Address3  LONDONDERRY [SEP] Postcode  BT48 7DH [SEP] LCG  Western [SEP]
+[CLS] Address1  THE HEALTH CENTRE [SEP] Address2  LINENHALL STREET [SEP] Address3  LISBURN [SEP] Postcode  BT28 1LU [SEP] LCG  South Eastern [SEP]
+[CLS] Address1  THE SURGERY [SEP] Address2  BROOK STREET [SEP] Address3  HOLYWOOD [SEP] Postcode  BT18 9DA [SEP] LCG  South Eastern [SEP]
+[CLS] PracticeName  nan [SEP] Address1  THE HEALTH CENTRE [SEP] Address2  JOHN STREET [SEP] Address3  RATHFRILAND, NEWRY [SEP] Postcode  BT34 5QH [SEP] LCG  Southern [SEP]
+[CLS] PracticeName  Drs Mallon & Mcconville [SEP] Address1  THE HEALTH CENTRE [SEP] Address2  ERNE ROAD [SEP] Address3  ENNISKILLEN [SEP] Postcode  BT74 6NN [SEP] LCG  Western [SEP]
+[CLS] PracticeName  Drs Howie & Carlisle [SEP] Address1  THE HEALTH CENTRE [SEP] Address2  GLOUCESTER AVENUE [SEP] Address3  LARNE [SEP] Postcode  BT40 1PB [SEP] LCG  Northern [SEP]
+[CLS] PracticeName  Dr. LALSINGH & PARTNERS [SEP] Address1  CLARENDON MEDICAL [SEP] Address2  35 NORTHLAND AVENUE [SEP] Address3  LONDONDERRY [SEP] Postcode  BT48 7GW [SEP] LCG  Western [SEP]
+[CLS] PracticeName  Dr. MAGOWAN & PARTNER [SEP] Address1  THE SURGERY [SEP] Address2  77 GALGORM ROAD [SEP] Address3  BALLYMENA [SEP] Postcode  BT42 1AA [SEP] LCG  Northern [SEP] Registered_Patients  2488 [SEP]
+[CLS] PracticeName  Dr McNeice & Partners [SEP] Address1  50 GALLOWS STREET [SEP] Address2  DROMORE [SEP] Address3  CO DOWN [SEP] Postcode  BT25 1BD [SEP] LCG  Southern [SEP]
+[CLS] PracticeName  Dr. SCOTT & PARTNERS [SEP] Address1  HOLYWOOD ARCHES HEALTH CENTRE [SEP] Address2  WESTMINSTER AVENUE [SEP] Address3  BELFAST [SEP] Postcode  BT4 1NS [SEP] LCG  Belfast [SEP] Registered_Patients  5,537 [SEP]
+[CLS] PracticeName  Dr. KELLY & PARTNERS [SEP] Address1  BRIDGES FAMILY PRACTICE [SEP] Address2  2-6 BRYSON STREET [SEP] Address3  BELFAST [SEP] Postcode  BT5 4ES [SEP] LCG  Belfast [SEP] Registered_Patients  6,949 [SEP]
+[CLS] Address1  222 WOODSTOCK ROAD [SEP] Address2  BELFAST [SEP] Address3  nan [SEP] Postcode  BT6 9DL [SEP] LCG  Belfast [SEP]
+[CLS] PracticeName  Dr. O'KANE [SEP] Address1  THE HEALTH CENTRE [SEP] Address2  94-100 CRUMLIN ROAD [SEP] Address3  BELFAST [SEP] Postcode  BT14 6AR [SEP] LCG  Belfast [SEP] Registered_Patients  1,197 [SEP]
+[CLS] PracticeName  Drs Allen & Keown [SEP] Address1  14 KILKEEL ROAD [SEP] Address2  ANNALONG [SEP] Address3  NEWRY [SEP] Postcode  BT34 4TH [SEP] LCG  Southern [SEP]
+[CLS] PracticeName  Dr Woods & Partners [SEP] Address1  KILKEEL PRIMARY CARE CENTRE [SEP] Address2  GREENCASTLE STREET [SEP] Address3  KILKEEL, NEWRY [SEP] Postcode  BT34 4BH [SEP] LCG  Southern [SEP]
+[CLS] PracticeName  Dr. BOYLE & PARTNERS [SEP] Address1  THE SURGERY [SEP] Address2  12 THE GREEN [SEP] Address3  IRISH STREET, DOWNPATRICK [SEP] Postcode  BT30 6BE [SEP] LCG  South Eastern [SEP] Registered_Patients  4951 [SEP]
+[CLS] PracticeName  DR B J FARNAN & PARTNERS [SEP] Address1  THE GROUP SURGERY [SEP] Address2  257 NORTH QUEEN STREET [SEP] Address3  BELFAST [SEP] Postcode  BT15 1HS [SEP] LCG  Belfast [SEP]

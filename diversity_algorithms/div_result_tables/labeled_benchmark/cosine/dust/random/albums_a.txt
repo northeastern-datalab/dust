@@ -1,0 +1,100 @@
+[CLS] artist  jack johnson [SEP] title  posters [SEP]
+[CLS] artist  weird al yankovic [SEP] title  grapefruit diet [SEP]
+[CLS] title  bones [SEP] album  sam's town [SEP] track  8.0 [SEP] year  2006.0 [SEP]
+[CLS] title  jessie's girl [SEP] album  working class dog [SEP] track  2.0 [SEP] year  1981.0 [SEP]
+[CLS] artist  b-52s [SEP] title  roam [SEP]
+[CLS] artist  tori amos [SEP] title  smells like teen spirit [SEP]
+[CLS] title  don't let me be the last to know [SEP] album  oops! i did it again [SEP] track  5.0 [SEP] year  2000.0 [SEP]
+[CLS] artist  neil diamond [SEP] title  america [SEP]
+[CLS] artist  beastie boys [SEP] title  intergalactic [SEP]
+[CLS] title  no one knows my plan [SEP] album  john henry [SEP] track  11.0 [SEP] year  1994.0 [SEP]
+[CLS] artist  they might be giants [SEP] title  rabid child [SEP]
+[CLS] artist  dave matthews band [SEP] title  louisiana bayou [SEP]
+[CLS] artist  aquabats [SEP] title  now stand back for your own safety! [SEP]
+[CLS] artist  they might be giants [SEP] title  your own worst enemy [SEP]
+[CLS] artist  bon jovi [SEP] title  in these arms [SEP]
+[CLS] ï»¿#  1498 [SEP] artist  james horner [SEP] title  putting the pieces together [SEP] album  patriot games soundtrack [SEP] track  5.0 [SEP] year  1992.0 [SEP]
+[CLS] artist  they might be giants [SEP] title  piece of dirt [SEP]
+[CLS] artist  weezer [SEP] title  slave [SEP]
+[CLS] title  ruby sees all [SEP] album  motorcade of generosity [SEP] track  2.0 [SEP] year  1995.0 [SEP]
+[CLS] title  holiday [SEP] album  madonna [SEP] track  5.0 [SEP] year  1983.0 [SEP]
+[CLS] ï»¿#  67 [SEP] artist  aerosmith [SEP] title  sweet emotion [SEP] album  toys in the attic [SEP] track  6.0 [SEP] year  1975.0 [SEP]
+[CLS] artist  metallica [SEP] title  of wolf and man [SEP]
+[CLS] artist  beatles [SEP] title  with a little help from my friends [SEP]
+[CLS] artist  eric clapton [SEP] title  wonderful tonight [SEP]
+[CLS] title  now stand back for your own safety! [SEP] album  charge!! [SEP] track  1.0 [SEP] year  2005.0 [SEP]
+[CLS] artist  saigon kick [SEP] title  love is on the way [SEP]
+[CLS] title  pop [SEP] album  celebrity [SEP] track  1.0 [SEP] year  2001.0 [SEP]
+[CLS] artist  james taylor [SEP] title  shower the people [SEP]
+[CLS] title  faith [SEP] album  faith [SEP] track  1.0 [SEP] year  1987.0 [SEP]
+[CLS] artist  beastie boys [SEP] title  sabotage [SEP]
+[CLS] ï»¿#  3286 [SEP] artist  tori amos [SEP] title  smells like teen spirit [SEP] album  crucify [SEP] track  4.0 [SEP] year  1992.0 [SEP]
+[CLS] artist  pras [SEP] title  ghetto supastar (that is what you are) [SEP]
+[CLS] artist  tim mcgraw [SEP] title  don't take the girl [SEP]
+[CLS] artist  sugar ray [SEP] title  abracadabra [SEP]
+[CLS] title  a groovy kind of love [SEP] album  buster soundtrack [SEP] track  12.0 [SEP] year  1988.0 [SEP]
+[CLS] title  i will wait [SEP] album  musical chairs [SEP] track  1.0 [SEP] year  1998.0 [SEP]
+[CLS] artist  metallica [SEP] title  all nightmare long [SEP]
+[CLS] artist  dave matthews band [SEP] title  the dreaming tree [SEP]
+[CLS] artist  hilary weeks [SEP] title  he hears me [SEP]
+[CLS] ï»¿#  1205 [SEP] artist  glenn frey [SEP] title  you belong to the city [SEP] album  miami vice soundtrack [SEP] track  4.0 [SEP] year  1985.0 [SEP]
+[CLS] title  it's a free world baby [SEP] album  friends soundtrack [SEP] track  7.0 [SEP] year  1995.0 [SEP]
+[CLS] artist  jerry goldsmith [SEP] title  red alert [SEP]
+[CLS] title  possibilities [SEP] album  maladroit [SEP] track  11.0 [SEP] year  2002.0 [SEP]
+[CLS] title  new age girl [SEP] album  different story [SEP] track  1.0 [SEP] year  1994.0 [SEP]
+[CLS] artist  flaming lips [SEP] title  she don't use jelly [SEP]
+[CLS] artist  jewel [SEP] title  only one too [SEP]
+[CLS] artist  tracy chapman [SEP] title  happy [SEP]
+[CLS] artist  they might be giants [SEP] title  put your hand inside the puppet head [SEP]
+[CLS] title  love is all there is [SEP] album  detours [SEP] track  13.0 [SEP] year  2008.0 [SEP]
+[CLS] ï»¿#  275 [SEP] artist  barenaked ladies [SEP] title  hidden sun [SEP] album  maroon [SEP] track  13.0 [SEP] year  2000.0 [SEP]
+[CLS] ï»¿#  2374 [SEP] artist  pearl jam [SEP] title  last kiss [SEP] album  no boundaries: a benefit for the kosovar refugees [SEP] track  1.0 [SEP] year  1998.0 [SEP]
+[CLS] artist  rem [SEP] title  it's a free world baby [SEP]
+[CLS] artist  prince [SEP] title  the most beautiful girl in the world [SEP]
+[CLS] artist  dashboard confessional [SEP] title  carry this picture [SEP]
+[CLS] artist  lifehouse [SEP] title  hanging by a moment [SEP]
+[CLS] artist  kenny g [SEP] title  forever in love [SEP]
+[CLS] artist  sheryl crow [SEP] title  letter to god [SEP]
+[CLS] title  you've got a friend [SEP] album  mud slide slim and the blue horizon [SEP] track  2.0 [SEP] year  1971.0 [SEP]
+[CLS] artist  aerosmith [SEP] title  fly away from here [SEP]
+[CLS] artist  coldplay [SEP] title  the scientist [SEP]
+[CLS] artist  anne murray [SEP] title  silver bells [SEP]
+[CLS] artist  sarah mclachlan [SEP] title  fallen [SEP]
+[CLS] artist  deep blue something [SEP] title  josey [SEP]
+[CLS] artist  linkin park [SEP] title  papercut [SEP]
+[CLS] artist  david cook [SEP] title  eleanor rigby [SEP]
+[CLS] artist  george michael [SEP] title  faith [SEP]
+[CLS] artist  goo goo dolls [SEP] title  stay with you [SEP]
+[CLS] artist  michael mclean [SEP] title  share the joy [SEP]
+[CLS] artist  counting crows [SEP] title  hard candy [SEP]
+[CLS] artist  weezer [SEP] title  no one else [SEP]
+[CLS] artist  corrs [SEP] title  breathless [SEP]
+[CLS] title  goodnight elisabeth [SEP] album  recovering the satellites [SEP] track  5.0 [SEP] year  1996.0 [SEP]
+[CLS] title  seconds [SEP] album  war [SEP] track  2.0 [SEP] year  1990.0 [SEP]
+[CLS] artist  billy joel [SEP] title  we didn't start the fire [SEP]
+[CLS] artist  david lee roth [SEP] title  just a gigolo [SEP]
+[CLS] title  piano man [SEP] album  piano man [SEP] track  2.0 [SEP] year  1973.0 [SEP]
+[CLS] artist  garth brooks [SEP] title  wrapped up in you [SEP]
+[CLS] title  ave maria [SEP] album  nan [SEP] track  nan [SEP] year  [SEP]
+[CLS] artist  seal [SEP] title  don't cry [SEP]
+[CLS] artist  u2 [SEP] title  sometimes you can't make it on your own [SEP]
+[CLS] title  why does the sun shine [SEP] album  severe tire damage [SEP] track  4.0 [SEP] year  2006.0 [SEP]
+[CLS] title  i'll never be [SEP] album  turn the radio off [SEP] track  14.0 [SEP] year  1996.0 [SEP]
+[CLS] artist  sugar ray [SEP] title  abracadabra [SEP]
+[CLS] artist  weird al yankovic [SEP] title  virus alert [SEP]
+[CLS] title  mambo swing [SEP] album  big bad voodoo daddy [SEP] track  10.0 [SEP] year  1998.0 [SEP]
+[CLS] title  number three [SEP] album  they might be giants [SEP] track  3.0 [SEP] year  1986.0 [SEP]
+[CLS] artist  the simpsons [SEP] title  the president wore pearls medley [SEP]
+[CLS] artist  counting crows [SEP] title  a murder of one [SEP]
+[CLS] artist  u2 [SEP] title  stuck in a moment you can't get out of [SEP]
+[CLS] artist  gin blossoms [SEP] title  follow you down [SEP]
+[CLS] title  pardon me [SEP] album  make believe [SEP] track  8.0 [SEP] year  2005.0 [SEP]
+[CLS] artist  tracy chapman [SEP] title  fast car [SEP]
+[CLS] artist  man&aacute; [SEP] title  de pies a cabeza [SEP]
+[CLS] artist  madonna [SEP] title  holiday [SEP]
+[CLS] artist  hootie and the blowfish [SEP] title  so strange [SEP]
+[CLS] artist  jack johnson [SEP] title  inaudible melodies [SEP]
+[CLS] artist  huey lewis and the news [SEP] title  workin' for a livin' [SEP]
+[CLS] title  raindrops keep falling on my head [SEP] album  butch cassidy &amp; the sundance kid soundtrack [SEP] track  2.0 [SEP] year  1969.0 [SEP]
+[CLS] title  in the house of stone and light [SEP] album  in the house of stone and light [SEP] track  1.0 [SEP] year  1995.0 [SEP]
+[CLS] artist  jason castro [SEP] title  if i fell [SEP]

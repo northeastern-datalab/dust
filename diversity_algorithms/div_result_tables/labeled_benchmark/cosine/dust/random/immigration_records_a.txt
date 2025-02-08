@@ -1,0 +1,100 @@
+[CLS] Immigration_Records  Darling, Jos. [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Caspian [SEP] Unnamed: 15  2 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%207288?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Sherock, John [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Prussian [SEP] Unnamed: 15  2 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%2015705?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  O'Donnell, T. [SEP] Unnamed: 1  Apr 6 1882 [SEP] Unnamed: 2  Irish [SEP] Unnamed: 4  Nova Scotian [SEP]
+[CLS] Immigration_Records  Morris, Jas. [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Sarmatian [SEP] Unnamed: 15  3 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%2021849?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Hall, Wm. [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Hibernia [SEP] Unnamed: 15  2 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%209407?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Reid, W. [SEP] Unnamed: 1  June 29 1882 [SEP] Unnamed: 2  Scotch [SEP] Unnamed: 4  Buenos Ayr [SEP]
+[CLS] Immigration_Records  Carter, G'o [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Nestorian [SEP] Unnamed: 15  2 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%206877?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Lennord, B. [SEP] Unnamed: 2  Irish [SEP] Unnamed: 4  Nestorian [SEP] Unnamed: 15  3 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%2019832?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Country; Country, J; W [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Austrian [SEP] Unnamed: 15  1 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%205448?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  McAllister, S. [SEP] Unnamed: 1  May 2 1872 [SEP] Unnamed: 2  Irish [SEP] Unnamed: 4  Spain [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  1.0 [SEP] Unnamed: 10  2 [SEP] Unnamed: 14  4 [SEP] Unnamed: 15  2 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%209557?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Mears, R. [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Thames [SEP] Unnamed: 15  2 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%2011245?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Kyle, M. [SEP] Unnamed: 2  Scotch [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  0.0 [SEP]
+[CLS] Immigration_Records  Robinson; Sterling [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Peruvian [SEP] Unnamed: 15  1 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%201697?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Jeffry, Fred [SEP] Unnamed: 1  May 12 1871 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Austrian [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  0.0 [SEP] Unnamed: 10  0 [SEP] Unnamed: 14  1 [SEP] Unnamed: 15  2 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%206671?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Hayward, W. [SEP] Unnamed: 1  May 25 1881 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Moravian [SEP]
+[CLS] Immigration_Records  Freeman, Jas. [SEP] Unnamed: 1  Oct 19 1875 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  nan [SEP]
+[CLS] Immigration_Records  Holroyd, C. [SEP] Unnamed: 2  English [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  0 [SEP]
+[CLS] Immigration_Records  Rye, Miss [SEP] Unnamed: 2  English [SEP] Unnamed: 8  0 [SEP] Unnamed: 9  1 [SEP]
+[CLS] Immigration_Records  Porteous, Alex [SEP] Unnamed: 2  Scotch [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  0 [SEP]
+[CLS] Immigration_Records  Wilson, John [SEP] Unnamed: 2  Irish [SEP] Unnamed: 4  Missippi [SEP] Unnamed: 15  4 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%2026543?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Whaler, A. [SEP] Unnamed: 2  Irish [SEP] Unnamed: 8  0 [SEP] Unnamed: 9  1 [SEP]
+[CLS] Immigration_Records  McDonald, Wm. [SEP] Unnamed: 1  June 11 1879 [SEP] Unnamed: 2  Scotch [SEP] Unnamed: 4  Ancoria [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  0.0 [SEP] Unnamed: 10  0 [SEP] Unnamed: 14  1 [SEP] Unnamed: 15  3 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%2019866?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Sharp, W [SEP] Unnamed: 2  English [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  0 [SEP]
+[CLS] Immigration_Records  Maltby, W. [SEP] Unnamed: 2  English [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  1.0 [SEP]
+[CLS] Immigration_Records  Hall, John [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Minerva [SEP] Unnamed: 15  1 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%205168?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Gunn; Gunn, M.; E. [SEP] Unnamed: 1  July 12 1873 [SEP] Unnamed: 2  Scotch [SEP] Unnamed: 4  Corinthian [SEP]
+[CLS] Immigration_Records  Hamilton, T. [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Sardinian [SEP] Unnamed: 15  3 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%2019443?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Hane, Mrs. [SEP] Unnamed: 2  English [SEP] Unnamed: 8  0 [SEP] Unnamed: 9  1 [SEP]
+[CLS] Immigration_Records  Manning, Go [SEP] Unnamed: 1  May 18 1870 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Tweed [SEP]
+[CLS] Immigration_Records  Lee, Ed. [SEP] Unnamed: 1  Jan'y 16 1872 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Prussian [SEP]
+[CLS] Immigration_Records  Harnuck, F [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Scotland [SEP] Unnamed: 15  4 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%2026753?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Knight, Rich'd [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Dacia [SEP] Unnamed: 15  1.0 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%20871?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Pool; Moog [SEP] Unnamed: 2  English [SEP] Unnamed: 8  2 [SEP] Unnamed: 9  0 [SEP]
+[CLS] Immigration_Records  Uttley, Mrs. E. [SEP] Unnamed: 2  English [SEP] Unnamed: 8  0 [SEP] Unnamed: 9  1 [SEP]
+[CLS] Immigration_Records  Graham, Mr [SEP] Unnamed: 1  Dec 21 1882 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  nan [SEP]
+[CLS] Immigration_Records  Armstrong, Jas [SEP] Unnamed: 2  English [SEP] Unnamed: 8  nan [SEP] Unnamed: 9  nan [SEP]
+[CLS] Immigration_Records  Rider, Go. [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Sarmatian [SEP] Unnamed: 15  3 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%2017925?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Hothen, John [SEP] Unnamed: 2  English [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  1 [SEP]
+[CLS] Immigration_Records  Herman, Godfred [SEP] Unnamed: 2  German [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  1 [SEP]
+[CLS] Immigration_Records  Unknown [SEP] Unnamed: 2  Norwegian [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  1 [SEP]
+[CLS] Immigration_Records  Blackwell, James [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Ganges [SEP] Unnamed: 15  1 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%205217?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Tathill, R. [SEP] Unnamed: 1  April 25 1873 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Austrian [SEP]
+[CLS] Immigration_Records  Marshall; Marshall, E.; A. [SEP] Unnamed: 2  Irish [SEP] Unnamed: 4  Hibernian [SEP] Unnamed: 15  3 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%2019268?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Ross, Jno [SEP] Unnamed: 1  June 20 1874 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Manitoban [SEP]
+[CLS] Immigration_Records  Brown, W. [SEP] Unnamed: 1  May 10 1869 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Crocodile [SEP] Unnamed: 8  nan [SEP] Unnamed: 9  nan [SEP] Unnamed: 10  0 [SEP] Unnamed: 14  1 [SEP] Unnamed: 15  1 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%20763?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Dalby, Mrs. [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Peruvian [SEP] Unnamed: 15  2 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%207245?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Kelley, Thos [SEP] Unnamed: 2  Irish [SEP] Unnamed: 4  St Lenord [SEP] Unnamed: 15  1 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%205530?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Gilroy, P. [SEP] Unnamed: 2  Irish [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  0 [SEP]
+[CLS] Immigration_Records  Crow, John [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Prussian [SEP] Unnamed: 15  1.0 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%204367?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Hamlin, Edmund [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Peruvian [SEP] Unnamed: 15  2 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%206272?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Robinson, W. [SEP] Unnamed: 1  May 8 1876 [SEP] Unnamed: 2  Scotch [SEP] Unnamed: 4  nan [SEP]
+[CLS] Immigration_Records  Wall, Chas. [SEP] Unnamed: 2  English [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  1 [SEP]
+[CLS] Immigration_Records  Hackett, E [SEP] Unnamed: 2  English [SEP] Unnamed: 8  3 [SEP] Unnamed: 9  0 [SEP]
+[CLS] Immigration_Records  Maggie [SEP] Unnamed: 2  Scotch [SEP] Unnamed: 8  0 [SEP] Unnamed: 9  0 [SEP]
+[CLS] Immigration_Records  Muchan, John [SEP] Unnamed: 2  Irish [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  1 [SEP]
+[CLS] Immigration_Records  Jenner, E [SEP] Unnamed: 1  May 19 1869 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Serapis [SEP] Unnamed: 8  nan [SEP] Unnamed: 9  nan [SEP] Unnamed: 10  3 [SEP] Unnamed: 14  5 [SEP] Unnamed: 15  1 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%20909?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Smith, Thos [SEP] Unnamed: 1  May 10 1869 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Crocodile [SEP] Unnamed: 8  nan [SEP] Unnamed: 9  nan [SEP] Unnamed: 10  2 [SEP] Unnamed: 14  4 [SEP] Unnamed: 15  1 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%20788?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Folley, P. [SEP] Unnamed: 1  Nov 6 1875 [SEP] Unnamed: 2  Irish [SEP] Unnamed: 4  Polynesian [SEP]
+[CLS] Immigration_Records  Watley: Luckman [SEP] Unnamed: 2  English [SEP] Unnamed: 8  2 [SEP] Unnamed: 9  0 [SEP]
+[CLS] Immigration_Records  Austin, F. [SEP] Unnamed: 2  English [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  0 [SEP]
+[CLS] Immigration_Records  Johns, Mary [SEP] Unnamed: 2  English [SEP] Unnamed: 8  0.0 [SEP] Unnamed: 9  1.0 [SEP]
+[CLS] Immigration_Records  May, M.J. [SEP] Unnamed: 1  Oct. 3 1879 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Brooklyn [SEP]
+[CLS] Immigration_Records  Unknown [SEP] Unnamed: 2  Norwegian [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  1.0 [SEP]
+[CLS] Immigration_Records  Pickering, Go. [SEP] Unnamed: 1  Feb. 26 1880 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Circassian [SEP]
+[CLS] Immigration_Records  Fleming, E. [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Prussian [SEP] Unnamed: 15  2.0 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%208044?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Halflast; McBean [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Simoons [SEP] Unnamed: 15  1.0 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%201588?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Graham, R [SEP] Unnamed: 2  Irish [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  1.0 [SEP]
+[CLS] Immigration_Records  Small, John [SEP] Unnamed: 2  English [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  0 [SEP]
+[CLS] Immigration_Records  Campbell, Jas. [SEP] Unnamed: 2  Scotch [SEP] Unnamed: 8  3 [SEP] Unnamed: 9  0 [SEP]
+[CLS] Immigration_Records  Gowans, J. [SEP] Unnamed: 1  Oct'r 19 1871 [SEP] Unnamed: 2  Irish [SEP] Unnamed: 4  Ottawa [SEP]
+[CLS] Immigration_Records  Monson, F. [SEP] Unnamed: 1  April 3 1875 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Cuba [SEP]
+[CLS] Immigration_Records  Thick, A. [SEP] Unnamed: 2  English [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  0 [SEP]
+[CLS] Immigration_Records  Robinson, W. [SEP] Unnamed: 2  English [SEP] Unnamed: 4  nan [SEP] Unnamed: 15  3.0 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%2019536?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Soper; Soper; Soulatson, T.; H.; T. [SEP] Unnamed: 1  Mar 23 1881 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Parisian [SEP]
+[CLS] Immigration_Records  Scanas, Jas. [SEP] Unnamed: 2  English [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  1 [SEP]
+[CLS] Immigration_Records  Glemster, John [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Peruvian [SEP] Unnamed: 15  1.0 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%205325?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Fluke, F. [SEP] Unnamed: 2  English [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  0 [SEP]
+[CLS] Immigration_Records  Hamerston, Fr. [SEP] Unnamed: 1  Sept. 6 1879 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Circassian [SEP] Unnamed: 8  0.0 [SEP] Unnamed: 9  0.0 [SEP] Unnamed: 10  1 [SEP] Unnamed: 14  1 [SEP] Unnamed: 15  3 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%2020730?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Popple, Jno [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Serapis [SEP] Unnamed: 15  1 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%20970?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Croft, W [SEP] Unnamed: 1  June 18 1874 [SEP] Unnamed: 2  Ireland [SEP] Unnamed: 4  Sarmatian [SEP]
+[CLS] Immigration_Records  Thompson, Jane [SEP] Unnamed: 2  English [SEP] Unnamed: 8  0 [SEP] Unnamed: 9  1 [SEP]
+[CLS] Immigration_Records  Walton, H. E. [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Hibernian [SEP] Unnamed: 15  1 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%202744?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Collins, Henry [SEP] Unnamed: 2  English [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  1 [SEP]
+[CLS] Immigration_Records  Blair, Wm [SEP] Unnamed: 1  June 1 1874 [SEP] Unnamed: 2  Irish [SEP] Unnamed: 4  Dominion [SEP]
+[CLS] Immigration_Records  Mansfield, W [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Peruvian [SEP] Unnamed: 15  2.0 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%205815?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Wallington, Geo. [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Sardinian [SEP] Unnamed: 15  3 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%2019474?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Walker, B. [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Peruvian [SEP] Unnamed: 15  3.0 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%2024936?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  McKnight; McKnight, S; E [SEP] Unnamed: 2  English [SEP] Unnamed: 8  0 [SEP] Unnamed: 9  2 [SEP]
+[CLS] Immigration_Records  Unknown [SEP] Unnamed: 2  Germany [SEP] Unnamed: 4  Caspian [SEP] Unnamed: 15  4.0 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%2028452?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Wilson, Thos. [SEP] Unnamed: 1  June 27 1879 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Sardinian [SEP]
+[CLS] Immigration_Records  Jostler, Joseph [SEP] Unnamed: 1  Sept 28 1870 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  St. Lenords [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  1.0 [SEP] Unnamed: 10  3 [SEP] Unnamed: 14  5 [SEP] Unnamed: 15  2 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%205603?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Marr, Fre'd [SEP] Unnamed: 1  June 6 1876 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Canadian [SEP]
+[CLS] Immigration_Records  McElroy, D [SEP] Unnamed: 1  Aug 19 1869 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Hibernian [SEP]
+[CLS] Immigration_Records  Cameron, John [SEP] Unnamed: 2  Scotch [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  0.0 [SEP]
+[CLS] Immigration_Records  Shaw, Henry [SEP] Unnamed: 1  May 2 1878 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Polynesian [SEP]
+[CLS] Immigration_Records  Hastings, J. [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Circassian [SEP] Unnamed: 15  3 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%2021885?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Gallagher, Jas. [SEP] Unnamed: 2  Irish [SEP] Unnamed: 4  Sarmatian [SEP] Unnamed: 15  2 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%2010453?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Callahan, Jas [SEP] Unnamed: 2  Irish [SEP] Unnamed: 4  N Scotian [SEP] Unnamed: 15  1 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%202596?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Galman; Murray, H.; R. [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Sardinian [SEP] Unnamed: 15  3.0 [SEP] Unnamed: 16  http://ao.minisisinc.com/scripts/mwimain.dll/144/HAWKE/HAWKE_DET_REP/SISN%2021986?SESSIONSEARCH [SEP]
+[CLS] Immigration_Records  Sweeting, Geo. [SEP] Unnamed: 1  May 9 1882 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  L. Manitoba [SEP]

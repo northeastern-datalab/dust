@@ -1,0 +1,100 @@
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Barbara Farrell [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor type  Individuals [SEP] Contributor name  Edwin G. Ralph [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Janssen & Associates [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Contributor type  Individuals [SEP] Contributor name  JEAN PETTIFOR [SEP] Contributor Postal code  T2L 1C9 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Contributor name  GARY MCROBB [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Zoltan Schreindler [SEP] Contributor Postal code  N6K2Z1 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Robert Gray [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor type  Individuals [SEP] Contributor name  Norman Montcalm [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor type  Businesses / Commercial organizations [SEP] Contributor name  Mike 466609 B.C. Ltd. / Jones [SEP] Contributor Postal code  V3S 0J9 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Murray Small [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor type  Businesses / Commercial organizations [SEP] Contributor name  Burnbrae Farms Limited [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Kismat Homes [SEP] Contributor Postal code  T2P 4J1 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Contributor type  Individuals [SEP] Contributor name  ELAINE DOYLE [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Dave From [SEP] Contributor Postal code  T0M1R0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Contributor type  Individuals [SEP] Contributor name  SABRINA L CATALDO [SEP] Contributor Postal code  S4T 4C7 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  King City Group Ltd [SEP] Contributor Postal code  M9W 4M2 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Greg Gellert [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Margaret Anne Brennan [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Mennie Veldkamp [SEP] Contributor Postal code  T8N 1M9 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Centre D'Affaires Quatre-Saisons [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Robert Conners [SEP] Contributor Postal code  V0K 1C0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Alex Berg [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Frederick Hann Associates Limited [SEP] Contributor Postal code  A1C 5X8 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor type  Individuals [SEP] Contributor name  James Campbell [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Edie Leclair [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Contributor type  Individuals [SEP] Contributor name  LARRY WARTELS [SEP] Contributor Postal code  V8V 2W9 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Contributor name  KIKI CLIFF [SEP] Contributor Postal code  K1M 2B7 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Debbie McBeth [SEP] Contributor Postal code  T2W 1B3 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Persnickity Books Ltd [SEP] Contributor Postal code  V1J 3Y5 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Contributor name  CANADIAN LABOUR CONGRESS [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Marcel Oostenbrink [SEP] Contributor Postal code  T2W 4M5 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Claude Savard [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Mill's Pride [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Central Ontario Council of Carpenters, Drywall [SEP] Contributor Postal code  M9L 2Y4 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Norma Cummings [SEP] Contributor Postal code  K2H 8E3 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  YYC Investments Inc. [SEP] Contributor Postal code  T2J 2T9 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  June Nelson [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Dessau Inc. [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Grant A. Martin [SEP] Contributor Postal code  K8V5P4 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Sharon Feduniak [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Contributor type  Individuals [SEP] Contributor name  [SEP] LIN GRIBBONS [SEP] Contributor Postal code  M4J 1T4 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor type  Individuals [SEP] Contributor name  Bertha Lowen [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Howard G. Brown [SEP] Contributor Postal code  M5M 2L4 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Transport Couture & Fils Ltée [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Contributor type  Individuals [SEP] Contributor name  SOPHY LEBOFSKY [SEP] Contributor Postal code  N2A 2G5 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  John Danson [SEP] Contributor Postal code  M2R 3R8 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor type  Individuals [SEP] Contributor name  Rosemary Cook [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor type  Individuals [SEP] Contributor name  Arthur S. Silverman [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Pétroles Crevier Inc. [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Sau Bing Gobel [SEP] Contributor Postal code  V3R 0E6 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor type  Individuals [SEP] Contributor name  Alice Kenney [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor type  Individuals [SEP] Contributor name  Pierre Simard [SEP] Contributor Postal code  G0R 3A0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  David L Barss [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor type  Businesses / Commercial organizations [SEP] Contributor name  Corporation Cinégroupe [SEP] Contributor Postal code  H2L 2T7 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Eric J. Loughead [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Contributor type  Individuals [SEP] Contributor name  GARY VOLDEN [SEP] Contributor Postal code  S0K 2P0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Anton S. Philip [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor type  Individuals [SEP] Contributor name  Patrick O'Donnell [SEP] Contributor Postal code  K2K2L6 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Johanne Cadieux [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor type  Individuals [SEP] Contributor name  Bruce Holman [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Contributor name  BETTY MULLER [SEP] Contributor Postal code  V9A 6Z2 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor type  Individuals [SEP] Contributor name  Larry Muraski [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Contributor type  Individuals [SEP] Contributor name  RAGNER TURNQUIST [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor type  Businesses / Commercial organizations [SEP] Contributor name  Golder Associates Ltd [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Bernard Ragueneau [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor type  Individuals [SEP] Contributor name  Ray Reitzel [SEP] Contributor Postal code  N2J 1J3 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP]

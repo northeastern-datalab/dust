@@ -1,0 +1,100 @@
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  59 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP] Fiscal date  2003-12-31 [SEP] Contributor name  Barbara Farrell [SEP] Contributor Province  ON [SEP] Contributor Postal code  L4X1Z8 [SEP] Monetary amount  270.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  59 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Edwin G. Ralph [SEP] Monetary amount  500.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  61 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Fiscal date  2003-12-31 [SEP] Contributor name  Janssen & Associates [SEP] Contributor Province  ON [SEP] Contributor Postal code  M5R 1G4 [SEP] Monetary amount  343.9 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  50 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  50 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Contributor name  JEAN PETTIFOR [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  3 [SEP] Recipient  New Democratic Party [SEP] Electoral event  Annual [SEP] Fiscal date  2001-12-31 [SEP] Contributor name  GARY MCROBB [SEP] Contributor Province  YK [SEP] Contributor Postal code  Y1A 5L7 [SEP] Monetary amount  250.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP] Contributor name  Zoltan Schreindler [SEP] Contributor Province  ON [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  7 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP] Fiscal date  2001-12-31 [SEP] Contributor name  Robert Gray [SEP] Contributor Province  ON [SEP] Contributor Postal code  P9N 3Y9 [SEP] Monetary amount  100.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  50 [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Norman Montcalm [SEP] Monetary amount  217.57 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  61 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Mike 466609 B.C. Ltd. / Jones [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  61 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  7 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP] Fiscal date  2001-12-31 [SEP] Contributor name  Murray Small [SEP] Contributor Province  ON [SEP] Contributor Postal code  L6J2G9 [SEP] Monetary amount  1000.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  50 [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Burnbrae Farms Limited [SEP] Monetary amount  750.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Contributor name  Kismat Homes [SEP] Contributor Province  AB [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  65 [SEP] Recipient  New Democratic Party [SEP] Contributor name  ELAINE DOYLE [SEP] Monetary amount  250.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP] Contributor name  Dave From [SEP] Contributor Province  AB [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Contributor name  SABRINA L CATALDO [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  61 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Contributor name  King City Group Ltd [SEP] Contributor Province  ON [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  7 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP] Fiscal date  2001-12-31 [SEP] Contributor name  Greg Gellert [SEP] Contributor Province  AB [SEP] Contributor Postal code  T4N 6V1 [SEP] Monetary amount  10.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  1 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Fiscal date  2001-12-31 [SEP] Contributor name  Margaret Anne Brennan [SEP] Contributor Province  SK [SEP] Contributor Postal code  S7J 1G9 [SEP] Monetary amount  320.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP] Contributor name  Mennie Veldkamp [SEP] Contributor Province  AB [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  1 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Fiscal date  2001-12-31 [SEP] Contributor name  Centre D'Affaires Quatre-Saisons [SEP] Contributor Province  QC [SEP] Contributor Postal code  G1H 7H1 [SEP] Monetary amount  337.68 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  1 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP] Contributor name  Robert Conners [SEP] Contributor Province  BC [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  34 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP] Fiscal date  2002-12-31 [SEP] Contributor name  Alex Berg [SEP] Contributor Province  BC [SEP] Contributor Postal code  V0N2H0 [SEP] Monetary amount  210.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Contributor name  Frederick Hann Associates Limited [SEP] Contributor Province  NF [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  34 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  James Campbell [SEP] Monetary amount  555.36 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  65 [SEP] Recipient  New Democratic Party [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  61 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Fiscal date  2003-12-31 [SEP] Contributor name  Edie Leclair [SEP] Contributor Province  PE [SEP] Contributor Postal code  C0B 2B0 [SEP] Monetary amount  209.32 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  61 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Contributor name  LARRY WARTELS [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Electoral event  Annual [SEP] Contributor name  KIKI CLIFF [SEP] Contributor Province  ON [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  65 [SEP] Recipient  New Democratic Party [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP] Contributor name  Debbie McBeth [SEP] Contributor Province  AB [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP] Contributor name  Persnickity Books Ltd [SEP] Contributor Province  BC [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  65 [SEP] Recipient  New Democratic Party [SEP] Electoral event  Annual [SEP] Fiscal date  2003-12-31 [SEP] Contributor name  CANADIAN LABOUR CONGRESS [SEP] Contributor Province  ON [SEP] Contributor Postal code  K1V 8X7 [SEP] Monetary amount  219440.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  7 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP] Contributor name  Marcel Oostenbrink [SEP] Contributor Province  AB [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  61 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  61 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Fiscal date  2003-12-31 [SEP] Contributor name  Claude Savard [SEP] Contributor Province  QC [SEP] Contributor Postal code  H8T 3H7 [SEP] Monetary amount  428.08 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  1 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Fiscal date  2001-12-31 [SEP] Contributor name  Mill's Pride [SEP] Contributor Province  nan [SEP] Contributor Postal code  nan [SEP] Monetary amount  500.52 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Contributor name  Central Ontario Council of Carpenters, Drywall [SEP] Contributor Province  ON [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP] Contributor name  Norma Cummings [SEP] Contributor Province  ON [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Contributor name  YYC Investments Inc. [SEP] Contributor Province  AB [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  7 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP] Fiscal date  2001-12-31 [SEP] Contributor name  June Nelson [SEP] Contributor Province  BC [SEP] Contributor Postal code  V1E 3X9 [SEP] Monetary amount  20.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  7 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  61 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  59 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  1 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Fiscal date  2001-12-31 [SEP] Contributor name  Dessau Inc. [SEP] Contributor Province  QC [SEP] Contributor Postal code  H3G 1T7 [SEP] Monetary amount  760.52 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP] Contributor name  Grant A. Martin [SEP] Contributor Province  ON [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  50 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  61 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Fiscal date  2003-12-31 [SEP] Contributor name  Sharon Feduniak [SEP] Contributor Province  BC [SEP] Contributor Postal code  V8A 2S4 [SEP] Monetary amount  995.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Contributor name  [SEP] LIN GRIBBONS [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  7 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Bertha Lowen [SEP] Monetary amount  110.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Contributor name  Howard G. Brown [SEP] Contributor Province  ON [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  50 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Fiscal date  2002-12-31 [SEP] Contributor name  Transport Couture & Fils Ltée [SEP] Contributor Province  QC [SEP] Contributor Postal code  G0M 1R0 [SEP] Monetary amount  454.26 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  34 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  3 [SEP] Recipient  New Democratic Party [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Contributor name  SOPHY LEBOFSKY [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Contributor name  John Danson [SEP] Contributor Province  ON [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  7 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Rosemary Cook [SEP] Monetary amount  10.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  50 [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Arthur S. Silverman [SEP] Monetary amount  1000.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  61 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Fiscal date  2003-12-31 [SEP] Contributor name  Pétroles Crevier Inc. [SEP] Contributor Province  QC [SEP] Contributor Postal code  H4R 1K8 [SEP] Monetary amount  571.97 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP] Contributor name  Sau Bing Gobel [SEP] Contributor Province  BC [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  34 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Alice Kenney [SEP] Monetary amount  250.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Pierre Simard [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  3 [SEP] Recipient  New Democratic Party [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  34 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  34 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  7 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  7 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  59 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP] Fiscal date  2003-12-31 [SEP] Contributor name  David L Barss [SEP] Contributor Province  AB [SEP] Contributor Postal code  T2S1T6 [SEP] Monetary amount  405.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  7 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  7 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Liberal Party of Canada [SEP] Contributor name  Corporation Cinégroupe [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  65 [SEP] Recipient  New Democratic Party [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  59 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP] Fiscal date  2003-12-31 [SEP] Contributor name  Eric J. Loughead [SEP] Contributor Province  AB [SEP] Contributor Postal code  T2W3Z1 [SEP] Monetary amount  460.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Contributor name  GARY VOLDEN [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  65 [SEP] Recipient  New Democratic Party [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  61 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Fiscal date  2003-12-31 [SEP] Contributor name  Anton S. Philip [SEP] Contributor Province  ON [SEP] Contributor Postal code  M1R 2M4 [SEP] Monetary amount  797.76 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  7 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Patrick O'Donnell [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  34 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  61 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  61 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Fiscal date  2003-12-31 [SEP] Contributor name  Johanne Cadieux [SEP] Contributor Province  QC [SEP] Contributor Postal code  J3B 6Y8 [SEP] Monetary amount  500.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  3 [SEP] Recipient  New Democratic Party [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  7 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Bruce Holman [SEP] Monetary amount  250.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  New Democratic Party [SEP] Electoral event  Annual [SEP] Contributor name  BETTY MULLER [SEP] Contributor Province  BC [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  1 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  65 [SEP] Recipient  New Democratic Party [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  34 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Larry Muraski [SEP] Monetary amount  617.13 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  65 [SEP] Recipient  New Democratic Party [SEP] Contributor name  RAGNER TURNQUIST [SEP] Monetary amount  250.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  1 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  34 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Golder Associates Ltd [SEP] Monetary amount  2891.0 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  1 [SEP] Recipient  Liberal Party of Canada [SEP] Electoral event  Annual [SEP] Fiscal date  2001-12-31 [SEP] Contributor name  Bernard Ragueneau [SEP] Contributor Province  QC [SEP] Contributor Postal code  H3G 1Z5 [SEP] Monetary amount  449.26 [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Contributor name  Ray Reitzel [SEP]
+[CLS] Political Entity  Registered Party [SEP] Recipient ID  7 [SEP] Recipient  Canadian Reform Conservative Alliance [SEP] Electoral event  Annual [SEP]

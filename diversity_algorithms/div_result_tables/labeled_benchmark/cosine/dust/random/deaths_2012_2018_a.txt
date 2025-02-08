@@ -1,0 +1,100 @@
+[CLS] ID  18-0531 [SEP] Location  Residence [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  13-0294 [SEP] Location  Residence [SEP] DescriptionofInjury  substance abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  13-0175 [SEP] Age  41.0 [SEP] Sex  Male [SEP] DeathCity  WATERBURY [SEP] DeathCounty  NEW HAVEN [SEP] Location  Residence [SEP] DescriptionofInjury  Used Medications [SEP] InjuryPlace  Residence [SEP] COD  Combined Morphine, Quetiapine and Sertraline Toxicities [SEP]
+[CLS] ID  18-0009 [SEP] Location  Residence [SEP] DescriptionofInjury  Drug abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  16-0842 [SEP] Age  33.0 [SEP] Sex  Male [SEP] Location  Residence [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Residence [SEP] COD  Acute Intoxication due to the Combined Effects of Fentanyl and Heroin [SEP]
+[CLS] ID  12-0151 [SEP] Age  50.0 [SEP] Sex  Male [SEP] Location  Other [SEP] DescriptionofInjury  Drug Use [SEP] InjuryPlace  Train or Subway Station [SEP] COD  Cocaine and Heroin Toxicity [SEP]
+[CLS] ID  17-0691 [SEP] Location  Other [SEP] DescriptionofInjury  Ingestion [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  17-0136 [SEP] Location  Hospital [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Residential Building [SEP]
+[CLS] ID  15-0478 [SEP] Age  27.0 [SEP] Sex  Male [SEP] Location  Hospital [SEP] DescriptionofInjury  nan [SEP] InjuryPlace  Residence [SEP] COD  Acute Heroin Intoxication [SEP]
+[CLS] ID  16-0878 [SEP] Age  50.0 [SEP] Sex  Male [SEP] Location  Residence [SEP] DescriptionofInjury  SUBSTANCE ABUSE [SEP] InjuryPlace  Residence [SEP] COD  COMBINED FENTANYL AND ALCOHOL TOXICITIES [SEP]
+[CLS] ID  16-0795 [SEP] Location  Hospital [SEP] DescriptionofInjury  SUBSTANCE ABUSE [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  13-0169 [SEP] Age  37.0 [SEP] Sex  Male [SEP] Location  Hospital [SEP] DescriptionofInjury  Ingestion [SEP] InjuryPlace  Residence [SEP] COD  Combined Drug Toxicity, Oxycodone and Carisoprodol [SEP]
+[CLS] ID  17-0732 [SEP] Age  56.0 [SEP] Sex  Male [SEP] Location  Residence [SEP] DescriptionofInjury  Ingestion [SEP] InjuryPlace  Residence [SEP] COD  Acute Alprazolam and Oxycodone Intoxication [SEP]
+[CLS] ID  15-0560 [SEP] Age  38.0 [SEP] Sex  Female [SEP] Location  Hospital [SEP] DescriptionofInjury  nan [SEP] InjuryPlace  Residence [SEP] COD  Acute Intoxication Due to the Combined Effects Of Benzodiazepines, Cocaine, Ethanol, and Oxymorphone [SEP]
+[CLS] ID  17-0733 [SEP] Age  58.0 [SEP] Sex  Male [SEP] DeathCity  NEW LONDON [SEP] DeathCounty  NEW LONDON [SEP] Location  Hospital [SEP] DescriptionofInjury  Drug Use [SEP] InjuryPlace  Residence [SEP] COD  Acute Intoxication Combined Effects of Carfentanil, Diazepam, Cocaine, Fentanyl, Heroin, and Oxycodone [SEP]
+[CLS] ID  15-0534 [SEP] Location  Other [SEP] DescriptionofInjury  nan [SEP] InjuryPlace  Hotel or Motel [SEP]
+[CLS] ID  12-0133 [SEP] Location  Hospital [SEP] DescriptionofInjury  Used Heroin [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  16-0717 [SEP] Location  Hospital [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Unknown [SEP]
+[CLS] ID  17-0785 [SEP] Location  Residence [SEP] DescriptionofInjury  Drug abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  15-0725 [SEP] Location  nan [SEP] DescriptionofInjury  nan [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  17-0208 [SEP] Age  35.0 [SEP] Sex  Female [SEP] Location  Hospital [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Other, Public Buildings [SEP] COD  Acute Intoxication Cocaine and Fentanyl [SEP]
+[CLS] ID  18-0496 [SEP] Location  Residence [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  16-0071 [SEP] Location  Residence [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  17-0268 [SEP] Location  Hospital [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  17-0850 [SEP] Age  41.0 [SEP] Sex  Male [SEP] DeathCity  NEW HAVEN [SEP] DeathCounty  NEW HAVEN [SEP] Location  Residence [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Residence [SEP] COD  Acute Intoxication due to the Combined Effects of Fentanyl, Heroin, and Methadone [SEP]
+[CLS] ID  14-0108 [SEP] Location  Residence [SEP] DescriptionofInjury  Inhalation [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  16-0574 [SEP] Location  Residence [SEP] DescriptionofInjury  substance abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  12-0270 [SEP] Location  Hospital [SEP] DescriptionofInjury  Used Cocaine and Heroin [SEP] InjuryPlace  Other [SEP]
+[CLS] ID  14-0162 [SEP] Location  Residence [SEP] DescriptionofInjury  Ingestion [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  17-1006 [SEP] Location  Other [SEP] DescriptionofInjury  Substance abuse [SEP] InjuryPlace  Hotel or Motel [SEP]
+[CLS] ID  14-0279 [SEP] Location  Other [SEP] DescriptionofInjury  Drug Use [SEP] InjuryPlace  Other [SEP]
+[CLS] ID  14-0083 [SEP] Location  Hospital [SEP] DescriptionofInjury  Opiate Use [SEP] InjuryPlace  Restaurant [SEP]
+[CLS] ID  15-0381 [SEP] Location  Hospital [SEP] DescriptionofInjury  nan [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  18-0817 [SEP] Age  34.0 [SEP] Sex  Female [SEP] DeathCity  NORWICH [SEP] DeathCounty  NEW LONDON [SEP] Location  Other [SEP] DescriptionofInjury  Drug Use [SEP] InjuryPlace  Residence [SEP] COD  Acute Intoxication Combined Effects of Ethanol, Diazepam, and Fentanyl [SEP]
+[CLS] ID  17-0839 [SEP] Location  Residence [SEP] DescriptionofInjury  Substance abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  17-0963 [SEP] Age  63.0 [SEP] Sex  Female [SEP] Location  Residence [SEP] DescriptionofInjury  Consumed medications [SEP] InjuryPlace  Residence [SEP] COD  Multidrug Toxicity Including Diphenhydramine, Temazepam, and Oxycodone [SEP]
+[CLS] ID  16-0164 [SEP] Age  37.0 [SEP] Sex  Female [SEP] Location  Other [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Parking Lot [SEP] COD  Acute Heroin and Alcohol Intoxication [SEP]
+[CLS] ID  18-0160 [SEP] Location  Hospital [SEP] DescriptionofInjury  Substance abuse [SEP] InjuryPlace  Alleyway [SEP]
+[CLS] ID  12-0261 [SEP] Age  55.0 [SEP] Sex  Female [SEP] Location  Hospital [SEP] DescriptionofInjury  Cocaine use [SEP] InjuryPlace  Residence [SEP] COD  Spontaneous Intracerebral Hemorrhage Associated with cocaine [SEP]
+[CLS] ID  17-0493 [SEP] Age  49.0 [SEP] Sex  Male [SEP] DeathCity  MIDDLETOWN [SEP] DeathCounty  MIDDLESEX [SEP] Location  Hospital [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Sidewalk [SEP] COD  Ethanol and Fentanyl [SEP]
+[CLS] ID  14-0381 [SEP] Age  41.0 [SEP] Sex  Male [SEP] Location  Hospital [SEP] DescriptionofInjury  Drug Use [SEP] InjuryPlace  Residence [SEP] COD  Intoxication due to the combined effects of Cocaine, Hydromorphone, Oxycodone, and Oxymorphone [SEP]
+[CLS] ID  15-0345 [SEP] Age  22.0 [SEP] Sex  Male [SEP] Location  Residence [SEP] DescriptionofInjury  nan [SEP] InjuryPlace  Residence [SEP] COD  Acute Heroin Intoxication [SEP]
+[CLS] ID  12-0326 [SEP] Age  48.0 [SEP] Sex  Female [SEP] DeathCity  TORRINGTON [SEP] DeathCounty  LITCHFIELD [SEP] Location  Residence [SEP] DescriptionofInjury  Used Heroin [SEP] InjuryPlace  Residence [SEP] COD  Heroin Toxicity [SEP]
+[CLS] ID  14-0420 [SEP] Location  Residence [SEP] DescriptionofInjury  combined alcohol and medication [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  17-0535 [SEP] Age  44.0 [SEP] Sex  Male [SEP] DeathCity  WATERBURY [SEP] DeathCounty  NEW HAVEN [SEP] Location  Hospital [SEP] DescriptionofInjury  Substance abuse [SEP] InjuryPlace  Residence [SEP] COD  Acute Intoxication Due To The Combined Effects Of Fentanyl, Acetyl Fentanyl, Oxycodone, Meprobamate, And Carisoprodol [SEP]
+[CLS] ID  15-0171 [SEP] Location  Hospital [SEP] DescriptionofInjury  nan [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  16-0695 [SEP] Location  Hospital [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  18-0587 [SEP] Location  Residence [SEP] DescriptionofInjury  Substance abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  14-0482 [SEP] Age  38.0 [SEP] Sex  Male [SEP] Location  Residence [SEP] DescriptionofInjury  Inhalation [SEP] InjuryPlace  Residence [SEP] COD  Cocaine, Heroin, and Oxycodone Intoxication [SEP]
+[CLS] ID  18-0818 [SEP] Location  Hospital [SEP] DescriptionofInjury  Toxic effects of ethanol and fentanyl [SEP] InjuryPlace  Bar or Night Club [SEP]
+[CLS] ID  12-0289 [SEP] Location  Residence [SEP] DescriptionofInjury  nan [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  12-0340 [SEP] Location  Residence [SEP] DescriptionofInjury  Ingestion [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  16-0547 [SEP] Location  Hospital [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  17-0081 [SEP] Location  Residence [SEP] DescriptionofInjury  SUBSTANCE ABUSE [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  16-0280 [SEP] Age  45.0 [SEP] Sex  Female [SEP] Location  Hospital [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Residential Building [SEP] COD  Complications of Methadone and Clonazepam Intoxication [SEP]
+[CLS] ID  15-0269 [SEP] Location  Residence [SEP] DescriptionofInjury  nan [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  16-0688 [SEP] Age  34.0 [SEP] Sex  Male [SEP] Location  Residence [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Residence [SEP] COD  Acute Intoxication due to the Combined Effects of Fentanyl and Heroin [SEP]
+[CLS] ID  12-0002 [SEP] Age  41.0 [SEP] Sex  Male [SEP] Location  Hospital [SEP] DescriptionofInjury  Ingestion [SEP] InjuryPlace  Residence [SEP] COD  Multiple Drug Toxicity [SEP]
+[CLS] ID  16-0102 [SEP] Location  Residence [SEP] DescriptionofInjury  substance abuse [SEP] InjuryPlace  Hotel or Motel [SEP]
+[CLS] ID  18-0481 [SEP] Location  Residence [SEP] DescriptionofInjury  Substance abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  12-0104 [SEP] Age  48.0 [SEP] Sex  Male [SEP] Location  Hospital [SEP] DescriptionofInjury  Cocaine use [SEP] InjuryPlace  Residence [SEP] COD  Cocaine Toxicity [SEP]
+[CLS] ID  13-0121 [SEP] Location  Hospital [SEP] DescriptionofInjury  Used Multiple Medications/Substances [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  16-0492 [SEP] Age  46.0 [SEP] Sex  Male [SEP] Location  Hospital [SEP] DescriptionofInjury  substance abuse [SEP] InjuryPlace  Hotel or Motel [SEP] COD  Complications of Acute and or Chronic Heroin, Cocaine and Alcohol Use [SEP]
+[CLS] ID  16-0733 [SEP] Location  Residence [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  13-0410 [SEP] Age  36.0 [SEP] Sex  Male [SEP] Location  Other [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Hotel or Motel [SEP] COD  Acute Cocaine and Heroin Toxicities [SEP]
+[CLS] ID  13-0165 [SEP] Age  38.0 [SEP] Sex  Male [SEP] Location  Residence [SEP] DescriptionofInjury  Used Medications [SEP] InjuryPlace  Residence [SEP] COD  Acute Buprenorphine, Alprazolam and Venlafaxine Toxicity [SEP]
+[CLS] ID  14-0245 [SEP] Location  Residence [SEP] DescriptionofInjury  Ingestion [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  13-0146 [SEP] Age  28.0 [SEP] Sex  Male [SEP] Location  Hospital [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Other [SEP] COD  Acute Heroin Toxicity [SEP]
+[CLS] ID  16-0855 [SEP] Age  50.0 [SEP] Sex  Male [SEP] Location  Other [SEP] DescriptionofInjury  SUBSTANCE ABUSE [SEP] InjuryPlace  Hotel or Motel [SEP] COD  ACUTE HEROIN AND COCAINE TOXICITIES [SEP]
+[CLS] ID  18-0514 [SEP] Age  24.0 [SEP] Sex  Male [SEP] Location  Residence [SEP] DescriptionofInjury  Substance abuse [SEP] InjuryPlace  Automobile [SEP] COD  ACUTE HEROIN AND FENTANYL TOXICITIES, BUPRENORPHINEAND AMPHETAMINE USE [SEP]
+[CLS] ID  18-0811 [SEP] Location  Other [SEP] DescriptionofInjury  Drug Use [SEP] InjuryPlace  Hotel or Motel [SEP]
+[CLS] ID  18-0527 [SEP] Location  Other [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Hotel or Motel [SEP]
+[CLS] ID  17-0004 [SEP] Age  54.0 [SEP] Sex  Male [SEP] Location  Hospital [SEP] DescriptionofInjury  USED FENTANYL AND ALCOHOL [SEP] InjuryPlace  Unknown [SEP] COD  COMPLICATIONS OF ACUTE FENTANYL AND ALCOHOL TOXICITIES [SEP]
+[CLS] ID  15-0561 [SEP] Location  Other [SEP] DescriptionofInjury  nan [SEP] InjuryPlace  Residential Building [SEP]
+[CLS] ID  18-0625 [SEP] Age  37.0 [SEP] Sex  Male [SEP] Location  Residence [SEP] DescriptionofInjury  Substance abuse [SEP] InjuryPlace  Residence [SEP] COD  Acute intoxication by the combined effects of fentanyl, heroin, tramadol, and cocaine [SEP]
+[CLS] ID  15-0704 [SEP] Location  Residence [SEP] DescriptionofInjury  nan [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  17-0822 [SEP] Location  Residence [SEP] DescriptionofInjury  SUBSTANCE ABUSE [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  17-0700 [SEP] Location  Other [SEP] DescriptionofInjury  Substance abuse [SEP] InjuryPlace  Unknown [SEP]
+[CLS] ID  17-0903 [SEP] Age  35.0 [SEP] Sex  Female [SEP] Location  Other [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Residential Building [SEP] COD  Acute Intoxication due to the Combined Effects of Fentanyl, Acetyl Fentanyl, Cocaine and Alcohol [SEP]
+[CLS] ID  12-0113 [SEP] Age  49.0 [SEP] Sex  Male [SEP] Location  Residence [SEP] DescriptionofInjury  Drug Use [SEP] InjuryPlace  Residence [SEP] COD  Ethanol and Heroin Toxicity [SEP]
+[CLS] ID  17-0311 [SEP] Age  32.0 [SEP] Sex  Male [SEP] Location  Residence [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Residence [SEP] COD  Acute Intoxication due to the Combined Effects of Carfentanil, Fentanyl, Acetyl Fentanyl, Butyryl Fentanyl, Heroin, Etizolam, U-47700, Methadone and Alprazolam [SEP]
+[CLS] ID  17-0513 [SEP] Age  33.0 [SEP] Sex  Male [SEP] Location  Residence [SEP] DescriptionofInjury  Substance abuse [SEP] InjuryPlace  Residence [SEP] COD  Fentanyl, Cocaine, and Ethanol [SEP]
+[CLS] ID  18-0133 [SEP] Location  Residence [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  17-0999 [SEP] Location  Residence [SEP] DescriptionofInjury  Drug abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  18-0423 [SEP] Age  54.0 [SEP] Sex  Male [SEP] Location  Hospital [SEP] DescriptionofInjury  Drug abuse [SEP] InjuryPlace  Alleyway [SEP] COD  Multidrug Toxicity Including Ethanol, Fentanyl, Acetyl Fentanyl, Chlordiazepoxide, and Nordiazepam [SEP]
+[CLS] ID  13-0276 [SEP] Location  Hospital [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  13-0439 [SEP] Age  45.0 [SEP] Sex  Male [SEP] Location  nan [SEP] DescriptionofInjury  Injection [SEP] InjuryPlace  Residence [SEP] COD  Heroin Intoxication [SEP]
+[CLS] ID  15-0230 [SEP] Location  Hospital [SEP] DescriptionofInjury  nan [SEP] InjuryPlace  Unknown [SEP]
+[CLS] ID  18-0798 [SEP] Location  Residence [SEP] DescriptionofInjury  Consumed illicit drug with ethanol [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  16-0643 [SEP] Location  Residence [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  18-0003 [SEP] Age  44.0 [SEP] Sex  Female [SEP] Location  Residence [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Residence [SEP] COD  Acute Intoxication From the Combined Effects of Cocaine, Diphenhydramine,and Hydroxyzine [SEP]
+[CLS] ID  18-0248 [SEP] Location  Hospital [SEP] DescriptionofInjury  Drug Use [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  18-0350 [SEP] Location  Residence [SEP] DescriptionofInjury  Substance abuse [SEP] InjuryPlace  Apartment House [SEP]
+[CLS] ID  17-0013 [SEP] Location  Other [SEP] DescriptionofInjury  Drug Use [SEP] InjuryPlace  Hotel or Motel [SEP]
+[CLS] ID  17-0574 [SEP] Location  Residence [SEP] DescriptionofInjury  Drug abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  18-0627 [SEP] Location  Residence [SEP] DescriptionofInjury  Substance abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  17-0307 [SEP] Age  48.0 [SEP] Sex  Male [SEP] DeathCity  BRISTOL [SEP] DeathCounty  HARTFORD [SEP] Location  Other [SEP] DescriptionofInjury  SUBSTANCE ABUSE [SEP] InjuryPlace  Other [SEP] COD  ACUTE FENTANYL AND COCAINE TOXICITIES, TRAMADOL USE [SEP]
+[CLS] ID  14-0249 [SEP] Age  22.0 [SEP] Sex  Female [SEP] Location  Residence [SEP] DescriptionofInjury  Inhalation/Injection [SEP] InjuryPlace  Residence [SEP] COD  Amphetamine, Heroin, and Fentanyl Intoxication [SEP]
+[CLS] ID  17-0494 [SEP] Location  Hospital [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Residence [SEP]
+[CLS] ID  17-0029 [SEP] Age  56.0 [SEP] Sex  Male [SEP] Location  Other [SEP] DescriptionofInjury  Substance Abuse [SEP] InjuryPlace  Warehouse [SEP] COD  Acute Intoxication due to the Combined Effects of Fentanyl and Heroin [SEP]

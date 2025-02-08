@@ -1,0 +1,100 @@
+[CLS] Production Year  1992 [SEP] Operator  Transfuel Resources Co. [SEP] County  Chautauqua [SEP] Town  FRENCH CREEK [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  GH [SEP]
+[CLS] Production Year  1983 [SEP] Operator  Taylor, Gilbert M [SEP] County  Allegany [SEP]
+[CLS] Production Year  1990 [SEP] Operator  Freeman Oil Co. [SEP] County  Allegany [SEP]
+[CLS] Production Year  1982 [SEP] Operator  Gallets, Clair F [SEP] County  Cattaraugus [SEP] Town  ALLEGANY [SEP] Producing Formation  CHIPMUNK [SEP] Purchaser Codes  OA [SEP]
+[CLS] Production Year  1994 [SEP] Operator  U S Energy Development Corp. [SEP] County  Chautauqua [SEP]
+[CLS] Production Year  1975 [SEP] Operator  Vosburg Oil Co. [SEP] County  Allegany [SEP]
+[CLS] Production Year  1992 [SEP] Operator  Spaulding Composites Co., Inc. [SEP] County  Erie [SEP] Town  TONAWANDA [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1991 [SEP] Operator  Meridian Exploration Corp. [SEP] County  Seneca [SEP] Town  FAYETTE [SEP] Producing Formation  QUEENSTON [SEP] Purchaser Codes  GX [SEP]
+[CLS] Production Year  1993 [SEP] Operator  Potter Oil Co. [SEP] County  Allegany [SEP] Town  INDEPENDENCE [SEP] Producing Formation  FULMER LEY [SEP] Purchaser Codes  GK,OC [SEP]
+[CLS] Production Year  1980 [SEP] Operator  Consolidated Exploration  & Gathering, Inc. [SEP] County  Seneca [SEP]
+[CLS] Production Year  1984 [SEP] Operator  Columbia Gas Transmission Corp. [SEP] County  Wyoming [SEP] Town  ARCADE [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1980 [SEP] Operator  Pero Farms, Inc. [SEP] County  Erie [SEP] Town  BRANT [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1976 [SEP] Operator  Bucher, William C [SEP] County  Cattaraugus [SEP]
+[CLS] Production Year  1994 [SEP] Operator  Columbia Natural Resources  LLC [SEP] County  Chautauqua [SEP]
+[CLS] Production Year  1989 [SEP] Operator  Desert Gas Exploration, Inc. [SEP] County  Chautauqua [SEP] Town  CARROLL [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  GK [SEP]
+[CLS] Production Year  1984 [SEP] Operator  Tony's, Inc. [SEP] County  Chautauqua [SEP]
+[CLS] Production Year  1994 [SEP] Operator  Subsea Oil & Gas, Inc. [SEP] County  Erie [SEP]
+[CLS] Production Year  1972 [SEP] Operator  Messer Oil Corp. [SEP] County  Allegany [SEP]
+[CLS] Production Year  1988 [SEP] Operator  Quaker State Corp. [SEP] County  Tioga [SEP]
+[CLS] Production Year  1990 [SEP] Operator  Plants and Goodwin, Inc. [SEP] County  Allegany [SEP] Town  SCIO [SEP] Producing Formation  RICHBURG [SEP] Injection Wells  0 [SEP] Disposal Wells  0 [SEP] Oil Produced, bbl  81 [SEP] Purchaser Codes  OB [SEP]
+[CLS] Production Year  1997 [SEP] Operator  Solomons Resources, LLC [SEP] County  Cattaraugus [SEP] Town  OLEAN [SEP] Producing Formation  BRADFORD [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1984 [SEP] Operator  Tipperary Oil & Gas Corp. [SEP] County  Onondaga [SEP] Town  LYSANDER [SEP] Producing Formation  TRENTON [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1969 [SEP] Operator  Putnam Oil Company [SEP] County  Allegany [SEP]
+[CLS] Production Year  1991 [SEP] Operator  Basic Energy Producers, Inc. [SEP] County  Chautauqua [SEP] Town  CHAUTAUQUA [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  GK [SEP]
+[CLS] Production Year  1991 [SEP] Operator  Loch Exploration, Inc. [SEP] County  Wyoming [SEP] Town  ARCADE [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  GH [SEP]
+[CLS] Production Year  1999 [SEP] Operator  Belden & Blake Corporation [SEP] County  Chautauqua [SEP]
+[CLS] Production Year  1969 [SEP] Operator  Wyckoff Development Co. [SEP] County  Steuben [SEP] Town  JASPER [SEP] Producing Formation  ORISKANY [SEP] Purchaser Codes  GX [SEP]
+[CLS] Production Year  1990 [SEP] Operator  Kidder Exploration, Inc. [SEP] County  Chautauqua [SEP] Town  ELLICOTT [SEP] Producing Formation  ONONDAGA [SEP] Purchaser Codes  GK [SEP]
+[CLS] Production Year  1983 [SEP] Operator  Marmik Oil Co. [SEP] County  Erie [SEP] Town  BRANT [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1995 [SEP] Operator  Evinczik, Mitchell B [SEP] County  Chautauqua [SEP]
+[CLS] Production Year  1986 [SEP] Operator  Richardson Petroleum Corp. [SEP] County  Allegany [SEP] Town  WEST UNION [SEP] Producing Formation  FULMER LEY [SEP] Purchaser Codes  GK,OB [SEP]
+[CLS] Production Year  1987 [SEP] Operator  Dunn, Walter J. & Elixabeth Irrevocable Trust [SEP] County  Cayuga [SEP]
+[CLS] Production Year  1992 [SEP] Operator  McCray, Gordon M. [SEP] County  Chautauqua [SEP]
+[CLS] Production Year  1989 [SEP] Operator  Estate of Edward Eckstrom [SEP] County  Chautauqua [SEP] Town  BUSTI [SEP] Producing Formation  GLADE [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1974 [SEP] Operator  Peterson, JoAnn, Kunn, Nancy/Dutka Estate [SEP] County  Cattaraugus [SEP]
+[CLS] Production Year  1991 [SEP] Operator  Meridian Exploration Corp. [SEP] County  Seneca [SEP]
+[CLS] Production Year  1998 [SEP] Operator  Seneca Resources Corporation [SEP] County  Cattaraugus [SEP] Town  DAYTON [SEP] Producing Formation  ONONDAGA [SEP] Purchaser Codes  GK [SEP]
+[CLS] Production Year  1978 [SEP] Operator  Great Lakes Color Printing Co. [SEP] County  Chautauqua [SEP] Town  DUNKIRK [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1987 [SEP] Operator  Texas Brine Company, LLC [SEP] County  Cattaraugus [SEP] Town  PORTVILLE [SEP] Producing Formation  BRADFORD [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1993 [SEP] Operator  TGX Corp. [SEP] County  Cattaraugus [SEP] Town  OTTO [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  GK [SEP]
+[CLS] Production Year  1990 [SEP] Operator  Envirogas, Inc. [SEP] County  Cattaraugus [SEP]
+[CLS] Production Year  1998 [SEP] Operator  Wells,  Jean [SEP] County  Cattaraugus [SEP] Town  ELLICOTTVILLE [SEP] Producing Formation  MEDINA [SEP] Injection Wells  0 [SEP] Disposal Wells  0 [SEP] Oil Produced, bbl  0 [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1989 [SEP] Operator  Empire Exploration, Inc. [SEP] County  Chautauqua [SEP]
+[CLS] Production Year  1972 [SEP] Operator  Evinczik & Johnson [SEP] County  Chautauqua [SEP]
+[CLS] Production Year  1989 [SEP] Operator  Estate of Donald Vanstrom [SEP] County  Chautauqua [SEP] Town  ELLICOTT [SEP] Producing Formation  MEDINA [SEP] Injection Wells  0 [SEP] Disposal Wells  0 [SEP] Oil Produced, bbl  0 [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1985 [SEP] Operator  Cunningham Natural Gas Corp. [SEP] County  Allegany [SEP]
+[CLS] Production Year  1979 [SEP] Operator  Lopatofsky, George J [SEP] County  Erie [SEP]
+[CLS] Production Year  1989 [SEP] Operator  Bemus Point Central School District [SEP] County  Chautauqua [SEP]
+[CLS] Production Year  1993 [SEP] Operator  Balcerzak, Mr. & Mrs. Raymond  R., Sr. [SEP] County  Erie [SEP] Town  MARILLA [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1998 [SEP] Operator  More, David Hamlin [SEP] County  Erie [SEP] Town  NORTH [SEP] LINS [SEP] Producing Formation  AKRON [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1976 [SEP] Operator  Goodman Pipe Co. [SEP] County  Cattaraugus [SEP]
+[CLS] Production Year  1999 [SEP] Operator  Hall, Frank & Barbara [SEP] County  Chautauqua [SEP]
+[CLS] Production Year  1978 [SEP] Operator  KBK Land Ventures, Inc. [SEP] County  Chautauqua [SEP]
+[CLS] Production Year  1994 [SEP] Operator  Dunning & Barnes Oil Co. [SEP] County  Allegany [SEP] Town  GENESEE [SEP] Producing Formation  RICHBURG [SEP] Purchaser Codes  OC [SEP]
+[CLS] Production Year  1995 [SEP] Operator  Belden & Blake Corporation [SEP] County  Chautauqua [SEP]
+[CLS] Production Year  1999 [SEP] Operator  Taylor, Ricky L. [SEP] County  Allegany [SEP] Town  WELLSVILLE [SEP] Producing Formation  FULMER LEY [SEP] Injection Wells  9 [SEP] Disposal Wells  0 [SEP] Oil Produced, bbl  144 [SEP] Purchaser Codes  OD [SEP]
+[CLS] Production Year  1988 [SEP] Operator  TGX Corp. [SEP] County  Chautauqua [SEP] Town  WESTFIELD [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  GH,GK,GX [SEP]
+[CLS] Production Year  1984 [SEP] Operator  Subsea Oil & Gas, Inc. [SEP] County  Genesee [SEP]
+[CLS] Production Year  1989 [SEP] Operator  Venture Technology, Inc. [SEP] County  Chautauqua [SEP] Town  POMFRET [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  GK [SEP]
+[CLS] Production Year  1987 [SEP] Operator  Spurr, Ruth E. [SEP] County  Chautauqua [SEP]
+[CLS] Production Year  1994 [SEP] Operator  Ardent Resources, Inc. [SEP] County  Wyoming [SEP]
+[CLS] Production Year  1978 [SEP] Operator  Evinczik & Johnson [SEP] County  Chautauqua [SEP]
+[CLS] Production Year  1983 [SEP] Operator  Empire Energies [SEP] County  Erie [SEP] Town  EDEN [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1974 [SEP] Operator  National Fuel Gas Supply Corp. [SEP] County  Erie [SEP] Town  LANCASTER [SEP] Producing Formation  MEDINA [SEP] Injection Wells  0 [SEP] Disposal Wells  0 [SEP] Oil Produced, bbl  0 [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1991 [SEP] Operator  New York Energy [SEP] County  Chautauqua [SEP] Town  CHERRY CREEK [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  GX [SEP]
+[CLS] Production Year  1998 [SEP] Operator  United States Gypsum Co. [SEP] County  Wyoming [SEP] Town  BENNINGTON [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  GK [SEP]
+[CLS] Production Year  1997 [SEP] Operator  Subsea Oil & Gas, Inc. [SEP] County  Erie [SEP] Town  NEWSTEAD [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  GK [SEP]
+[CLS] Production Year  1992 [SEP] Operator  Apex Resources,  Inc. [SEP] County  Allegany [SEP] Town  BOLIVAR [SEP] Producing Formation  RICHBURG [SEP] Injection Wells  0 [SEP] Disposal Wells  0 [SEP] Oil Produced, bbl  0 [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1998 [SEP] Operator  Geo Ventures, Inc. [SEP] County  Chautauqua [SEP] Town  SHERIDAN [SEP] Producing Formation  MEDINA [SEP] Injection Wells  0 [SEP] Disposal Wells  0 [SEP] Oil Produced, bbl  0 [SEP] Purchaser Codes  GX [SEP]
+[CLS] Production Year  1992 [SEP] Operator  J M Resources, Inc. [SEP] County  Chautauqua [SEP] Town  RIPLEY [SEP] Producing Formation  MEDINA [SEP] Injection Wells  0 [SEP] Disposal Wells  0 [SEP] Oil Produced, bbl  0 [SEP] Purchaser Codes  GK [SEP]
+[CLS] Production Year  1988 [SEP] Operator  Lenacre Oil Co. [SEP] County  Chautauqua [SEP]
+[CLS] Production Year  1979 [SEP] Operator  Le Roy Central School [SEP] County  Genesee [SEP] Town  LE ROY [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1996 [SEP] Operator  Bowker, Robert E. [SEP] County  Allegany [SEP] Town  WILLING [SEP] Producing Formation  FULMER LEY [SEP] Purchaser Codes  OC [SEP]
+[CLS] Production Year  1983 [SEP] Operator  Mitchell Exploration Corp. [SEP] County  Allegany [SEP]
+[CLS] Production Year  1984 [SEP] Operator  Clapp, George W [SEP] County  Cattaraugus [SEP] Town  ALLEGANY [SEP] Producing Formation  nan [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1972 [SEP] Operator  B.A.K. Oil Company [SEP] County  Allegany [SEP]
+[CLS] Production Year  1999 [SEP] Operator  Mt. Morris Drilling,  Inc. [SEP] County  Livingston [SEP] Town  GROVELAND [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1970 [SEP] Operator  Ernest Meridan Oil Co. [SEP] County  Cattaraugus [SEP] Town  nan [SEP] Producing Formation  nan [SEP] Injection Wells  0 [SEP] Disposal Wells  0 [SEP] Oil Produced, bbl  1002 [SEP] Purchaser Codes  OC [SEP]
+[CLS] Production Year  1974 [SEP] Operator  Flint Oil & Gas, Inc. [SEP] County  Chautauqua [SEP]
+[CLS] Production Year  1975 [SEP] Operator  Dedrick, Douglas [SEP] County  Erie [SEP] Town  AURORA [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  GK [SEP]
+[CLS] Production Year  1972 [SEP] Operator  Wilson, Peter R. [SEP] County  Allegany [SEP]
+[CLS] Production Year  1974 [SEP] Operator  F.E. Petroleum Corp. [SEP] County  Genesee [SEP]
+[CLS] Production Year  1993 [SEP] Operator  Hickey, Kevin F. & Mary [SEP] County  Erie [SEP]
+[CLS] Production Year  1981 [SEP] Operator  D & D Oil Co. [SEP] County  Cattaraugus [SEP] Town  ALLEGANY [SEP] Producing Formation  BRADFORD [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1982 [SEP] Operator  High Point Petroleum Corp. [SEP] County  Wyoming [SEP]
+[CLS] Production Year  1969 [SEP] Operator  Libra Petroleum Company [SEP] County  Chautauqua [SEP] Town  BUSTI [SEP] Producing Formation  GLADE [SEP] Purchaser Codes  OB [SEP]
+[CLS] Production Year  1988 [SEP] Operator  J M Resources, Inc. [SEP] County  Chautauqua [SEP] Town  POMFRET [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  GK [SEP]
+[CLS] Production Year  1971 [SEP] Operator  Pavilion Natural Gas Co. [SEP] County  Genesee [SEP] Town  PAVILION [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  GX [SEP]
+[CLS] Production Year  1997 [SEP] Operator  Dobaj, Raymond [SEP] County  Erie [SEP]
+[CLS] Production Year  1998 [SEP] Operator  Stedman Energy, Inc. [SEP] County  Chautauqua [SEP]
+[CLS] Production Year  1983 [SEP] Operator  JFS Energy Enterprises, LLC [SEP] County  Erie [SEP]
+[CLS] Production Year  1997 [SEP] Operator  McDonald, Gerald L. [SEP] County  Allegany [SEP]
+[CLS] Production Year  1999 [SEP] Operator  Frey Well Drilling, Inc. [SEP] County  Erie [SEP] Town  MARILLA [SEP] Producing Formation  MEDINA [SEP] Purchaser Codes  [SEP]
+[CLS] Production Year  1986 [SEP] Operator  Kenco Oil & Gas, Inc. [SEP] County  Cattaraugus [SEP]
+[CLS] Production Year  1983 [SEP] Operator  Gerald M. & Jewell F. Mooney Revoc. Living Trust [SEP] County  Chautauqua [SEP]
+[CLS] Production Year  1994 [SEP] Operator  GFS Energy, Inc. [SEP] County  Erie [SEP]
+[CLS] Production Year  1973 [SEP] Operator  Pennzoil Products Co. [SEP] County  Cattaraugus [SEP]
+[CLS] Production Year  1998 [SEP] Operator  Rice, Charles H. [SEP] County  Genesee [SEP]
+[CLS] Production Year  1986 [SEP] Operator  Vandermark Associates [SEP] County  Allegany [SEP] Town  WARD [SEP] Producing Formation  ORISKANY [SEP] Injection Wells  0 [SEP] Disposal Wells  0 [SEP] Oil Produced, bbl  0 [SEP] Purchaser Codes  GH [SEP]
+[CLS] Production Year  1997 [SEP] Operator  Seneca Resources Corporation [SEP] County  Chautauqua [SEP]
