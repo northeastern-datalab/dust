@@ -602,6 +602,27 @@ def grasp(S_dict: dict, q_dict:dict, k: int, i_max: int = 10, lmda: float = 0.7,
         embedding_plot = ""
     return R, computed_metrics, embedding_plot
 
+# S_dict = copy.deepcopy(S_dict), q_dict=copy.deepcopy(q_dict), k = k, i_max=10, metric = metric, lmda= lmda, normalize=normalize, max_metric=max_metric, compute_metric = compute_metric
+def random_algorithm(S_dict: dict, q_dict:dict, k: int, i_max: int = 10, lmda: float = 0.7, alfa: float = 0.01, randomize: bool = True, random_seed: int = 42, metric = "cosine", print_results = False, normalize = False, max_metric = True, compute_metric = True) -> set: #S_dict is a dictionary with tuple id as key and its embeddings as value.
+    #the metric is for sim dict and div dict, and is independent of evaluation. we evaluate using all three metrics and in compute_metric() function, we again compute sim_dict and div_dict.
+    start_time = time.time_ns()
+    q = np.mean(list(q_dict.values()), axis=0)
+    R = set()
+    ranked_div_result = []
+    S_set = set(S_dict.keys())
+    random.seed(random_seed)
+    R = set(random.sample(S_set, k))
+    end_time = time.time_ns()
+    total_time = round(int(end_time - start_time) / 10 ** 9, 2)
+    print("Total time taken: ", total_time , " seconds.")
+    if compute_metric == True:
+        computed_metrics, embedding_plot = compute_metrics(R, S_dict, q_dict, lmda, k, print_results = print_results, normalize=normalize, metric=metric, max_metric = max_metric)
+        for each in computed_metrics:
+            each['time_taken'] = total_time
+    else:
+        computed_metrics = [{"metric": "n/a", "with_query" : "n/a", "max_score": np.nan, "max-min_score": np.nan, "avg_score": np.nan, 'time_taken' : total_time}]
+        embedding_plot = ""
+    return R, computed_metrics, embedding_plot
 
 
 def cluster_tuples(embedding_dict, q_dict , k, method = "bkmeans", metric = "l2", lmda = 0.7, linkage = "average", helper_function = False, print_results = False, normalize =False, max_metric = True, compute_metric = True):

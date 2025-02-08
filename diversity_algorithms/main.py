@@ -64,6 +64,22 @@ def RunDiversityAlgorithms(S_dict, q_dict, algorithm, query_name, k, metric, nor
         #stats_df_path = r"div_stats" + os.sep + benchmark_name + "__"+ current_algorithm + "_" + metric + ".csv"
         #stats_df.to_csv(stats_df_path)
 
+    if "random" in algorithm or "all" in algorithm:
+        print(f"Using random method.")
+        current_algorithm = "random"
+        random_results, random_metrics, random_embedding_plot = div_utl.random_algorithm(S_dict = copy.deepcopy(S_dict), q_dict=copy.deepcopy(q_dict), k = k, i_max=10, metric = metric, lmda= lmda, normalize=normalize, max_metric=max_metric, compute_metric = compute_metric)
+        diversified_tuples[current_algorithm] = random_results
+        if compute_metric == True:
+            random_embedding_plot.title(f'{metric.capitalize()} distance PCA Embeddings of {query_name} result by Random')
+            plt_name = current_algorithm + "__" + query_name + "__" + metric + "__k-" + str(k) +".jpg"
+            random_embedding_plot.savefig(eplot_folder_path + plt_name)
+        for each in random_metrics:
+            # each = {"metric": "l2", "with_query" : "yes", "max_score": l2_with_query_max_scores, "max-min_score": min(l2_with_query_min_scores), "avg_score": l2_with_query_avg_scores}
+            append_list = [current_algorithm, embedding_type, query_name, len(S_dict), len(q_dict), k, metric, each['metric'], each["with_query"], normalize, each["max_score"], each["max-min_score"], each["avg_score"], each["time_taken"]]
+            stats_df.loc[len(stats_df)] = append_list
+        #stats_df_path = r"div_stats" + os.sep + benchmark_name + "__"+ current_algorithm + "_" + metric + ".csv"
+        #stats_df.to_csv(stats_df_path)
+
     if "clt" in algorithm  or "all" in algorithm:
         print(f"Using clt method.")
         current_algorithm = "clt"
@@ -109,7 +125,7 @@ def RunDiversityAlgorithms(S_dict, q_dict, algorithm, query_name, k, metric, nor
     if "our" in algorithm  or "all" in algorithm:
         print(f"Using Our method.")
         current_algorithm = "our"
-        s_dict_max = 10000 # remember to handle this parameter
+        s_dict_max = 2500 # remember to handle this parameter
         # reduce the size of dictionary to s_dict_max.
 
         our_results, our_metrics, our_embedding_plot, our_cluster_plot = div_utl.our_algorithm(embedding_dict = copy.deepcopy(S_dict), query_dict = copy.deepcopy(q_dict), k = k, method = "hierarchical", metric = metric, linkage="average", lmda = 0.7, strategy = "min", normalize=normalize, max_metric=max_metric, compute_metric = compute_metric, s_dict_max= s_dict_max)
@@ -131,20 +147,21 @@ def RunDiversityAlgorithms(S_dict, q_dict, algorithm, query_name, k, metric, nor
     #stats_df.to_csv(stats_df_path, index = False)
 run_sample = "regular"  # {"sample", "efficiency_s", "efficiency_s", "efficiency_large", "regular"}
 # query_name = r"sample_query.csv"
-benchmark_name = r"ugen_benchmark" #will be the name of stat file
+benchmark_name = r"imdb_case_study" #will be the name of stat file
 if run_sample == "efficiency_k" or run_sample == "efficiency_s":
     benchmark_name = r"efficiency_benchmark"
 if run_sample == "efficiency_large":
     benchmark_name = r"efficiency_large_benchmark"
-k = 30 #30 or 100
+k = 500 #30 or 100
 lmda = 0.7
 # algorithm = {"all"} # gmc, gne, clt, our, all
 s_dict_max = 10000
 q_dict_max = 100
 algorithm =  {"gmc", "clt"} # {"all"} 
 algorithm = {"our"}
+# algorithm = {"random"}
 metric = "cosine" # cosine, l1, l2
-embedding_type = "roberta"
+embedding_type = "dust"
 eplot_folder_path = r"div_plots" + os.sep + "embedding_plots" + os.sep 
 cplot_folder_path = r"div_plots" + os.sep + "cluster_plots" + os.sep 
 result_folder_path = r"div_result_tables" + os.sep
@@ -154,9 +171,9 @@ stats_df_path = r"final_stats" + os.sep + benchmark_name + "__" + metric + "__" 
 normalize = True
 max_metric = False
 compute_metric = True
-full_dust = False
+full_dust = True
 save_results = True
-allowed_algorithms = {"all", "gmc", "gne", "clt", "our_base", "our"}
+allowed_algorithms = {"all", "gmc", "gne", "clt", "our_base", "our", "random"}
 # div_result_path = r"div_result_tables" + os.sep + benchmark_name + os.sep + metric + os.sep + embedding_type + os.sep
 div_result_path = os.path.join(r"div_result_tables", benchmark_name, metric, embedding_type)
 # Create directory if it does not exist
