@@ -1,0 +1,100 @@
+[CLS] Immigration_Records  Parrett, Chas. [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Newbury [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  0 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Carroll, Francis [SEP] Unnamed: 2  English [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  Glencoe [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  0.0 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Thompson, J.A. [SEP] Unnamed: 1  Aug. 21 1877 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Sarmatian [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  Bowmanville [SEP]
+[CLS] Immigration_Records  Francis, W. H. [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Woodstock [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  1 [SEP] Unnamed: 10  4 [SEP]
+[CLS] Immigration_Records  Foster, W. [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Weston [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  0.0 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  LeMicred, Mr. [SEP] Unnamed: 2  French [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  London [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  0.0 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Culy, Jacob [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Ptland [SEP] Unnamed: 6  Meaford [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  1.0 [SEP] Unnamed: 10  2 [SEP]
+[CLS] Immigration_Records  Rogers, J. [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Brampton [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  0 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Pinkhard, John [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Brampton [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  1 [SEP] Unnamed: 10  3 [SEP]
+[CLS] Immigration_Records  Kennedy, Jno. [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  London [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  0.0 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Knifton, Mrs. [SEP] Unnamed: 1  June 13 1871 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  nan [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  Niagara & return [SEP]
+[CLS] Immigration_Records  Baken, G'o [SEP] Unnamed: 2  English [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  Grimsby [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  1 [SEP] Unnamed: 10  5 [SEP]
+[CLS] Immigration_Records  Newell, Thomas [SEP] Unnamed: 2  English [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  Woodstock [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  1 [SEP] Unnamed: 10  5 [SEP]
+[CLS] Immigration_Records  Hilton, Henry [SEP] Unnamed: 1  July 20 1870 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Austrian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Angus [SEP]
+[CLS] Immigration_Records  McDonald, John [SEP] Unnamed: 1  April 17 1873 [SEP] Unnamed: 2  Scotch [SEP] Unnamed: 4  Polynesian [SEP] Unnamed: 5  Portland [SEP] Unnamed: 6  Fergus [SEP]
+[CLS] Immigration_Records  Unknown [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Port Elgin [SEP] Unnamed: 8  0 [SEP] Unnamed: 9  0 [SEP] Unnamed: 10  3 [SEP]
+[CLS] Immigration_Records  Jackson, John [SEP] Unnamed: 1  May 18 1870 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Tweed [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Niagara [SEP]
+[CLS] Immigration_Records  Jones, W [SEP] Unnamed: 1  Aug 13 1869 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Austrian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Duffin Creek [SEP]
+[CLS] Immigration_Records  Richards, R [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  New Castle [SEP] Unnamed: 8  nan [SEP] Unnamed: 9  nan [SEP] Unnamed: 10  2 [SEP]
+[CLS] Immigration_Records  Wood; Francis; Francis [SEP] Unnamed: 1  June 25 1878 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Moravian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Scarboro [SEP]
+[CLS] Immigration_Records  Watton, Wm. [SEP] Unnamed: 1  Nov. 1 1877 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Peruvian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Guelph [SEP]
+[CLS] Immigration_Records  Woolridge, Jas. [SEP] Unnamed: 1  June 1 1871 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Niger [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Hamilton [SEP]
+[CLS] Immigration_Records  Morely, A. [SEP] Unnamed: 1  Aug. 23 1880 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Viking [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Galt [SEP]
+[CLS] Immigration_Records  Armstrong, Jas [SEP] Unnamed: 1  May 19 1869 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Serapis [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Hamilton [SEP]
+[CLS] Immigration_Records  Barand, John [SEP] Unnamed: 1  Mar 6 1882 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Parisian [SEP] Unnamed: 5  Halifax [SEP] Unnamed: 6  Hawkstone [SEP]
+[CLS] Immigration_Records  Barnes, Robt [SEP] Unnamed: 1  June 9 1870 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Austrian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Weston [SEP]
+[CLS] Immigration_Records  Cain, G'o [SEP] Unnamed: 1  June 14 1872 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Scan [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Norval [SEP]
+[CLS] Immigration_Records  Slaughter, Jas [SEP] Unnamed: 1  May 13 1869 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Dacia [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  St Mary's [SEP]
+[CLS] Immigration_Records  Green, John [SEP] Unnamed: 2  English [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  Brampton [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  0 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Murtin; Blumley [SEP] Unnamed: 1  Oct. 30 1879 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Moravian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Rosseau [SEP]
+[CLS] Immigration_Records  Carr, H [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  St Mary's [SEP] Unnamed: 8  nan [SEP] Unnamed: 9  nan [SEP] Unnamed: 10  1 [SEP]
+[CLS] Immigration_Records  Fraser, John [SEP] Unnamed: 1  May 29 1873 [SEP] Unnamed: 2  Scotch [SEP] Unnamed: 4  Corinthian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Niagara [SEP]
+[CLS] Immigration_Records  Newland, G [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Orillia [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  1.0 [SEP] Unnamed: 10  4 [SEP]
+[CLS] Immigration_Records  Wilks, C [SEP] Unnamed: 1  June 10 1869 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Nestorian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Hamilton [SEP]
+[CLS] Immigration_Records  Smith, T. [SEP] Unnamed: 1  Aug. 3 1878 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Polynesian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Cobourg [SEP]
+[CLS] Immigration_Records  Hans; Bonner [SEP] Unnamed: 1  Apr 6 1871 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Prussian [SEP] Unnamed: 5  Portland [SEP] Unnamed: 6  Barrie [SEP]
+[CLS] Immigration_Records  Rymen, Alf [SEP] Unnamed: 2  English [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  Rockwood [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  1 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Vincent, T [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Oakville [SEP] Unnamed: 8  nan [SEP] Unnamed: 9  nan [SEP] Unnamed: 10  5 [SEP]
+[CLS] Immigration_Records  Unknown [SEP] Unnamed: 1  Oct. 5 1880 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  nan [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  Orangeville [SEP]
+[CLS] Immigration_Records  Mattoch, Fred [SEP] Unnamed: 1  June 11 1868 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Thames [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Thorn Hill [SEP]
+[CLS] Immigration_Records  Sharpley, C. [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Cooksville [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  0 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Pumphey, A [SEP] Unnamed: 2  England [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  Malton [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  1.0 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Colgin, John [SEP] Unnamed: 1  Jan 17 1883 [SEP] Unnamed: 2  Irish [SEP] Unnamed: 4  Sardinian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Streetsville Jnct [SEP]
+[CLS] Immigration_Records  Lyley, Charles [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  From London to Toronto [SEP] Unnamed: 8  nan [SEP] Unnamed: 9  nan [SEP] Unnamed: 10  2 [SEP]
+[CLS] Immigration_Records  Johnson, John [SEP] Unnamed: 1  May 22 1872 [SEP] Unnamed: 2  Norwegian [SEP] Unnamed: 4  Nestorian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Silver Islet [SEP]
+[CLS] Immigration_Records  Smith, Jno. [SEP] Unnamed: 1  April 30 1873 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Prussian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Hamilton [SEP]
+[CLS] Immigration_Records  Luming, Mrs [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Scarboro [SEP] Unnamed: 8  nan [SEP] Unnamed: 9  nan [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Cooper; Chack [SEP] Unnamed: 1  April 5 1873 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Sarmatian [SEP] Unnamed: 5  Portland [SEP] Unnamed: 6  Orillia [SEP]
+[CLS] Immigration_Records  Clancy, John [SEP] Unnamed: 2  Irish [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  Port Credit [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  1.0 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Robson, S [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Port Hop [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  1.0 [SEP] Unnamed: 10  3 [SEP]
+[CLS] Immigration_Records  Whellams, Mr. [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  London & return [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  1 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Hamill, R. [SEP] Unnamed: 1  May 16 1872 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Medway [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Mount Forest [SEP]
+[CLS] Immigration_Records  Wallace, C [SEP] Unnamed: 2  English [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  Meaford [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  1.0 [SEP] Unnamed: 10  3 [SEP]
+[CLS] Immigration_Records  Dallison, W. [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Hamilton [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  0.0 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Clayton, G. [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Thamesville [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  0.0 [SEP] Unnamed: 10  1 [SEP]
+[CLS] Immigration_Records  Ross, John [SEP] Unnamed: 2  Scotch [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Pt. Credit [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  0.0 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Keen, Mrs [SEP] Unnamed: 2  nan [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  St Mary's [SEP] Unnamed: 8  0 [SEP] Unnamed: 9  1 [SEP] Unnamed: 10  7 [SEP]
+[CLS] Immigration_Records  Burnside, Rich'd [SEP] Unnamed: 1  Aug 13 1874 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Prussian [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  Alandale [SEP]
+[CLS] Immigration_Records  Donaghie, Jas. [SEP] Unnamed: 1  May 2 1881 [SEP] Unnamed: 2  Scotch [SEP] Unnamed: 4  Buenos Ayres [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Harley [SEP]
+[CLS] Immigration_Records  Flower, Jno. [SEP] Unnamed: 1  Sept 11 1872 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Hibernian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Goderich [SEP]
+[CLS] Immigration_Records  Unknown [SEP] Unnamed: 2  Swede [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Wingham to Toronto [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  0.0 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Coutter, John [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  St. Thomas [SEP] Unnamed: 8  2 [SEP] Unnamed: 9  2 [SEP] Unnamed: 10  3 [SEP]
+[CLS] Immigration_Records  Wensley, Chas [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Port Hope [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  1 [SEP] Unnamed: 10  2 [SEP]
+[CLS] Immigration_Records  Spencer, F. [SEP] Unnamed: 1  June 18 1879 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Phoenecian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Shelborne [SEP]
+[CLS] Immigration_Records  Stanbrook, J. [SEP] Unnamed: 1  May 21 1873 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Medway [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  St. Catharines [SEP]
+[CLS] Immigration_Records  Alvarey, John [SEP] Unnamed: 1  May 23 1871 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Prussian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Belleville to Toronto [SEP]
+[CLS] Immigration_Records  Dore, F [SEP] Unnamed: 1  Sept 11 1866 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  nan [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  From Hamilton to Wyoming [SEP]
+[CLS] Immigration_Records  Sands, James [SEP] Unnamed: 1  Sept 24 1873 [SEP] Unnamed: 2  Irish [SEP] Unnamed: 4  Memphis [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  London [SEP]
+[CLS] Immigration_Records  Evans, H. [SEP] Unnamed: 1  July 12 1869 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Simoons [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Niagara [SEP]
+[CLS] Immigration_Records  Bird; Pope, M.; A. [SEP] Unnamed: 1  Nov 5 1870 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Scandinavian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Hamilton [SEP]
+[CLS] Immigration_Records  Seymour, Mrs. [SEP] Unnamed: 1  Sept'r 20 1871 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Prussian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  St. Thomas [SEP]
+[CLS] Immigration_Records  Simpson, Henry [SEP] Unnamed: 1  June 1 1871 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Niger [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Hamilton [SEP]
+[CLS] Immigration_Records  Earl, John [SEP] Unnamed: 1  May 10 1869 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Crocodile [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  London [SEP]
+[CLS] Immigration_Records  Wallis, Thos. [SEP] Unnamed: 1  May 13 1873 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Circassian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Ingersoll [SEP]
+[CLS] Immigration_Records  Fowler, R. [SEP] Unnamed: 1  July 2 1873 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Sarmatian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Hamilton [SEP]
+[CLS] Immigration_Records  Ralston, Miss [SEP] Unnamed: 1  July 6 1871 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Nestorian [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  London [SEP]
+[CLS] Immigration_Records  Tayford, Ben [SEP] Unnamed: 2  English [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  London [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  0 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Kirkpatrick, Go [SEP] Unnamed: 1  Feb'y 10 1870 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Nestorian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Hamilton [SEP]
+[CLS] Immigration_Records  Slaven, J. [SEP] Unnamed: 1  Dec. 4 1879 [SEP] Unnamed: 2  Irish [SEP] Unnamed: 4  Sardinian [SEP] Unnamed: 5  Halifax [SEP] Unnamed: 6  Hamilton [SEP]
+[CLS] Immigration_Records  Whitehead, E. M. [SEP] Unnamed: 1  July 31 1872 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Hibernian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Watford [SEP]
+[CLS] Immigration_Records  Sharpe, Jas. [SEP] Unnamed: 1  May 29 1881 [SEP] Unnamed: 2  Scotch [SEP] Unnamed: 4  Corean [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Elora [SEP]
+[CLS] Immigration_Records  Foley, Pat. [SEP] Unnamed: 1  May 11 1875 [SEP] Unnamed: 2  Irish [SEP] Unnamed: 4  Polynesian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Malton [SEP]
+[CLS] Immigration_Records  Clarke, John [SEP] Unnamed: 2  Scotch [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Scarboro [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  2 [SEP] Unnamed: 10  2 [SEP]
+[CLS] Immigration_Records  Giles, Mary Ann [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Hamilton [SEP] Unnamed: 8  0 [SEP] Unnamed: 9  1 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Boodwin; Pascoe [SEP] Unnamed: 1  Oct 3 1872 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Thames [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Galt [SEP]
+[CLS] Immigration_Records  Friend, John [SEP] Unnamed: 2  English [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  Oakville [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  0 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Unknown [SEP] Unnamed: 1  Oct 25 1882 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Sardinian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Hamilton [SEP]
+[CLS] Immigration_Records  Trebelcocke, J. [SEP] Unnamed: 1  Aug. 22 1879 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Lake Winnipeg [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Southampton [SEP]
+[CLS] Immigration_Records  Wilson, T. [SEP] Unnamed: 2  Irish [SEP] Unnamed: 5  Halifax [SEP] Unnamed: 6  Elmvale [SEP] Unnamed: 8  1.0 [SEP] Unnamed: 9  0.0 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Arnold, F [SEP] Unnamed: 1  Aug 29 1874 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Scan [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  Sebringville [SEP]
+[CLS] Immigration_Records  Eber, E'd [SEP] Unnamed: 1  Sept 26 1870 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Medway [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Hamilton [SEP]
+[CLS] Immigration_Records  Anderson, C. [SEP] Unnamed: 2  English [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  Rockwood [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  1 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Cobbin, F [SEP] Unnamed: 1  July 6 1870 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Prussian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  St Catherines [SEP]
+[CLS] Immigration_Records  Nasmith, John [SEP] Unnamed: 2  Scotch [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Bracebridge [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  1 [SEP] Unnamed: 10  2 [SEP]
+[CLS] Immigration_Records  Clarke, Go [SEP] Unnamed: 2  English [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Stratford [SEP] Unnamed: 8  nan [SEP] Unnamed: 9  nan [SEP] Unnamed: 10  3 [SEP]
+[CLS] Immigration_Records  Wink, M.A. [SEP] Unnamed: 2  English [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  P.A.Landing [SEP] Unnamed: 8  0 [SEP] Unnamed: 9  1 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Sweeting, Geo. [SEP] Unnamed: 1  May 9 1882 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  L. Manitoba [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Thornhill [SEP]
+[CLS] Immigration_Records  Aimes, David [SEP] Unnamed: 1  Nov 6 1865 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Belgian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Guelph [SEP]
+[CLS] Immigration_Records  Goodson, Henry [SEP] Unnamed: 2  English [SEP] Unnamed: 5  nan [SEP] Unnamed: 6  Hamilton [SEP] Unnamed: 8  1 [SEP] Unnamed: 9  0 [SEP] Unnamed: 10  0 [SEP]
+[CLS] Immigration_Records  Anderson, Jas [SEP] Unnamed: 1  Sept 21 1869 [SEP] Unnamed: 2  English [SEP] Unnamed: 4  Moravian [SEP] Unnamed: 5  Quebec [SEP] Unnamed: 6  Collingwood [SEP]

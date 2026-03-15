@@ -625,7 +625,7 @@ def random_algorithm(S_dict: dict, q_dict:dict, k: int, i_max: int = 10, lmda: f
     return R, computed_metrics, embedding_plot
 
 
-def cluster_tuples(embedding_dict, q_dict , k, method = "bkmeans", metric = "l2", lmda = 0.7, linkage = "average", helper_function = False, print_results = False, normalize =False, max_metric = True, compute_metric = True):
+def cluster_tuples(embedding_dict, q_dict , k, method = "hierarchical", metric = "l2", lmda = 0.7, linkage = "average", helper_function = False, print_results = False, normalize =False, max_metric = True, compute_metric = True):
     start_time = time.time_ns()
     q = np.mean(list(q_dict.values()), axis=0)
     sim_dict = d_sim(embedding_dict, q, normalize=normalize) # index the similarity between each item in S and q for once so that we can re-use them.
@@ -711,11 +711,11 @@ def prune_candidate_tuples(embedding_dict, s_dict_max):
     # Return the top s_dict_max tuples
     return top_cosine_distances_dict
 
-def our_algorithm(embedding_dict, query_dict, k, method = "bkmeans", metric = "l2", lmda = 0.7, strategy = "min", linkage = "average", print_results = False, normalize = False, max_metric = True, compute_metric = True, s_dict_max = 2500):
+def our_algorithm(embedding_dict, query_dict, k, method = "bkmeans", metric = "l2", lmda = 0.7, strategy = "min", linkage = "average", print_results = False, normalize = False, max_metric = True, compute_metric = True, s_dict_max = 2500, p =2):
     start_time = time.time_ns()
     embedding_dict = prune_candidate_tuples(embedding_dict, s_dict_max)
     q = np.mean(list(query_dict.values()), axis=0)
-    k_dash = min(len(embedding_dict), 2 * k)  # Number of clusters
+    k_dash = min(len(embedding_dict), int(p * k))  # Number of clusters
     print("K dash = ", k_dash)
     cluster_metoids, cluster_plot = cluster_tuples(embedding_dict = embedding_dict, q_dict= query_dict, k = k_dash, method = method, linkage = linkage, metric = metric, helper_function= True, print_results= print_results, max_metric = max_metric, compute_metric = compute_metric)
     metoids_dict = {}

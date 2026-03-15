@@ -3,6 +3,7 @@ Corn|Golden Bantam|Summer|Yellow|Yes|Loamy|Average|Hot|Moderate|Occasionally|Fis
 Tomato|Brandywine|Fall|Deep Red|Yes|Silty|Heavy|Cool|Low|Regularly|Chicken Manure|Tomato Hornworm
 Lettuce|Buttercrunch|Spring|Light Green|No|Sandy Loam|Slight|Mild|Bright|Frequently|Fish Emulsion|Aphids
 Potato|Russet|Winter|Brown|Yes|Peaty|Average|Cold|High|Lightly|Compost|Colorado Potato Beetle
+Cherry|Rainier|Fall|Red|Yes|Sandy|Heavy|Cool|Low|Annually|Seaweed|Caterpillars
 Broccoli|Calabrese|Summer|Green|Yes|Loamy|Heavy|Hot|Moderate|Periodically|Blood Meal|Cabbage Worms
 Spinach|Bloomsdale|Fall|Dark Green|Yes|Loamy|Average|Cool|Low|Occasionally|Seaweed Extract|Leaf Miners
 Bell Pepper|California Wonder|Spring|Green|Yes|Sandy Loam|Slight|Mild|Bright|Regularly|Fish Emulsion|Pepper Weevils
@@ -18,6 +19,7 @@ Pea|Sugar Snap|Fall|Green|Yes|Loamy|Average|Cool|Low|Occasionally|Bone Meal|Pea 
 Brussels Sprout|Long Island Improved|Summer|Green|Yes|Loamy|Heavy|Hot|Moderate|Regularly|Fish Emulsion|Brussels Sprout Aphids
 Cauliflower|Snowball|Spring|White|Yes|Sandy Loam|Slight|Mild|Bright|Frequently|Compost|Cauliflower Maggots
 Swiss Chard|Bright Lights|Winter|Various|Yes|Loamy|Average|Cold|High|Lightly|Fish Emulsion|Chard Leafminer
+Raspberry|Bountiful|Winter|Magenta|Yes|Arid|Slight|Cold|High|Sparingly|Lime|Mites
 Beet|Detroit Dark Red|Summer|Red|Yes|Silty|Heavy|Hot|Moderate|Occasionally|Bone Meal|Beetles
 Turnip|Purple Top White Globe|Fall|White|Yes|Loamy|Average|Cool|Low|Regularly|Compost|Turnip Aphids
 Radish|French Breakfast|Spring|Red|No|Sandy|Slight|Mild|Bright|Periodically|Fish Emulsion|Radish Root Maggot
@@ -32,3 +34,4 @@ Cabbage|Savoy|Spring|Green|Yes|Loamy|Slight|Mild|Bright|Occasionally|Fish Emulsi
 Cucumber|Straight Eight|Winter|Green|No|Sandy Loam|Heavy|Cold|High|Periodically|Compost|Cucumber Beetle
 Tomato|Roma|Summer|Red|Yes|Silty|Average|Hot|Moderate|Regularly|Fish Emulsion|Tomato Fruitworm
 Lettuce|Romaine|Fall|Green|No|Loamy|Slight|Cool|Low|Occasionally|Compost|Lettuce Leaf Aphid
+Avocado|Hass|Spring|Dark Green|Yes|Alkaline|Average|Mild|Bright|Minimally|Vermicompost|Scale

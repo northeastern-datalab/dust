@@ -1,0 +1,100 @@
+[CLS] artist  eiffel 65 [SEP] title  blue [SEP] album  europop [SEP]
+[CLS] artist  garth brooks [SEP] title  friends in low places [SEP] album  no fences [SEP]
+[CLS] title  answer man [SEP] album  musical chairs [SEP] track  5.0 [SEP] year  1998.0 [SEP]
+[CLS] title  over you [SEP] album  daughtry [SEP] track  4.0 [SEP] year  2006.0 [SEP]
+[CLS] ï»¿#  1724 [SEP] artist  kenneth cope [SEP] title  why must the good die - free at last [SEP] album  my servant joseph [SEP] track  10.0 [SEP] year  1993.0 [SEP]
+[CLS] title  meant to live [SEP] album  the beautiful letdown [SEP] track  1.0 [SEP] year  2003.0 [SEP]
+[CLS] title  boat of car [SEP] album  they might be giants [SEP] track  13.0 [SEP] year  1986.0 [SEP]
+[CLS] title  bones [SEP] album  sam's town [SEP] track  8.0 [SEP] year  2006.0 [SEP]
+[CLS] title  cool blue reason [SEP] album  prolonging the magic [SEP] track  12.0 [SEP] year  1998.0 [SEP]
+[CLS] title  she crawls away [SEP] album  fairweather johnson [SEP] track  4.0 [SEP] year  1996.0 [SEP]
+[CLS] title  cowtown [SEP] album  lincoln [SEP] track  2.0 [SEP] year  1993.0 [SEP]
+[CLS] artist  boyz ii men [SEP] title  on bended knee [SEP] album  ii [SEP]
+[CLS] artist  the simpsons [SEP] title  it was very good beer [SEP] album  songs in the key of springfield [SEP]
+[CLS] title  la playa [SEP] album  el viaje de copperpot [SEP] track  4.0 [SEP] year  2000.0 [SEP]
+[CLS] title  horse with no name [SEP] album  america [SEP] track  5.0 [SEP] year  1972.0 [SEP]
+[CLS] title  what's up [SEP] album  bigger better faster more! [SEP] track  3.0 [SEP] year  1992.0 [SEP]
+[CLS] title  everybody needs someone sometime [SEP] album  this way [SEP] track  3.0 [SEP] year  2001.0 [SEP]
+[CLS] artist  michael mclean [SEP] title  you must believe there are miracles [SEP] album  one heart in the right place [SEP]
+[CLS] artist  sugar ray [SEP] title  rpm [SEP] album  floored [SEP]
+[CLS] artist  rod stewart [SEP] title  downtown train [SEP] album  storyteller [SEP]
+[CLS] ï»¿#  1843 [SEP] artist  les mis&eacute;rables [SEP] title  do you hear the people sing? [SEP] album  les mis&eacute;rables soundtrack [SEP] track  18.0 [SEP] year  1995.0 [SEP]
+[CLS] ï»¿#  511 [SEP] artist  bush [SEP] title  swallowed [SEP] album  razorblade suitcase [SEP] track  3.0 [SEP] year  1996.0 [SEP]
+[CLS] ï»¿#  3630 [SEP] artist  wham [SEP] title  careless whisper [SEP] album  make it big [SEP] track  8.0 [SEP] year  1984.0 [SEP]
+[CLS] title  if i wasn't shy [SEP] album  apollo 18 [SEP] track  14.0 [SEP] year  1992.0 [SEP]
+[CLS] ï»¿#  1893 [SEP] artist  live [SEP] title  the dam at otter creek [SEP] album  throwing copper [SEP] track  1.0 [SEP] year  1994.0 [SEP]
+[CLS] artist  kenneth cope [SEP] title  man of sorrows [SEP] album  my servant joseph [SEP]
+[CLS] artist  andrew lloyd webber [SEP] title  the music of the night [SEP] album  phantom of the opera [SEP]
+[CLS] title  when you sleep [SEP] album  prolonging the magic [SEP] track  8.0 [SEP] year  1998.0 [SEP]
+[CLS] title  have you ever really loved a woman [SEP] album  don juan demarco soundtrack [SEP] track  1.0 [SEP] year  1995.0 [SEP]
+[CLS] ï»¿#  2331 [SEP] artist  northern voices [SEP] title  hello morning [SEP] album  faithful [SEP] track  10.0 [SEP] year  1994.0 [SEP]
+[CLS] artist  norah jones [SEP] title  shoot the moon [SEP] album  come away with me [SEP]
+[CLS] ï»¿#  355 [SEP] artist  ben folds [SEP] title  gone [SEP] album  rockin' the suburbs [SEP] track  4.0 [SEP] year  2001.0 [SEP]
+[CLS] ï»¿#  2910 [SEP] artist  syesha mercado [SEP] title  got to get you into my life [SEP] album  nan [SEP] track  nan [SEP] year  2008.0 [SEP]
+[CLS] artist  jewel [SEP] title  enter from the east [SEP] album  spirit [SEP]
+[CLS] ï»¿#  2132 [SEP] artist  michael mclean [SEP] title  what i need [SEP] album  the forgotten carols [SEP] track  11.0 [SEP] year  1991.0 [SEP]
+[CLS] title  my evil twin [SEP] album  apollo 18 [SEP] track  4.0 [SEP] year  1992.0 [SEP]
+[CLS] title  the chokin' kind [SEP] album  the soul sessions [SEP] track  1.0 [SEP] year  2003.0 [SEP]
+[CLS] artist  they might be giants [SEP] title  older [SEP] album  mink car [SEP]
+[CLS] artist  les mis&eacute;rables [SEP] title  drink with me [SEP] album  les mis&eacute;rables soundtrack [SEP]
+[CLS] ï»¿#  465 [SEP] artist  boo radleys [SEP] title  there she goes [SEP] album  so i married an axe murderer soundtrack [SEP] track  1.0 [SEP] year  1993.0 [SEP]
+[CLS] title  i'll be there [SEP] album  mtv unplugged (mariah carey) [SEP] track  6.0 [SEP] year  1992.0 [SEP]
+[CLS] title  arise &amp; shine forth [SEP] album  the forgotten carols [SEP] track  12.0 [SEP] year  1991.0 [SEP]
+[CLS] artist  collective soul [SEP] title  where the river flows [SEP] album  collective soul [SEP]
+[CLS] artist  northern voices [SEP] title  hold on to the child [SEP] album  faithful [SEP]
+[CLS] artist  les mis&eacute;rables [SEP] title  the attack on rue plumet [SEP] album  les mis&eacute;rables soundtrack [SEP]
+[CLS] artist  natalie merchant [SEP] title  the ballad of henry darger [SEP] album  motherland [SEP]
+[CLS] ï»¿#  790 [SEP] artist  cranberries [SEP] title  everything i said [SEP] album  no need to argue [SEP] track  6.0 [SEP] year  1994.0 [SEP]
+[CLS] ï»¿#  683 [SEP] artist  collective soul [SEP] title  over tokyo [SEP] album  blender [SEP] track  10.0 [SEP] year  2000.0 [SEP]
+[CLS] artist  u2 [SEP] title  crumbs from your table [SEP] album  how to dismantle an atomic bomb [SEP]
+[CLS] artist  michael mclean [SEP] title  you're not alone [SEP] album  you're not alone [SEP]
+[CLS] title  truth surrup [SEP] album  nan [SEP] track  nan [SEP] year  [SEP]
+[CLS] ï»¿#  3565 [SEP] artist  weird al yankovic [SEP] title  that boy could dance [SEP] album  in 3-d [SEP] track  9.0 [SEP] year  1984.0 [SEP]
+[CLS] artist  bangles [SEP] title  hazy shade of winter [SEP] album  less than zero soundtrack [SEP]
+[CLS] ï»¿#  85 [SEP] artist  alannah myles [SEP] title  black velvet [SEP] album  alannah myles [SEP] track  3.0 [SEP] year  1989.0 [SEP]
+[CLS] title  new age girl [SEP] album  different story [SEP] track  1.0 [SEP] year  1994.0 [SEP]
+[CLS] artist  modest mouse [SEP] title  float on [SEP] album  good news for people who love bad news [SEP]
+[CLS] artist  chombo [SEP] title  el gato volador [SEP] album  cuentos de la cripta 3 [SEP]
+[CLS] artist  ace of base [SEP] title  the sign [SEP] album  the sign [SEP]
+[CLS] ï»¿#  269 [SEP] artist  barenaked ladies [SEP] title  sell sell sell [SEP] album  maroon [SEP] track  7.0 [SEP] year  2000.0 [SEP]
+[CLS] ï»¿#  1615 [SEP] artist  jewel [SEP] title  jesus loves you [SEP] album  this way [SEP] track  2.0 [SEP] year  2001.0 [SEP]
+[CLS] ï»¿#  1250 [SEP] artist  green day [SEP] title  are we the waiting [SEP] album  american idiot [SEP] track  5.0 [SEP] year  2004.0 [SEP]
+[CLS] artist  julie de azevedo [SEP] title  joy in the journey [SEP] album  especially for youth - joy in the journey (1998) [SEP]
+[CLS] title  take it all away [SEP] album  pressure chief [SEP] track  3.0 [SEP] year  2004.0 [SEP]
+[CLS] title  i adore mi amor [SEP] album  cmb [SEP] track  4.0 [SEP] year  1991.0 [SEP]
+[CLS] artist  the simpsons [SEP] title  homer's barbershop quartet [SEP] album  songs in the key of springfield [SEP]
+[CLS] artist  nirvana [SEP] title  all apologies [SEP] album  in utero [SEP]
+[CLS] title  flute loop [SEP] album  ill communication [SEP] track  13.0 [SEP] year  1994.0 [SEP]
+[CLS] artist  bush [SEP] title  machine head [SEP] album  sixteen stone [SEP]
+[CLS] ï»¿#  536 [SEP] artist  cake [SEP] title  pretty pink ribbon [SEP] album  comfort eagle [SEP] track  10.0 [SEP] year  2001.0 [SEP]
+[CLS] title  i can dream about you [SEP] album  streets of fire soundtrack [SEP] track  8.0 [SEP] year  1984.0 [SEP]
+[CLS] ï»¿#  2778 [SEP] artist  smashing pumpkins [SEP] title  jellybelly [SEP] album  mellon collie and the infinite sadness - dawn to dusk [SEP] track  3.0 [SEP] year  1995.0 [SEP]
+[CLS] title  someone keeps moving my chair [SEP] album  flood [SEP] track  10.0 [SEP] year  1990.0 [SEP]
+[CLS] title  walk like an egyptian [SEP] album  different light [SEP] track  4.0 [SEP] year  1986.0 [SEP]
+[CLS] title  they might be giants [SEP] album  flood [SEP] track  18.0 [SEP] year  1990.0 [SEP]
+[CLS] artist  goo goo dolls [SEP] title  here is gone [SEP] album  gutterflower [SEP]
+[CLS] artist  green day [SEP] title  boulevard of broken dreams (clean) [SEP] album  american idiot [SEP]
+[CLS] artist  juanes [SEP] title  podemos hacernos da&ntilde;o [SEP] album  fijate bien [SEP]
+[CLS] artist  linkin park [SEP] title  crawling [SEP] album  hybrid theory [SEP]
+[CLS] artist  elefante [SEP] title  asi es la vida [SEP] album  el que busca encuentra [SEP]
+[CLS] title  all because of you [SEP] album  how to dismantle an atomic bomb [SEP] track  6.0 [SEP] year  2004.0 [SEP]
+[CLS] title  bukowski [SEP] album  good news for people who love bad news [SEP] track  8.0 [SEP] year  2004.0 [SEP]
+[CLS] artist  red hot chili peppers [SEP] title  this is the place [SEP] album  by the way [SEP]
+[CLS] title  brown eyed girl [SEP] album  songs from an american movie vol. 1: learning how to smile [SEP] track  4.0 [SEP] year  2000.0 [SEP]
+[CLS] artist  chumbawamba [SEP] title  one by one [SEP] album  tubthumper [SEP]
+[CLS] artist  greg simpson [SEP] title  north star [SEP] album  especially for youth - joy in the journey (1998) [SEP]
+[CLS] artist  david cook [SEP] title  searchlights [SEP] album  analog heart [SEP]
+[CLS] artist  des'ree [SEP] title  you gotta be [SEP] album  i ain't movin' [SEP]
+[CLS] ï»¿#  1147 [SEP] artist  forever plaid [SEP] title  perfidia [SEP] album  forever plaid soundtrack [SEP] track  6.0 [SEP] year  1990.0 [SEP]
+[CLS] title  hurts so good [SEP] album  american fool [SEP] track  1.0 [SEP] year  1982.0 [SEP]
+[CLS] ï»¿#  1182 [SEP] artist  gavin degraw [SEP] title  i don't want to be [SEP] album  chariot [SEP] track  8.0 [SEP] year  2003.0 [SEP]
+[CLS] title  uncle johnny [SEP] album  sam's town [SEP] track  7.0 [SEP] year  2006.0 [SEP]
+[CLS] artist  suede [SEP] title  my insatiable one [SEP] album  so i married an axe murderer soundtrack [SEP]
+[CLS] artist  dashboard confessional [SEP] title  carry this picture [SEP] album  a mark a mission a brand a scar [SEP]
+[CLS] title  not even the trees [SEP] album  cracked rear view [SEP] track  10.0 [SEP] year  1994.0 [SEP]
+[CLS] title  stuck in a movie! [SEP] album  charge!! [SEP] track  3.0 [SEP] year  2005.0 [SEP]
+[CLS] title  i swear [SEP] album  all-4-one [SEP] track  4.0 [SEP] year  1994.0 [SEP]
+[CLS] ï»¿#  1994 [SEP] artist  mariah carey [SEP] title  one sweet day [SEP] album  daydream [SEP] track  3.0 [SEP] year  1995.0 [SEP]
+[CLS] artist  joss stone [SEP] title  the chokin' kind [SEP] album  the soul sessions [SEP]
+[CLS] artist  erasure [SEP] title  a little respect [SEP] album  the innocents [SEP]
+[CLS] title  turning japanese [SEP] album  new clear days [SEP] track  2.0 [SEP] year  1980.0 [SEP]

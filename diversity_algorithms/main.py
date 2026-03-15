@@ -125,7 +125,7 @@ def RunDiversityAlgorithms(S_dict, q_dict, algorithm, query_name, k, metric, nor
     if "our" in algorithm  or "all" in algorithm:
         print(f"Using Our method.")
         current_algorithm = "our"
-        s_dict_max = 2500 # remember to handle this parameter
+        # s_dict_max = 10000 # remember to handle this parameter
         # reduce the size of dictionary to s_dict_max.
 
         our_results, our_metrics, our_embedding_plot, our_cluster_plot = div_utl.our_algorithm(embedding_dict = copy.deepcopy(S_dict), query_dict = copy.deepcopy(q_dict), k = k, method = "hierarchical", metric = metric, linkage="average", lmda = 0.7, strategy = "min", normalize=normalize, max_metric=max_metric, compute_metric = compute_metric, s_dict_max= s_dict_max)
@@ -147,18 +147,18 @@ def RunDiversityAlgorithms(S_dict, q_dict, algorithm, query_name, k, metric, nor
     #stats_df.to_csv(stats_df_path, index = False)
 run_sample = "regular"  # {"sample", "efficiency_s", "efficiency_s", "efficiency_large", "regular"}
 # query_name = r"sample_query.csv"
-benchmark_name = r"imdb_case_study" #will be the name of stat file
+benchmark_name = r"labeled_benchmark" #will be the name of stat file
 if run_sample == "efficiency_k" or run_sample == "efficiency_s":
     benchmark_name = r"efficiency_benchmark"
 if run_sample == "efficiency_large":
     benchmark_name = r"efficiency_large_benchmark"
-k = 500 #30 or 100
+k = 100 #30 or 100 or 500
 lmda = 0.7
-# algorithm = {"all"} # gmc, gne, clt, our, all
-s_dict_max = 10000
+algorithm = {"gmc","clt", "our"} # gmc, gne, clt, our, all
+s_dict_max = 2500
 q_dict_max = 100
-algorithm =  {"gmc", "clt"} # {"all"} 
-algorithm = {"our"}
+# algorithm =  {"gmc", "clt"} # {"all"} 
+# algorithm = {"our"}
 # algorithm = {"random"}
 metric = "cosine" # cosine, l1, l2
 embedding_type = "dust"
@@ -171,8 +171,8 @@ stats_df_path = r"final_stats" + os.sep + benchmark_name + "__" + metric + "__" 
 normalize = True
 max_metric = False
 compute_metric = True
-full_dust = True
-save_results = True
+full_dust = False
+save_results = False
 allowed_algorithms = {"all", "gmc", "gne", "clt", "our_base", "our", "random"}
 # div_result_path = r"div_result_tables" + os.sep + benchmark_name + os.sep + metric + os.sep + embedding_type + os.sep
 div_result_path = os.path.join(r"div_result_tables", benchmark_name, metric, embedding_type)

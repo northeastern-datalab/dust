@@ -1,0 +1,100 @@
+[CLS] artist  destiny's child [SEP] title  independent women pt. 1 [SEP] album  charlie's angels soundtrack [SEP]
+[CLS] ï»¿#  686 [SEP] artist  collective soul [SEP] title  untitled [SEP] album  collective soul [SEP] track  2.0 [SEP] year  1995.0 [SEP]
+[CLS] artist  marc cohn [SEP] title  walking in memphis [SEP] album  marc cohn [SEP]
+[CLS] artist  verve [SEP] title  bittersweet symphony [SEP] album  urban hymns [SEP]
+[CLS] ï»¿#  3098 [SEP] artist  they might be giants [SEP] title  dead [SEP] album  flood [SEP] track  5.0 [SEP] year  1990.0 [SEP]
+[CLS] title  boat of car [SEP] album  they might be giants [SEP] track  13.0 [SEP] year  1986.0 [SEP]
+[CLS] artist  indigo girls [SEP] title  go [SEP] album  come on now social [SEP]
+[CLS] title  honor to us all [SEP] album  mulan soundtrack [SEP] track  1.0 [SEP] year  1998.0 [SEP]
+[CLS] artist  sister hazel [SEP] title  all for you [SEP] album  somewhere more familiar [SEP]
+[CLS] artist  itayp&uacute; [SEP] title  el cascabel [SEP] album  folklore latinamericano vol. i [SEP]
+[CLS] title  cody's song [SEP] album  leap of faith [SEP] track  10.0 [SEP] year  1991.0 [SEP]
+[CLS] artist  vengaboys [SEP] title  we like to party [SEP] album  the party album [SEP]
+[CLS] title  cowtown [SEP] album  lincoln [SEP] track  2.0 [SEP] year  1993.0 [SEP]
+[CLS] artist  itayp&uacute; [SEP] title  el condor pasa [SEP] album  folklore latinamericano vol. i [SEP]
+[CLS] title  underneath it all [SEP] album  rock steady [SEP] track  5.0 [SEP] year  2001.0 [SEP]
+[CLS] title  horse with no name [SEP] album  america [SEP] track  5.0 [SEP] year  1972.0 [SEP]
+[CLS] title  beautiful disaster [SEP] album  transistor [SEP] track  4.0 [SEP] year  1997.0 [SEP]
+[CLS] title  theme from rocky xiii [SEP] album  in 3-d [SEP] track  10.0 [SEP] year  1984.0 [SEP]
+[CLS] artist  hilary weeks [SEP] title  el-shaddai [SEP] album  he hears me [SEP]
+[CLS] artist  chombo [SEP] title  el gato volador [SEP] album  cuentos de la cripta 3 [SEP]
+[CLS] artist  rod stewart [SEP] title  downtown train [SEP] album  storyteller [SEP]
+[CLS] artist  u2 [SEP] title  where the streets have no name [SEP] album  the joshua tree [SEP]
+[CLS] artist  jewel [SEP] title  who will save your soul [SEP] album  pieces of you [SEP]
+[CLS] artist  reo speedwagon [SEP] title  take it on the run [SEP] album  hi infidelity [SEP]
+[CLS] artist  green day [SEP] title  holiday [SEP] album  american idiot [SEP]
+[CLS] ï»¿#  2910 [SEP] artist  syesha mercado [SEP] title  got to get you into my life [SEP] album  nan [SEP] track  nan [SEP] year  2008.0 [SEP]
+[CLS] artist  jewel [SEP] title  enter from the east [SEP] album  spirit [SEP]
+[CLS] ï»¿#  1742 [SEP] artist  killers [SEP] title  somebody told me [SEP] album  hot fuss [SEP] track  4.0 [SEP] year  2004.0 [SEP]
+[CLS] artist  barenaked ladies [SEP] title  everything had changed [SEP] album  are me [SEP]
+[CLS] artist  counting crows [SEP] title  i'm not sleeping [SEP] album  recovering the satellites [SEP]
+[CLS] artist  goo goo dolls [SEP] title  smash [SEP] album  gutterflower [SEP]
+[CLS] artist  cake [SEP] title  i bombed korea [SEP] album  motorcade of generosity [SEP]
+[CLS] artist  collective soul [SEP] title  where the river flows [SEP] album  collective soul [SEP]
+[CLS] title  jaws theme [SEP] album  jaws soundtrack [SEP] track  1.0 [SEP] year  1975.0 [SEP]
+[CLS] artist  aquabats [SEP] title  fashion zombies! [SEP] album  charge!! [SEP]
+[CLS] artist  pearl jam [SEP] title  last kiss [SEP] album  no boundaries: a benefit for the kosovar refugees [SEP]
+[CLS] artist  les mis&eacute;rables [SEP] title  the attack on rue plumet [SEP] album  les mis&eacute;rables soundtrack [SEP]
+[CLS] artist  cake [SEP] title  meanwhile rick james... [SEP] album  comfort eagle [SEP]
+[CLS] artist  dave matthews [SEP] title  gravedigger [SEP] album  some devil [SEP]
+[CLS] artist  live [SEP] title  the river [SEP] album  songs from black mountain [SEP]
+[CLS] ï»¿#  790 [SEP] artist  cranberries [SEP] title  everything i said [SEP] album  no need to argue [SEP] track  6.0 [SEP] year  1994.0 [SEP]
+[CLS] artist  u2 [SEP] title  crumbs from your table [SEP] album  how to dismantle an atomic bomb [SEP]
+[CLS] artist  sneaker pimps [SEP] title  six underground [SEP] album  becoming x [SEP]
+[CLS] ï»¿#  1969 [SEP] artist  man&aacute; [SEP] title  hechicera [SEP] album  sue&ntilde;os liquidos [SEP] track  1.0 [SEP] year  1997.0 [SEP]
+[CLS] artist  itayp&uacute; [SEP] title  la adelita [SEP] album  folklore latinamericano vol. ii [SEP]
+[CLS] title  new age girl [SEP] album  different story [SEP] track  1.0 [SEP] year  1994.0 [SEP]
+[CLS] artist  smash mouth [SEP] title  pacific coast party [SEP] album  smash mouth [SEP]
+[CLS] artist  they might be giants [SEP] title  older [SEP] album  mink car [SEP]
+[CLS] artist  live [SEP] title  t.b.d. [SEP] album  throwing copper [SEP]
+[CLS] title  george of the jungle [SEP] album  dare to be stupid [SEP] track  6.0 [SEP] year  1985.0 [SEP]
+[CLS] artist  chombo [SEP] title  el gato volador [SEP] album  cuentos de la cripta 3 [SEP]
+[CLS] ï»¿#  269 [SEP] artist  barenaked ladies [SEP] title  sell sell sell [SEP] album  maroon [SEP] track  7.0 [SEP] year  2000.0 [SEP]
+[CLS] ï»¿#  1250 [SEP] artist  green day [SEP] title  are we the waiting [SEP] album  american idiot [SEP] track  5.0 [SEP] year  2004.0 [SEP]
+[CLS] artist  rem [SEP] title  it's the end of the world as we know it [SEP] album  document [SEP]
+[CLS] title  the little drummer boy [SEP] album  nan [SEP] track  nan [SEP] year  1958.0 [SEP]
+[CLS] title  tomorrow morning [SEP] album  on and on [SEP] track  10.0 [SEP] year  2003.0 [SEP]
+[CLS] artist  third eye blind [SEP] title  good for you [SEP] album  third eye blind [SEP]
+[CLS] artist  soul asylum [SEP] title  the break [SEP] album  so i married an axe murderer soundtrack [SEP]
+[CLS] artist  the simpsons [SEP] title  homer's barbershop quartet [SEP] album  songs in the key of springfield [SEP]
+[CLS] title  quimby campaign commercial [SEP] album  go simpsonic with the simpsons [SEP] track  18.0 [SEP] year  1999.0 [SEP]
+[CLS] artist  ace of base [SEP] title  all that she wants [SEP] album  the sign [SEP]
+[CLS] artist  bush [SEP] title  machine head [SEP] album  sixteen stone [SEP]
+[CLS] title  i can dream about you [SEP] album  streets of fire soundtrack [SEP] track  8.0 [SEP] year  1984.0 [SEP]
+[CLS] artist  russ freeman [SEP] title  jesu joy of man's desiring [SEP] album  [SEP]
+[CLS] ï»¿#  2778 [SEP] artist  smashing pumpkins [SEP] title  jellybelly [SEP] album  mellon collie and the infinite sadness - dawn to dusk [SEP] track  3.0 [SEP] year  1995.0 [SEP]
+[CLS] artist  beethoven [SEP] title  symphony no. 9 [SEP] album  [SEP]
+[CLS] artist  aquabats [SEP] title  captain hampton and the midget pirates! [SEP] album  the fury of the aquabats [SEP]
+[CLS] artist  beach boys [SEP] title  barbara ann [SEP] album  beach boys' party [SEP]
+[CLS] artist  weezer [SEP] title  the angel and the one [SEP] album  weezer (2008) [SEP]
+[CLS] artist  coldplay [SEP] title  shiver [SEP] album  parachutes [SEP]
+[CLS] title  barbara ann [SEP] album  beach boys' party [SEP] track  12.0 [SEP] year  1965.0 [SEP]
+[CLS] ï»¿#  174 [SEP] artist  aquabats [SEP] title  the ballad of mr. bonkers [SEP] album  the floating eye of death [SEP] track  9.0 [SEP] year  1999.0 [SEP]
+[CLS] artist  les mis&eacute;rables [SEP] title  master of the house [SEP] album  les mis&eacute;rables soundtrack [SEP]
+[CLS] artist  cake [SEP] title  short skirt/long jacket [SEP] album  comfort eagle [SEP]
+[CLS] artist  caramelos de cianuro [SEP] title  ver&oacute;nica [SEP] album  miss mujerzuela [SEP]
+[CLS] artist  red hot chili peppers [SEP] title  throw away your television [SEP] album  by the way [SEP]
+[CLS] artist  red hot chili peppers [SEP] title  road trippin' [SEP] album  californication [SEP]
+[CLS] artist  chad kroeger [SEP] title  hero [SEP] album  spiderman soundtrack [SEP]
+[CLS] artist  red hot chili peppers [SEP] title  this is the place [SEP] album  by the way [SEP]
+[CLS] title  brown eyed girl [SEP] album  songs from an american movie vol. 1: learning how to smile [SEP] track  4.0 [SEP] year  2000.0 [SEP]
+[CLS] title  breathe [SEP] album  lucky [SEP] track  4.0 [SEP] year  2004.0 [SEP]
+[CLS] artist  david cook [SEP] title  searchlights [SEP] album  analog heart [SEP]
+[CLS] artist  killers [SEP] title  bones [SEP] album  sam's town [SEP]
+[CLS] ï»¿#  1147 [SEP] artist  forever plaid [SEP] title  perfidia [SEP] album  forever plaid soundtrack [SEP] track  6.0 [SEP] year  1990.0 [SEP]
+[CLS] title  hurts so good [SEP] album  american fool [SEP] track  1.0 [SEP] year  1982.0 [SEP]
+[CLS] artist  dave matthews band [SEP] title  too much [SEP] album  crash [SEP]
+[CLS] title  uncle johnny [SEP] album  sam's town [SEP] track  7.0 [SEP] year  2006.0 [SEP]
+[CLS] artist  joni mitchell [SEP] title  big yellow taxi (traffic jam mix) [SEP] album  friends soundtrack [SEP]
+[CLS] artist  suede [SEP] title  my insatiable one [SEP] album  so i married an axe murderer soundtrack [SEP]
+[CLS] title  beautiful in my eyes [SEP] album  painted desert serenade [SEP] track  6.0 [SEP] year  1993.0 [SEP]
+[CLS] title  stuck in a movie! [SEP] album  charge!! [SEP] track  3.0 [SEP] year  2005.0 [SEP]
+[CLS] title  walk this way (clean) [SEP] album  raising hell [SEP] track  nan [SEP] year  1986.0 [SEP]
+[CLS] artist  killers [SEP] title  my list [SEP] album  sam's town [SEP]
+[CLS] artist  deep blue something [SEP] title  red light [SEP] album  home [SEP]
+[CLS] artist  phil collins [SEP] title  true colors [SEP] album  hits [SEP]
+[CLS] artist  daughtry [SEP] title  it's not over [SEP] album  daughtry [SEP]
+[CLS] artist  weird al yankovic [SEP] title  the night santa went crazy [SEP] album  bad hair day [SEP]
+[CLS] title  too many walls [SEP] album  move to this [SEP] track  4.0 [SEP] year  1990.0 [SEP]
+[CLS] artist  backstreet boys [SEP] title  quit playing games (with my heart) [SEP] album  backstreet boys [SEP]
+[CLS] title  javert's arrival - little people [SEP] album  les mis&eacute;rables soundtrack [SEP] track  5.0 [SEP] year  1995.0 [SEP]

@@ -207,7 +207,7 @@ def LinePlot(dict_lists, xlabel, ylabel, figname,title):
 def read_csv_file(gen_file):
     data = []
     try:
-        data = pd.read_csv(gen_file, lineterminator='\n', low_memory=False)
+        data = pd.read_csv(gen_file, lineterminator='\n', low_memory=False, encoding = "latin-1")
         if data.shape[1] < 2:
             data = pd.read_csv(gen_file, sep='|')
     except:

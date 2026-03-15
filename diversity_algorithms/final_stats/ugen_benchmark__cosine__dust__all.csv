@@ -1,0 +1,433 @@
+algorithm,query_name,|S|,|q|,k,algorithm_distance_function,evaluation_distance_function,with_query_flag,normalized,max_div_score,max-min_div_score,avg_div_score,time_taken_(s),embedding_type
+gmc,Anthropology_FGTNBDWF.csv,79,7,30,cosine,cosine,yes,True,,0.00023567676544189453,0.07697668865563588,0.14,dust
+gmc,Anthropology_FGTNBDWF.csv,79,7,30,cosine,cosine,no,True,,0.00034296512603759766,0.01773513391100127,0.14,dust
+gmc,Anthropology_FGTNBDWF.csv,79,7,30,cosine,cosine,mix,True,,0.00034296512603759766,0.07454430474069461,0.14,dust
+clt,Anthropology_FGTNBDWF.csv,79,7,30,cosine,cosine,yes,True,,0.00023567676544189453,0.14756983288321868,0.23,dust
+clt,Anthropology_FGTNBDWF.csv,79,7,30,cosine,cosine,no,True,,0.002966642379760742,0.14720467483924551,0.23,dust
+clt,Anthropology_FGTNBDWF.csv,79,7,30,cosine,cosine,mix,True,,0.0012706518173217773,0.1474358304082452,0.23,dust
+our,Anthropology_FGTNBDWF.csv,79,7,30,cosine,cosine,yes,True,,0.00023567676544189453,0.13168760148497918,0.35,dust
+our,Anthropology_FGTNBDWF.csv,79,7,30,cosine,cosine,no,True,,0.0011487007141113281,0.11390291321380384,0.35,dust
+our,Anthropology_FGTNBDWF.csv,79,7,30,cosine,cosine,mix,True,,0.0011487007141113281,0.13103650310401654,0.35,dust
+gmc,Archeology_2LWSQ5A2.csv,81,5,30,cosine,cosine,yes,True,,0.0010649263858795166,0.14804510543623767,0.15,dust
+gmc,Archeology_2LWSQ5A2.csv,81,5,30,cosine,cosine,no,True,,0.0010649263858795166,0.08231434178078312,0.15,dust
+gmc,Archeology_2LWSQ5A2.csv,81,5,30,cosine,cosine,mix,True,,0.0010649263858795166,0.1489269249387977,0.15,dust
+clt,Archeology_2LWSQ5A2.csv,81,5,30,cosine,cosine,yes,True,,0.0006789863109588623,0.18397187520945524,0.23,dust
+clt,Archeology_2LWSQ5A2.csv,81,5,30,cosine,cosine,no,True,,0.0033360421657562256,0.18553959745699647,0.23,dust
+clt,Archeology_2LWSQ5A2.csv,81,5,30,cosine,cosine,mix,True,,0.0006789863109588623,0.18546782752865146,0.23,dust
+our,Archeology_2LWSQ5A2.csv,81,5,30,cosine,cosine,yes,True,,0.002010852098464966,0.19927550151458934,0.49,dust
+our,Archeology_2LWSQ5A2.csv,81,5,30,cosine,cosine,no,True,,0.002010852098464966,0.18033859846556838,0.49,dust
+our,Archeology_2LWSQ5A2.csv,81,5,30,cosine,cosine,mix,True,,0.002010852098464966,0.20103305428344598,0.49,dust
+gmc,Architecture_LMDVYEG9.csv,89,4,30,cosine,cosine,yes,True,,0.0007113814353942871,0.08178447516645021,0.18,dust
+gmc,Architecture_LMDVYEG9.csv,89,4,30,cosine,cosine,no,True,,0.0007113814353942871,0.030306577271428603,0.18,dust
+gmc,Architecture_LMDVYEG9.csv,89,4,30,cosine,cosine,mix,True,,0.0007113814353942871,0.0825295798715439,0.18,dust
+clt,Architecture_LMDVYEG9.csv,89,4,30,cosine,cosine,yes,True,,0.0010149180889129639,0.16228134508569245,0.25,dust
+clt,Architecture_LMDVYEG9.csv,89,4,30,cosine,cosine,no,True,,0.00461927056312561,0.1674094689316812,0.25,dust
+clt,Architecture_LMDVYEG9.csv,89,4,30,cosine,cosine,mix,True,,0.0010149180889129639,0.16389668622234552,0.25,dust
+our,Architecture_LMDVYEG9.csv,89,4,30,cosine,cosine,yes,True,,0.0012565255165100098,0.14051613262659454,0.36,dust
+our,Architecture_LMDVYEG9.csv,89,4,30,cosine,cosine,no,True,,0.0017156004905700684,0.11329286060237122,0.36,dust
+our,Architecture_LMDVYEG9.csv,89,4,30,cosine,cosine,mix,True,,0.0017156004905700684,0.1418961741690952,0.36,dust
+gmc,Art History_XEJNANHA.csv,30,3,30,cosine,cosine,yes,True,,0.0005285739898681641,0.08755978648586085,0.02,dust
+gmc,Art History_XEJNANHA.csv,30,3,30,cosine,cosine,no,True,,0.0005285739898681641,0.07818725514386235,0.02,dust
+gmc,Art History_XEJNANHA.csv,30,3,30,cosine,cosine,mix,True,,0.0005285739898681641,0.08804576703657707,0.02,dust
+clt,Art History_XEJNANHA.csv,30,3,30,cosine,cosine,yes,True,,0.0005285739898681641,0.08755978648586085,0.16,dust
+clt,Art History_XEJNANHA.csv,30,3,30,cosine,cosine,no,True,,0.0005285739898681641,0.07818725514386235,0.16,dust
+clt,Art History_XEJNANHA.csv,30,3,30,cosine,cosine,mix,True,,0.0005285739898681641,0.08804576703657707,0.16,dust
+our,Art History_XEJNANHA.csv,30,3,30,cosine,cosine,yes,True,,0.0005285739898681641,0.08755978648586085,0.16,dust
+our,Art History_XEJNANHA.csv,30,3,30,cosine,cosine,no,True,,0.0005285739898681641,0.07818725514386235,0.16,dust
+our,Art History_XEJNANHA.csv,30,3,30,cosine,cosine,mix,True,,0.0005285739898681641,0.08804576703657707,0.16,dust
+gmc,Astronautics_ISIRDAPX.csv,75,4,30,cosine,cosine,yes,True,,0.00029581785202026367,0.09302261444356512,0.13,dust
+gmc,Astronautics_ISIRDAPX.csv,75,4,30,cosine,cosine,no,True,,0.00029581785202026367,0.029615681678399272,0.13,dust
+gmc,Astronautics_ISIRDAPX.csv,75,4,30,cosine,cosine,mix,True,,0.00029581785202026367,0.09336434666335851,0.13,dust
+clt,Astronautics_ISIRDAPX.csv,75,4,30,cosine,cosine,yes,True,,0.00042247772216796875,0.13725474003640978,0.45,dust
+clt,Astronautics_ISIRDAPX.csv,75,4,30,cosine,cosine,no,True,,0.0019378066062927246,0.12909578980781652,0.45,dust
+clt,Astronautics_ISIRDAPX.csv,75,4,30,cosine,cosine,mix,True,,0.0004744231700897217,0.13807465739774744,0.45,dust
+our,Astronautics_ISIRDAPX.csv,75,4,30,cosine,cosine,yes,True,,0.00042247772216796875,0.0942061224548933,0.34,dust
+our,Astronautics_ISIRDAPX.csv,75,4,30,cosine,cosine,no,True,,0.000839918851852417,0.04130717283007743,0.34,dust
+our,Astronautics_ISIRDAPX.csv,75,4,30,cosine,cosine,mix,True,,0.000839918851852417,0.09456064935589024,0.34,dust
+gmc,Astronomy_4PZG0DSK.csv,165,18,30,cosine,cosine,yes,True,,7.295608520507812e-05,0.17554223899343976,0.67,dust
+gmc,Astronomy_4PZG0DSK.csv,165,18,30,cosine,cosine,no,True,,0.00010535120964050293,0.03973976332565834,0.67,dust
+gmc,Astronomy_4PZG0DSK.csv,165,18,30,cosine,cosine,mix,True,,0.00010535120964050293,0.18982387707711987,0.67,dust
+clt,Astronomy_4PZG0DSK.csv,165,18,30,cosine,cosine,yes,True,,7.295608520507812e-05,0.13980134312199274,0.55,dust
+clt,Astronomy_4PZG0DSK.csv,165,18,30,cosine,cosine,no,True,,0.003253459930419922,0.12610693012508725,0.55,dust
+clt,Astronomy_4PZG0DSK.csv,165,18,30,cosine,cosine,mix,True,,0.00019156932830810547,0.14847440985353808,0.55,dust
+our,Astronomy_4PZG0DSK.csv,165,18,30,cosine,cosine,yes,True,,7.295608520507812e-05,0.15811707419409343,0.61,dust
+our,Astronomy_4PZG0DSK.csv,165,18,30,cosine,cosine,no,True,,0.0021636784076690674,0.10282300089582287,0.61,dust
+our,Astronomy_4PZG0DSK.csv,165,18,30,cosine,cosine,mix,True,,0.0021636784076690674,0.1696643018015684,0.61,dust
+gmc,Bioinformatics_YSAIJRVV.csv,41,3,30,cosine,cosine,yes,True,,0.00019693374633789062,0.03156886086093657,0.04,dust
+gmc,Bioinformatics_YSAIJRVV.csv,41,3,30,cosine,cosine,no,True,,0.00019693374633789062,0.033926331106273605,0.04,dust
+gmc,Bioinformatics_YSAIJRVV.csv,41,3,30,cosine,cosine,mix,True,,0.00019693374633789062,0.031716350317001346,0.04,dust
+clt,Bioinformatics_YSAIJRVV.csv,41,3,30,cosine,cosine,yes,True,,0.00038039684295654297,0.10149323102792329,0.16,dust
+clt,Bioinformatics_YSAIJRVV.csv,41,3,30,cosine,cosine,no,True,,0.0017639696598052979,0.10852263791636489,0.16,dust
+clt,Bioinformatics_YSAIJRVV.csv,41,3,30,cosine,cosine,mix,True,,0.00038039684295654297,0.10204028831351371,0.16,dust
+our,Bioinformatics_YSAIJRVV.csv,41,3,30,cosine,cosine,yes,True,,0.00019693374633789062,0.11245858392706423,0.21,dust
+our,Bioinformatics_YSAIJRVV.csv,41,3,30,cosine,cosine,no,True,,0.00019693374633789062,0.12131337069574444,0.21,dust
+our,Bioinformatics_YSAIJRVV.csv,41,3,30,cosine,cosine,mix,True,,0.00019693374633789062,0.11306830037207831,0.21,dust
+gmc,Biology_6RCZXNPM.csv,146,10,30,cosine,cosine,yes,True,,0.00012543797492980957,0.1121140086187575,0.51,dust
+gmc,Biology_6RCZXNPM.csv,146,10,30,cosine,cosine,no,True,,0.00012543797492980957,0.010082920529376501,0.51,dust
+gmc,Biology_6RCZXNPM.csv,146,10,30,cosine,cosine,mix,True,,0.00012543797492980957,0.11127246209502625,0.51,dust
+clt,Biology_6RCZXNPM.csv,146,10,30,cosine,cosine,yes,True,,0.0011192858219146729,0.14880070529627398,0.47,dust
+clt,Biology_6RCZXNPM.csv,146,10,30,cosine,cosine,no,True,,0.0035909414291381836,0.14969996147435802,0.47,dust
+clt,Biology_6RCZXNPM.csv,146,10,30,cosine,cosine,mix,True,,0.0011192858219146729,0.15020528305892128,0.47,dust
+our,Biology_6RCZXNPM.csv,146,10,30,cosine,cosine,yes,True,,0.0006120800971984863,0.16309333388180208,0.62,dust
+our,Biology_6RCZXNPM.csv,146,10,30,cosine,cosine,no,True,,0.0006120800971984863,0.14211856726578426,0.62,dust
+our,Biology_6RCZXNPM.csv,146,10,30,cosine,cosine,mix,True,,0.0006120800971984863,0.1653729705374409,0.62,dust
+gmc,Business_31X8LNYS.csv,72,5,30,cosine,cosine,yes,True,,0.0005594789981842041,0.08949251307738053,0.12,dust
+gmc,Business_31X8LNYS.csv,72,5,30,cosine,cosine,no,True,,0.0011277496814727783,0.0717924847342502,0.12,dust
+gmc,Business_31X8LNYS.csv,72,5,30,cosine,cosine,mix,True,,0.0011277496814727783,0.09076936166080782,0.12,dust
+clt,Business_31X8LNYS.csv,72,5,30,cosine,cosine,yes,True,,0.0005594789981842041,0.15697680820217905,0.21,dust
+clt,Business_31X8LNYS.csv,72,5,30,cosine,cosine,no,True,,0.004124075174331665,0.17415442191942157,0.21,dust
+clt,Business_31X8LNYS.csv,72,5,30,cosine,cosine,mix,True,,0.0005743801593780518,0.15940723448004732,0.21,dust
+our,Business_31X8LNYS.csv,72,5,30,cosine,cosine,yes,True,,0.0005594789981842041,0.1700230761184631,0.33,dust
+our,Business_31X8LNYS.csv,72,5,30,cosine,cosine,no,True,,0.0014652609825134277,0.1780109468467491,0.33,dust
+our,Business_31X8LNYS.csv,72,5,30,cosine,cosine,mix,True,,0.0014652609825134277,0.17267651552310548,0.33,dust
+gmc,Climatology_QWQ27CT2.csv,123,7,30,cosine,cosine,yes,True,,2.866983413696289e-05,0.11094324610072996,0.36,dust
+gmc,Climatology_QWQ27CT2.csv,123,7,30,cosine,cosine,no,True,,0.00010225176811218262,0.10009873557364804,0.36,dust
+gmc,Climatology_QWQ27CT2.csv,123,7,30,cosine,cosine,mix,True,,0.00010225176811218262,0.11284652141449872,0.36,dust
+clt,Climatology_QWQ27CT2.csv,123,7,30,cosine,cosine,yes,True,,2.866983413696289e-05,0.12951141404523053,0.39,dust
+clt,Climatology_QWQ27CT2.csv,123,7,30,cosine,cosine,no,True,,0.001583188772201538,0.13592578177900452,0.39,dust
+clt,Climatology_QWQ27CT2.csv,123,7,30,cosine,cosine,mix,True,,0.00017660856246948242,0.1320192343618435,0.39,dust
+our,Climatology_QWQ27CT2.csv,123,7,30,cosine,cosine,yes,True,,2.866983413696289e-05,0.12719203122785208,0.48,dust
+our,Climatology_QWQ27CT2.csv,123,7,30,cosine,cosine,no,True,,0.0013956129550933838,0.12381897481351063,0.48,dust
+our,Climatology_QWQ27CT2.csv,123,7,30,cosine,cosine,mix,True,,0.0013956129550933838,0.12962433675506202,0.48,dust
+gmc,Computer Science_WN6ISIGQ.csv,68,11,30,cosine,cosine,yes,True,,0.00016689300537109375,0.048841562340172326,0.1,dust
+gmc,Computer Science_WN6ISIGQ.csv,68,11,30,cosine,cosine,no,True,,0.00016689300537109375,0.01587541596642856,0.1,dust
+gmc,Computer Science_WN6ISIGQ.csv,68,11,30,cosine,cosine,mix,True,,0.00016689300537109375,0.049179020368195825,0.1,dust
+clt,Computer Science_WN6ISIGQ.csv,68,11,30,cosine,cosine,yes,True,,0.0012406110763549805,0.08346498041163858,0.2,dust
+clt,Computer Science_WN6ISIGQ.csv,68,11,30,cosine,cosine,no,True,,0.002781420946121216,0.09723357396392987,0.2,dust
+clt,Computer Science_WN6ISIGQ.csv,68,11,30,cosine,cosine,mix,True,,0.0013449788093566895,0.0862917037912054,0.2,dust
+our,Computer Science_WN6ISIGQ.csv,68,11,30,cosine,cosine,yes,True,,0.0008456408977508545,0.09518657628284971,0.33,dust
+our,Computer Science_WN6ISIGQ.csv,68,11,30,cosine,cosine,no,True,,0.0008456408977508545,0.104171428185802,0.33,dust
+our,Computer Science_WN6ISIGQ.csv,68,11,30,cosine,cosine,mix,True,,0.0008456408977508545,0.09885602877734022,0.33,dust
+gmc,Cooking_MPJOTJL9.csv,40,5,30,cosine,cosine,yes,True,,0.0002149343490600586,0.01895553685036026,0.03,dust
+gmc,Cooking_MPJOTJL9.csv,40,5,30,cosine,cosine,no,True,,0.0002149343490600586,0.009045473529004502,0.03,dust
+gmc,Cooking_MPJOTJL9.csv,40,5,30,cosine,cosine,mix,True,,0.0002149343490600586,0.019066402901951066,0.03,dust
+clt,Cooking_MPJOTJL9.csv,40,5,30,cosine,cosine,yes,True,,0.000261843204498291,0.058405106220425676,0.16,dust
+clt,Cooking_MPJOTJL9.csv,40,5,30,cosine,cosine,no,True,,0.000261843204498291,0.0630591322121949,0.16,dust
+clt,Cooking_MPJOTJL9.csv,40,5,30,cosine,cosine,mix,True,,0.000261843204498291,0.059190323885179995,0.16,dust
+our,Cooking_MPJOTJL9.csv,40,5,30,cosine,cosine,yes,True,,0.0002149343490600586,0.06833680521289842,0.21,dust
+our,Cooking_MPJOTJL9.csv,40,5,30,cosine,cosine,no,True,,0.0002149343490600586,0.07267172115630118,0.21,dust
+our,Cooking_MPJOTJL9.csv,40,5,30,cosine,cosine,mix,True,,0.0002149343490600586,0.0692917955100027,0.21,dust
+gmc,Criminology_SLK5C5T9.csv,135,10,30,cosine,cosine,yes,True,,0.0001081228256225586,0.05602127684232516,0.43,dust
+gmc,Criminology_SLK5C5T9.csv,135,10,30,cosine,cosine,no,True,,0.00022852420806884766,0.03420996289143617,0.43,dust
+gmc,Criminology_SLK5C5T9.csv,135,10,30,cosine,cosine,mix,True,,0.00022852420806884766,0.059024414318759426,0.43,dust
+clt,Criminology_SLK5C5T9.csv,135,10,30,cosine,cosine,yes,True,,0.0001081228256225586,0.07899851662178452,0.43,dust
+clt,Criminology_SLK5C5T9.csv,135,10,30,cosine,cosine,no,True,,0.001558929681777954,0.08332235472298216,0.43,dust
+clt,Criminology_SLK5C5T9.csv,135,10,30,cosine,cosine,mix,True,,0.0007116198539733887,0.08340842388063466,0.43,dust
+our,Criminology_SLK5C5T9.csv,135,10,30,cosine,cosine,yes,True,,0.0001081228256225586,0.08168978202753724,0.51,dust
+our,Criminology_SLK5C5T9.csv,135,10,30,cosine,cosine,no,True,,0.0014355182647705078,0.07332930395315433,0.51,dust
+our,Criminology_SLK5C5T9.csv,135,10,30,cosine,cosine,mix,True,,0.0014355182647705078,0.08626446063776,0.51,dust
+gmc,Culture_5MKZDV7M.csv,89,9,30,cosine,cosine,yes,True,,0.0001398026943206787,0.07674646633865712,0.18,dust
+gmc,Culture_5MKZDV7M.csv,89,9,30,cosine,cosine,no,True,,0.0003590881824493408,0.03565348599148893,0.18,dust
+gmc,Culture_5MKZDV7M.csv,89,9,30,cosine,cosine,mix,True,,0.0003590881824493408,0.07748046106170096,0.18,dust
+clt,Culture_5MKZDV7M.csv,89,9,30,cosine,cosine,yes,True,,0.0001398026943206787,0.12764284552659244,0.24,dust
+clt,Culture_5MKZDV7M.csv,89,9,30,cosine,cosine,no,True,,0.005009263753890991,0.14406832440364195,0.24,dust
+clt,Culture_5MKZDV7M.csv,89,9,30,cosine,cosine,mix,True,,0.0014438629150390625,0.13097580429327554,0.24,dust
+our,Culture_5MKZDV7M.csv,89,9,30,cosine,cosine,yes,True,,0.0001398026943206787,0.17223593212271207,0.36,dust
+our,Culture_5MKZDV7M.csv,89,9,30,cosine,cosine,no,True,,0.002215176820755005,0.19768715128804365,0.36,dust
+our,Culture_5MKZDV7M.csv,89,9,30,cosine,cosine,mix,True,,0.002215176820755005,0.1778459846730268,0.36,dust
+gmc,Ecology_4UT4JSC0.csv,108,10,30,cosine,cosine,yes,True,,0.00021311640739440918,0.11838808818018805,0.27,dust
+gmc,Ecology_4UT4JSC0.csv,108,10,30,cosine,cosine,no,True,,0.0004075467586517334,0.034897774046865004,0.27,dust
+gmc,Ecology_4UT4JSC0.csv,108,10,30,cosine,cosine,mix,True,,0.0004075467586517334,0.11440946097773988,0.27,dust
+clt,Ecology_4UT4JSC0.csv,108,10,30,cosine,cosine,yes,True,,0.00021311640739440918,0.1616735428559761,0.39,dust
+clt,Ecology_4UT4JSC0.csv,108,10,30,cosine,cosine,no,True,,0.001337975263595581,0.15671411538389565,0.39,dust
+clt,Ecology_4UT4JSC0.csv,108,10,30,cosine,cosine,mix,True,,0.001337975263595581,0.16034504553163742,0.39,dust
+our,Ecology_4UT4JSC0.csv,108,10,30,cosine,cosine,yes,True,,0.00021311640739440918,0.14635070921399462,0.44,dust
+our,Ecology_4UT4JSC0.csv,108,10,30,cosine,cosine,no,True,,0.0023871660232543945,0.130872733462816,0.44,dust
+our,Ecology_4UT4JSC0.csv,108,10,30,cosine,cosine,mix,True,,0.0023871660232543945,0.1440840792176979,0.44,dust
+gmc,Economics_30LB3QMY.csv,43,15,30,cosine,cosine,yes,True,,6.118416786193848e-05,0.002658344278431902,0.04,dust
+gmc,Economics_30LB3QMY.csv,43,15,30,cosine,cosine,no,True,,6.118416786193848e-05,0.0016998856232084078,0.04,dust
+gmc,Economics_30LB3QMY.csv,43,15,30,cosine,cosine,mix,True,,6.118416786193848e-05,0.002570969977621305,0.04,dust
+clt,Economics_30LB3QMY.csv,43,15,30,cosine,cosine,yes,True,,7.584691047668457e-05,0.010812529801118253,0.17,dust
+clt,Economics_30LB3QMY.csv,43,15,30,cosine,cosine,no,True,,0.0001932680606842041,0.013500277064312463,0.17,dust
+clt,Economics_30LB3QMY.csv,43,15,30,cosine,cosine,mix,True,,0.0001932680606842041,0.011692601240287393,0.17,dust
+our,Economics_30LB3QMY.csv,43,15,30,cosine,cosine,yes,True,,7.584691047668457e-05,0.01111062379798504,0.22,dust
+our,Economics_30LB3QMY.csv,43,15,30,cosine,cosine,no,True,,0.00010970234870910645,0.013879114183886298,0.22,dust
+our,Economics_30LB3QMY.csv,43,15,30,cosine,cosine,mix,True,,0.00010970234870910645,0.012026062321528204,0.22,dust
+gmc,Engineering_H6ZH9DQU.csv,83,5,30,cosine,cosine,yes,True,,0.0003924369812011719,0.08503871320926842,0.15,dust
+gmc,Engineering_H6ZH9DQU.csv,83,5,30,cosine,cosine,no,True,,0.0003924369812011719,0.05837080341646041,0.15,dust
+gmc,Engineering_H6ZH9DQU.csv,83,5,30,cosine,cosine,mix,True,,0.0003924369812011719,0.08423639511705464,0.15,dust
+clt,Engineering_H6ZH9DQU.csv,83,5,30,cosine,cosine,yes,True,,0.00038313865661621094,0.1111875564752131,0.62,dust
+clt,Engineering_H6ZH9DQU.csv,83,5,30,cosine,cosine,no,True,,0.004094749689102173,0.10376317086790142,0.62,dust
+clt,Engineering_H6ZH9DQU.csv,83,5,30,cosine,cosine,mix,True,,0.00038313865661621094,0.11083222715677614,0.62,dust
+our,Engineering_H6ZH9DQU.csv,83,5,30,cosine,cosine,yes,True,,0.0018640756607055664,0.10533098791013745,0.35,dust
+our,Engineering_H6ZH9DQU.csv,83,5,30,cosine,cosine,no,True,,0.0020028650760650635,0.08881192715603045,0.35,dust
+our,Engineering_H6ZH9DQU.csv,83,5,30,cosine,cosine,mix,True,,0.0020028650760650635,0.10487554630853682,0.35,dust
+gmc,Environment_YY9I8JCT.csv,131,10,30,cosine,cosine,yes,True,,0.0003471076488494873,0.10127541963876678,0.41,dust
+gmc,Environment_YY9I8JCT.csv,131,10,30,cosine,cosine,no,True,,0.0003471076488494873,0.03642193476359049,0.41,dust
+gmc,Environment_YY9I8JCT.csv,131,10,30,cosine,cosine,mix,True,,0.0003471076488494873,0.10069335235225758,0.41,dust
+clt,Environment_YY9I8JCT.csv,131,10,30,cosine,cosine,yes,True,,0.000472337007522583,0.13848681388936268,0.42,dust
+clt,Environment_YY9I8JCT.csv,131,10,30,cosine,cosine,no,True,,0.0034484565258026123,0.13651404841963588,0.42,dust
+clt,Environment_YY9I8JCT.csv,131,10,30,cosine,cosine,mix,True,,0.000472337007522583,0.14018299523044098,0.42,dust
+our,Environment_YY9I8JCT.csv,131,10,30,cosine,cosine,yes,True,,0.0015516281127929688,0.14667680432978206,0.5,dust
+our,Environment_YY9I8JCT.csv,131,10,30,cosine,cosine,no,True,,0.0027268528938293457,0.12682330214429174,0.5,dust
+our,Environment_YY9I8JCT.csv,131,10,30,cosine,cosine,mix,True,,0.0027268528938293457,0.1488744136570085,0.5,dust
+gmc,Fashion_F6C9PGYX.csv,204,12,30,cosine,cosine,yes,True,,0.00014537572860717773,0.06776214596078786,1.03,dust
+gmc,Fashion_F6C9PGYX.csv,204,12,30,cosine,cosine,no,True,,0.000232011079788208,0.037593637389698245,1.03,dust
+gmc,Fashion_F6C9PGYX.csv,204,12,30,cosine,cosine,mix,True,,0.000232011079788208,0.07286512576184183,1.03,dust
+clt,Fashion_F6C9PGYX.csv,204,12,30,cosine,cosine,yes,True,,0.00014537572860717773,0.07798221459424039,0.74,dust
+clt,Fashion_F6C9PGYX.csv,204,12,30,cosine,cosine,no,True,,0.0008027553558349609,0.08712287595731089,0.74,dust
+clt,Fashion_F6C9PGYX.csv,204,12,30,cosine,cosine,mix,True,,0.0005143880844116211,0.08393365292335456,0.74,dust
+our,Fashion_F6C9PGYX.csv,204,12,30,cosine,cosine,yes,True,,0.00014537572860717773,0.0735094769750738,0.76,dust
+our,Fashion_F6C9PGYX.csv,204,12,30,cosine,cosine,no,True,,0.0011090338230133057,0.06136342353861907,0.76,dust
+our,Fashion_F6C9PGYX.csv,204,12,30,cosine,cosine,mix,True,,0.0011090338230133057,0.0790895936905213,0.76,dust
+gmc,Financial Markets_TF6SW03D.csv,154,15,30,cosine,cosine,yes,True,,0.0004075169563293457,0.1268697553402168,0.57,dust
+gmc,Financial Markets_TF6SW03D.csv,154,15,30,cosine,cosine,no,True,,0.0004399418830871582,0.041511975896769554,0.57,dust
+gmc,Financial Markets_TF6SW03D.csv,154,15,30,cosine,cosine,mix,True,,0.0004399418830871582,0.13034464966562986,0.57,dust
+clt,Financial Markets_TF6SW03D.csv,154,15,30,cosine,cosine,yes,True,,0.0004075169563293457,0.12777436687611043,0.5,dust
+clt,Financial Markets_TF6SW03D.csv,154,15,30,cosine,cosine,no,True,,0.002327948808670044,0.11959488271232481,0.5,dust
+clt,Financial Markets_TF6SW03D.csv,154,15,30,cosine,cosine,mix,True,,0.0013602972030639648,0.13135658799391767,0.5,dust
+our,Financial Markets_TF6SW03D.csv,154,15,30,cosine,cosine,yes,True,,0.0004075169563293457,0.1362511060382604,0.57,dust
+our,Financial Markets_TF6SW03D.csv,154,15,30,cosine,cosine,no,True,,0.0015395283699035645,0.11324080018133953,0.57,dust
+our,Financial Markets_TF6SW03D.csv,154,15,30,cosine,cosine,mix,True,,0.0015395283699035645,0.14083904197191593,0.57,dust
+gmc,Gardening_XNQ2V548.csv,138,10,30,cosine,cosine,yes,True,,0.0003267824649810791,0.1243276413967415,0.46,dust
+gmc,Gardening_XNQ2V548.csv,138,10,30,cosine,cosine,no,True,,0.0003267824649810791,0.01953566547097831,0.46,dust
+gmc,Gardening_XNQ2V548.csv,138,10,30,cosine,cosine,mix,True,,0.0003267824649810791,0.12615846623143903,0.46,dust
+clt,Gardening_XNQ2V548.csv,138,10,30,cosine,cosine,yes,True,,0.0003844797611236572,0.14626210624902833,0.44,dust
+clt,Gardening_XNQ2V548.csv,138,10,30,cosine,cosine,no,True,,0.002517133951187134,0.1436663582194436,0.44,dust
+clt,Gardening_XNQ2V548.csv,138,10,30,cosine,cosine,mix,True,,0.0003844797611236572,0.1494358575032536,0.44,dust
+our,Gardening_XNQ2V548.csv,138,10,30,cosine,cosine,yes,True,,0.0009804964065551758,0.13967955646340927,0.52,dust
+our,Gardening_XNQ2V548.csv,138,10,30,cosine,cosine,no,True,,0.001303166151046753,0.11962915831031384,0.52,dust
+our,Gardening_XNQ2V548.csv,138,10,30,cosine,cosine,mix,True,,0.001303166151046753,0.1424502944654538,0.52,dust
+gmc,Genealogy_QBIYK2DY.csv,63,5,30,cosine,cosine,yes,True,,0.0003286898136138916,0.13601209643480813,0.09,dust
+gmc,Genealogy_QBIYK2DY.csv,63,5,30,cosine,cosine,no,True,,0.0003286898136138916,0.0423110184313237,0.09,dust
+gmc,Genealogy_QBIYK2DY.csv,63,5,30,cosine,cosine,mix,True,,0.0003286898136138916,0.137879483994996,0.09,dust
+clt,Genealogy_QBIYK2DY.csv,63,5,30,cosine,cosine,yes,True,,0.0011629760265350342,0.1885619812805945,0.19,dust
+clt,Genealogy_QBIYK2DY.csv,63,5,30,cosine,cosine,no,True,,0.005349963903427124,0.17105956684012533,0.19,dust
+clt,Genealogy_QBIYK2DY.csv,63,5,30,cosine,cosine,mix,True,,0.0011629760265350342,0.19132765747062488,0.19,dust
+our,Genealogy_QBIYK2DY.csv,63,5,30,cosine,cosine,yes,True,,0.0005478560924530029,0.1529187169154918,0.32,dust
+our,Genealogy_QBIYK2DY.csv,63,5,30,cosine,cosine,no,True,,0.0005478560924530029,0.06689879455785641,0.32,dust
+our,Genealogy_QBIYK2DY.csv,63,5,30,cosine,cosine,mix,True,,0.0005478560924530029,0.15507510653517853,0.32,dust
+gmc,Genetics_85ULT6GA.csv,91,11,30,cosine,cosine,yes,True,,8.293986320495605e-05,0.04187460414520124,0.19,dust
+gmc,Genetics_85ULT6GA.csv,91,11,30,cosine,cosine,no,True,,8.293986320495605e-05,0.009990391786071076,0.19,dust
+gmc,Genetics_85ULT6GA.csv,91,11,30,cosine,cosine,mix,True,,8.293986320495605e-05,0.041716352007747474,0.19,dust
+clt,Genetics_85ULT6GA.csv,91,11,30,cosine,cosine,yes,True,,0.00062599778175354,0.09067562596827018,0.25,dust
+clt,Genetics_85ULT6GA.csv,91,11,30,cosine,cosine,no,True,,0.004492372274398804,0.10707581399501055,0.25,dust
+clt,Genetics_85ULT6GA.csv,91,11,30,cosine,cosine,mix,True,,0.0010128319263458252,0.09402594402724622,0.25,dust
+our,Genetics_85ULT6GA.csv,91,11,30,cosine,cosine,yes,True,,0.00062599778175354,0.10674612416726786,0.36,dust
+our,Genetics_85ULT6GA.csv,91,11,30,cosine,cosine,no,True,,0.001416534185409546,0.12575916620506639,0.36,dust
+our,Genetics_85ULT6GA.csv,91,11,30,cosine,cosine,mix,True,,0.001416534185409546,0.11125183752159667,0.36,dust
+gmc,Geology_UNGTTMGP.csv,71,13,30,cosine,cosine,yes,True,,9.420514106750488e-05,0.010384226657227425,0.11,dust
+gmc,Geology_UNGTTMGP.csv,71,13,30,cosine,cosine,no,True,,9.420514106750488e-05,0.00335117167439954,0.11,dust
+gmc,Geology_UNGTTMGP.csv,71,13,30,cosine,cosine,mix,True,,9.420514106750488e-05,0.00952083074685299,0.11,dust
+clt,Geology_UNGTTMGP.csv,71,13,30,cosine,cosine,yes,True,,0.00020393729209899902,0.020835837850538996,0.21,dust
+clt,Geology_UNGTTMGP.csv,71,13,30,cosine,cosine,no,True,,0.0006368458271026611,0.021766422877366517,0.21,dust
+clt,Geology_UNGTTMGP.csv,71,13,30,cosine,cosine,mix,True,,0.00020393729209899902,0.020960594271168566,0.21,dust
+our,Geology_UNGTTMGP.csv,71,13,30,cosine,cosine,yes,True,,0.0002887248992919922,0.024168558294986965,0.33,dust
+our,Geology_UNGTTMGP.csv,71,13,30,cosine,cosine,no,True,,0.00050315260887146,0.02640874892815776,0.33,dust
+our,Geology_UNGTTMGP.csv,71,13,30,cosine,cosine,mix,True,,0.00050315260887146,0.0246084082849098,0.33,dust
+gmc,Geomancy_WN6ISIGQ.csv,169,16,30,cosine,cosine,yes,True,,0.0004222691059112549,0.10021597284076798,0.7,dust
+gmc,Geomancy_WN6ISIGQ.csv,169,16,30,cosine,cosine,no,True,,0.0004628300666809082,0.03160129353917878,0.7,dust
+gmc,Geomancy_WN6ISIGQ.csv,169,16,30,cosine,cosine,mix,True,,0.0004628300666809082,0.0933907631168885,0.7,dust
+clt,Geomancy_WN6ISIGQ.csv,169,16,30,cosine,cosine,yes,True,,0.0004222691059112549,0.13896602743058095,0.57,dust
+clt,Geomancy_WN6ISIGQ.csv,169,16,30,cosine,cosine,no,True,,0.0021919608116149902,0.13340627389435453,0.57,dust
+clt,Geomancy_WN6ISIGQ.csv,169,16,30,cosine,cosine,mix,True,,0.0009755492210388184,0.13722279207913593,0.57,dust
+our,Geomancy_WN6ISIGQ.csv,169,16,30,cosine,cosine,yes,True,,0.0004222691059112549,0.1512442398055992,0.62,dust
+our,Geomancy_WN6ISIGQ.csv,169,16,30,cosine,cosine,no,True,,0.0019465386867523193,0.14902784593521093,0.62,dust
+our,Geomancy_WN6ISIGQ.csv,169,16,30,cosine,cosine,mix,True,,0.0019465386867523193,0.15111126181481233,0.62,dust
+gmc,Geophysics_WN6ISIGQ.csv,93,10,30,cosine,cosine,yes,True,,0.0003629326820373535,0.10270574069940126,0.2,dust
+gmc,Geophysics_WN6ISIGQ.csv,93,10,30,cosine,cosine,no,True,,0.0003629326820373535,0.06632028191254057,0.2,dust
+gmc,Geophysics_WN6ISIGQ.csv,93,10,30,cosine,cosine,mix,True,,0.0003629326820373535,0.10726972493995615,0.2,dust
+clt,Geophysics_WN6ISIGQ.csv,93,10,30,cosine,cosine,yes,True,,0.0002950727939605713,0.11117701364012483,0.26,dust
+clt,Geophysics_WN6ISIGQ.csv,93,10,30,cosine,cosine,no,True,,0.003661543130874634,0.11328301242627632,0.26,dust
+clt,Geophysics_WN6ISIGQ.csv,93,10,30,cosine,cosine,mix,True,,0.0002950727939605713,0.11625964724439747,0.26,dust
+our,Geophysics_WN6ISIGQ.csv,93,10,30,cosine,cosine,yes,True,,0.0017240047454833984,0.11389690987192667,0.37,dust
+our,Geophysics_WN6ISIGQ.csv,93,10,30,cosine,cosine,no,True,,0.0017240047454833984,0.08838849245816811,0.37,dust
+our,Geophysics_WN6ISIGQ.csv,93,10,30,cosine,cosine,mix,True,,0.0017240047454833984,0.11914606773528923,0.37,dust
+gmc,Horticulture_XDG29OB3.csv,195,16,30,cosine,cosine,yes,True,,0.00013235211372375488,0.14093714072391536,0.93,dust
+gmc,Horticulture_XDG29OB3.csv,195,16,30,cosine,cosine,no,True,,0.00013235211372375488,0.01861883559446225,0.93,dust
+gmc,Horticulture_XDG29OB3.csv,195,16,30,cosine,cosine,mix,True,,0.00013235211372375488,0.15486486229607888,0.93,dust
+clt,Horticulture_XDG29OB3.csv,195,16,30,cosine,cosine,yes,True,,0.0003364086151123047,0.12954198402714812,0.69,dust
+clt,Horticulture_XDG29OB3.csv,195,16,30,cosine,cosine,no,True,,0.003511279821395874,0.14764821551440432,0.69,dust
+clt,Horticulture_XDG29OB3.csv,195,16,30,cosine,cosine,mix,True,,0.0003364086151123047,0.14197525881940773,0.69,dust
+our,Horticulture_XDG29OB3.csv,195,16,30,cosine,cosine,yes,True,,0.0007080733776092529,0.13789080260591446,0.72,dust
+our,Horticulture_XDG29OB3.csv,195,16,30,cosine,cosine,no,True,,0.002033323049545288,0.08335508832643772,0.72,dust
+our,Horticulture_XDG29OB3.csv,195,16,30,cosine,cosine,mix,True,,0.002033323049545288,0.15141900442489753,0.72,dust
+gmc,International Relations_FWSJ3P6W.csv,103,7,30,cosine,cosine,yes,True,,0.00027129054069519043,0.1080233217695974,0.25,dust
+gmc,International Relations_FWSJ3P6W.csv,103,7,30,cosine,cosine,no,True,,0.00027129054069519043,0.06479228135498091,0.25,dust
+gmc,International Relations_FWSJ3P6W.csv,103,7,30,cosine,cosine,mix,True,,0.00027129054069519043,0.11016451995278341,0.25,dust
+clt,International Relations_FWSJ3P6W.csv,103,7,30,cosine,cosine,yes,True,,0.0006823241710662842,0.15365695475541927,0.32,dust
+clt,International Relations_FWSJ3P6W.csv,103,7,30,cosine,cosine,no,True,,0.004695236682891846,0.162303934425608,0.32,dust
+clt,International Relations_FWSJ3P6W.csv,103,7,30,cosine,cosine,mix,True,,0.0006823241710662842,0.15728389912884133,0.32,dust
+our,International Relations_FWSJ3P6W.csv,103,7,30,cosine,cosine,yes,True,,0.0009342432022094727,0.15267130185454222,0.43,dust
+our,International Relations_FWSJ3P6W.csv,103,7,30,cosine,cosine,no,True,,0.002875000238418579,0.14342786763184542,0.43,dust
+our,International Relations_FWSJ3P6W.csv,103,7,30,cosine,cosine,mix,True,,0.002875000238418579,0.15626615520328457,0.43,dust
+gmc,Law_10B5UQFW.csv,87,6,30,cosine,cosine,yes,True,,4.8607587814331055e-05,0.019224217912507436,0.17,dust
+gmc,Law_10B5UQFW.csv,87,6,30,cosine,cosine,no,True,,4.8607587814331055e-05,0.002847643282221652,0.17,dust
+gmc,Law_10B5UQFW.csv,87,6,30,cosine,cosine,mix,True,,4.8607587814331055e-05,0.0179978339652705,0.17,dust
+clt,Law_10B5UQFW.csv,87,6,30,cosine,cosine,yes,True,,0.0003692805767059326,0.06495517111486859,0.25,dust
+clt,Law_10B5UQFW.csv,87,6,30,cosine,cosine,no,True,,0.0003692805767059326,0.06554949955008496,0.25,dust
+clt,Law_10B5UQFW.csv,87,6,30,cosine,cosine,mix,True,,0.0003692805767059326,0.06484417627012827,0.25,dust
+our,Law_10B5UQFW.csv,87,6,30,cosine,cosine,yes,True,,0.0004909038543701172,0.06272686469176458,0.36,dust
+our,Law_10B5UQFW.csv,87,6,30,cosine,cosine,no,True,,0.0004909038543701172,0.06144120158820317,0.36,dust
+our,Law_10B5UQFW.csv,87,6,30,cosine,cosine,mix,True,,0.0004909038543701172,0.06256152090987539,0.36,dust
+gmc,Literature_7U98ZTPF.csv,141,10,30,cosine,cosine,yes,True,,8.043646812438965e-05,0.1349047188112775,0.49,dust
+gmc,Literature_7U98ZTPF.csv,141,10,30,cosine,cosine,no,True,,8.043646812438965e-05,0.029787888266574376,0.49,dust
+gmc,Literature_7U98ZTPF.csv,141,10,30,cosine,cosine,mix,True,,8.043646812438965e-05,0.13816721797350567,0.49,dust
+clt,Literature_7U98ZTPF.csv,141,10,30,cosine,cosine,yes,True,,0.0006421208381652832,0.1612298716008902,0.46,dust
+clt,Literature_7U98ZTPF.csv,141,10,30,cosine,cosine,no,True,,0.005435377359390259,0.16026184115259126,0.46,dust
+clt,Literature_7U98ZTPF.csv,141,10,30,cosine,cosine,mix,True,,0.0006421208381652832,0.166104114811462,0.46,dust
+our,Literature_7U98ZTPF.csv,141,10,30,cosine,cosine,yes,True,,0.0009627938270568848,0.15011322570707983,0.53,dust
+our,Literature_7U98ZTPF.csv,141,10,30,cosine,cosine,no,True,,0.0026171207427978516,0.09359200782645707,0.53,dust
+our,Literature_7U98ZTPF.csv,141,10,30,cosine,cosine,mix,True,,0.0026171207427978516,0.1543068579445612,0.53,dust
+gmc,Math_PK3IVO5J.csv,91,12,30,cosine,cosine,yes,True,,0.00017499923706054688,0.012460632468211387,0.19,dust
+gmc,Math_PK3IVO5J.csv,91,12,30,cosine,cosine,no,True,,0.00017499923706054688,0.007996939311082335,0.19,dust
+gmc,Math_PK3IVO5J.csv,91,12,30,cosine,cosine,mix,True,,0.00017499923706054688,0.012642396283599566,0.19,dust
+clt,Math_PK3IVO5J.csv,91,12,30,cosine,cosine,yes,True,,0.00022432208061218262,0.03593023936507594,0.25,dust
+clt,Math_PK3IVO5J.csv,91,12,30,cosine,cosine,no,True,,0.000709235668182373,0.04398056160787056,0.25,dust
+clt,Math_PK3IVO5J.csv,91,12,30,cosine,cosine,mix,True,,0.00022432208061218262,0.038060423375675514,0.25,dust
+our,Math_PK3IVO5J.csv,91,12,30,cosine,cosine,yes,True,,0.0003204345703125,0.037843925179643224,0.36,dust
+our,Math_PK3IVO5J.csv,91,12,30,cosine,cosine,no,True,,0.0003415346145629883,0.04673897416769773,0.36,dust
+our,Math_PK3IVO5J.csv,91,12,30,cosine,cosine,mix,True,,0.0003415346145629883,0.0401329812201314,0.36,dust
+gmc,Medicine_74KJA73E.csv,168,7,30,cosine,cosine,yes,True,,0.00032898783683776855,0.0739989997270201,0.69,dust
+gmc,Medicine_74KJA73E.csv,168,7,30,cosine,cosine,no,True,,0.00032898783683776855,0.023476937173426835,0.69,dust
+gmc,Medicine_74KJA73E.csv,168,7,30,cosine,cosine,mix,True,,0.00032898783683776855,0.07412467415646701,0.69,dust
+clt,Medicine_74KJA73E.csv,168,7,30,cosine,cosine,yes,True,,0.00024703145027160645,0.11384387341955139,0.56,dust
+clt,Medicine_74KJA73E.csv,168,7,30,cosine,cosine,no,True,,0.0011487603187561035,0.12115929562106044,0.56,dust
+clt,Medicine_74KJA73E.csv,168,7,30,cosine,cosine,mix,True,,0.00024703145027160645,0.11526682280642955,0.56,dust
+our,Medicine_74KJA73E.csv,168,7,30,cosine,cosine,yes,True,,0.0014906525611877441,0.11687670352217788,0.61,dust
+our,Medicine_74KJA73E.csv,168,7,30,cosine,cosine,no,True,,0.0014906525611877441,0.11542829528622243,0.61,dust
+our,Medicine_74KJA73E.csv,168,7,30,cosine,cosine,mix,True,,0.0014906525611877441,0.11839839621472295,0.61,dust
+gmc,Music_MPJOTJL9.csv,142,6,30,cosine,cosine,yes,True,,6.860494613647461e-05,0.12325786146194866,0.49,dust
+gmc,Music_MPJOTJL9.csv,142,6,30,cosine,cosine,no,True,,0.00022494792938232422,0.030039783798415085,0.49,dust
+gmc,Music_MPJOTJL9.csv,142,6,30,cosine,cosine,mix,True,,0.00022494792938232422,0.12620336609453386,0.49,dust
+clt,Music_MPJOTJL9.csv,142,6,30,cosine,cosine,yes,True,,6.860494613647461e-05,0.1492309313489213,0.45,dust
+clt,Music_MPJOTJL9.csv,142,6,30,cosine,cosine,no,True,,0.003062635660171509,0.13514887908762643,0.45,dust
+clt,Music_MPJOTJL9.csv,142,6,30,cosine,cosine,mix,True,,0.00020390748977661133,0.15280992549094485,0.45,dust
+our,Music_MPJOTJL9.csv,142,6,30,cosine,cosine,yes,True,,6.860494613647461e-05,0.118311069475206,0.53,dust
+our,Music_MPJOTJL9.csv,142,6,30,cosine,cosine,no,True,,0.0013679265975952148,0.04974245172122429,0.53,dust
+our,Music_MPJOTJL9.csv,142,6,30,cosine,cosine,mix,True,,0.0013679265975952148,0.12113592064469993,0.53,dust
+gmc,Mythology_5IDTY430.csv,244,14,30,cosine,cosine,yes,True,,0.00012758374214172363,0.10986232958194046,1.48,dust
+gmc,Mythology_5IDTY430.csv,244,14,30,cosine,cosine,no,True,,0.00012758374214172363,0.005665656684458941,1.48,dust
+gmc,Mythology_5IDTY430.csv,244,14,30,cosine,cosine,mix,True,,0.00012758374214172363,0.10978060976223616,1.48,dust
+clt,Mythology_5IDTY430.csv,244,14,30,cosine,cosine,yes,True,,0.0004856884479522705,0.15757606258068477,0.96,dust
+clt,Mythology_5IDTY430.csv,244,14,30,cosine,cosine,no,True,,0.002826303243637085,0.18214724216310457,0.96,dust
+clt,Mythology_5IDTY430.csv,244,14,30,cosine,cosine,mix,True,,0.0004856884479522705,0.16257264650704567,0.96,dust
+our,Mythology_5IDTY430.csv,244,14,30,cosine,cosine,yes,True,,0.002109020948410034,0.13948777675811777,0.94,dust
+our,Mythology_5IDTY430.csv,244,14,30,cosine,cosine,no,True,,0.003937631845474243,0.1556770085014574,0.94,dust
+our,Mythology_5IDTY430.csv,244,14,30,cosine,cosine,mix,True,,0.003937631845474243,0.14255917470804172,0.94,dust
+gmc,Performing Arts_YY9I8JCT.csv,89,10,30,cosine,cosine,yes,True,,0.00011551380157470703,0.023399339425258146,0.18,dust
+gmc,Performing Arts_YY9I8JCT.csv,89,10,30,cosine,cosine,no,True,,0.00011551380157470703,0.007313486351363961,0.18,dust
+gmc,Performing Arts_YY9I8JCT.csv,89,10,30,cosine,cosine,mix,True,,0.00011551380157470703,0.02162946442357537,0.18,dust
+clt,Performing Arts_YY9I8JCT.csv,89,10,30,cosine,cosine,yes,True,,0.0001227259635925293,0.09319770857960416,0.25,dust
+clt,Performing Arts_YY9I8JCT.csv,89,10,30,cosine,cosine,no,True,,0.0028094351291656494,0.10457434633736039,0.25,dust
+clt,Performing Arts_YY9I8JCT.csv,89,10,30,cosine,cosine,mix,True,,0.0001227259635925293,0.09570120311798337,0.25,dust
+our,Performing Arts_YY9I8JCT.csv,89,10,30,cosine,cosine,yes,True,,0.0007425546646118164,0.09565070780794112,0.36,dust
+our,Performing Arts_YY9I8JCT.csv,89,10,30,cosine,cosine,no,True,,0.0007425546646118164,0.10486207893760553,0.36,dust
+our,Performing Arts_YY9I8JCT.csv,89,10,30,cosine,cosine,mix,True,,0.0007425546646118164,0.09830438597254505,0.36,dust
+gmc,Philosophy_RMVGR5XS.csv,59,8,30,cosine,cosine,yes,True,,4.032254219055176e-05,0.07163035564368345,0.08,dust
+gmc,Philosophy_RMVGR5XS.csv,59,8,30,cosine,cosine,no,True,,4.032254219055176e-05,0.0209268760407108,0.08,dust
+gmc,Philosophy_RMVGR5XS.csv,59,8,30,cosine,cosine,mix,True,,4.032254219055176e-05,0.07163237545225355,0.08,dust
+clt,Philosophy_RMVGR5XS.csv,59,8,30,cosine,cosine,yes,True,,0.0009010732173919678,0.1403879854969871,0.19,dust
+clt,Philosophy_RMVGR5XS.csv,59,8,30,cosine,cosine,no,True,,0.002499610185623169,0.13886291158503328,0.19,dust
+clt,Philosophy_RMVGR5XS.csv,59,8,30,cosine,cosine,mix,True,,0.0017433762550354004,0.1432421736550276,0.19,dust
+our,Philosophy_RMVGR5XS.csv,59,8,30,cosine,cosine,yes,True,,4.032254219055176e-05,0.14159624507202956,0.31,dust
+our,Philosophy_RMVGR5XS.csv,59,8,30,cosine,cosine,no,True,,4.032254219055176e-05,0.12242361247196965,0.31,dust
+our,Philosophy_RMVGR5XS.csv,59,8,30,cosine,cosine,mix,True,,4.032254219055176e-05,0.144500553627257,0.31,dust
+gmc,Photography_TYDKWE0D.csv,91,5,30,cosine,cosine,yes,True,,0.000315934419631958,0.06597680831719346,0.2,dust
+gmc,Photography_TYDKWE0D.csv,91,5,30,cosine,cosine,no,True,,0.000315934419631958,0.01979026540942576,0.2,dust
+gmc,Photography_TYDKWE0D.csv,91,5,30,cosine,cosine,mix,True,,0.000315934419631958,0.06642310997932895,0.2,dust
+clt,Photography_TYDKWE0D.csv,91,5,30,cosine,cosine,yes,True,,0.0009588301181793213,0.11550251852188792,0.25,dust
+clt,Photography_TYDKWE0D.csv,91,5,30,cosine,cosine,no,True,,0.0018134117126464844,0.11945054194536703,0.25,dust
+clt,Photography_TYDKWE0D.csv,91,5,30,cosine,cosine,mix,True,,0.0009588301181793213,0.11679541352085578,0.25,dust
+our,Photography_TYDKWE0D.csv,91,5,30,cosine,cosine,yes,True,,0.0005960762500762939,0.10687568627470055,0.36,dust
+our,Photography_TYDKWE0D.csv,91,5,30,cosine,cosine,no,True,,0.0005960762500762939,0.08501173398168436,0.36,dust
+our,Photography_TYDKWE0D.csv,91,5,30,cosine,cosine,mix,True,,0.0005960762500762939,0.10802111405576778,0.36,dust
+gmc,Poetry_KL2OCFOZ.csv,97,10,30,cosine,cosine,yes,True,,9.033083915710449e-05,0.13119465642763922,0.21,dust
+gmc,Poetry_KL2OCFOZ.csv,97,10,30,cosine,cosine,no,True,,9.033083915710449e-05,0.014932953146682389,0.21,dust
+gmc,Poetry_KL2OCFOZ.csv,97,10,30,cosine,cosine,mix,True,,9.033083915710449e-05,0.13671865944693587,0.21,dust
+clt,Poetry_KL2OCFOZ.csv,97,10,30,cosine,cosine,yes,True,,9.849667549133301e-05,0.13851298239105977,0.27,dust
+clt,Poetry_KL2OCFOZ.csv,97,10,30,cosine,cosine,no,True,,0.0011834800243377686,0.14301543651448412,0.27,dust
+clt,Poetry_KL2OCFOZ.csv,97,10,30,cosine,cosine,mix,True,,9.849667549133301e-05,0.14448504618362706,0.27,dust
+our,Poetry_KL2OCFOZ.csv,97,10,30,cosine,cosine,yes,True,,0.0004909038543701172,0.12074449558664734,1.15,dust
+our,Poetry_KL2OCFOZ.csv,97,10,30,cosine,cosine,no,True,,0.0004909038543701172,0.031808032044048966,1.15,dust
+our,Poetry_KL2OCFOZ.csv,97,10,30,cosine,cosine,mix,True,,0.0004909038543701172,0.12562869284016898,1.15,dust
+gmc,Politics_QBIYK2DY.csv,90,10,30,cosine,cosine,yes,True,,0.00042682886123657227,0.09778916853739737,0.18,dust
+gmc,Politics_QBIYK2DY.csv,90,10,30,cosine,cosine,no,True,,0.00042682886123657227,0.044072202430374324,0.18,dust
+gmc,Politics_QBIYK2DY.csv,90,10,30,cosine,cosine,mix,True,,0.00042682886123657227,0.09737277550759035,0.18,dust
+clt,Politics_QBIYK2DY.csv,90,10,30,cosine,cosine,yes,True,,0.0006726980209350586,0.13626472408739992,0.25,dust
+clt,Politics_QBIYK2DY.csv,90,10,30,cosine,cosine,no,True,,0.005658835172653198,0.14655795733433688,0.25,dust
+clt,Politics_QBIYK2DY.csv,90,10,30,cosine,cosine,mix,True,,0.0006726980209350586,0.13820397731575634,0.25,dust
+our,Politics_QBIYK2DY.csv,90,10,30,cosine,cosine,yes,True,,0.0012219250202178955,0.14686149474328908,0.36,dust
+our,Politics_QBIYK2DY.csv,90,10,30,cosine,cosine,no,True,,0.0021323859691619873,0.15696294757740936,0.36,dust
+our,Politics_QBIYK2DY.csv,90,10,30,cosine,cosine,mix,True,,0.0021323859691619873,0.14944952984853666,0.36,dust
+gmc,Psychology_GVFJY3QW.csv,71,8,30,cosine,cosine,yes,True,,0.0004266798496246338,0.059696992432664166,0.12,dust
+gmc,Psychology_GVFJY3QW.csv,71,8,30,cosine,cosine,no,True,,0.0006565451622009277,0.029887585187780445,0.12,dust
+gmc,Psychology_GVFJY3QW.csv,71,8,30,cosine,cosine,mix,True,,0.0006565451622009277,0.05870018068287108,0.12,dust
+clt,Psychology_GVFJY3QW.csv,71,8,30,cosine,cosine,yes,True,,0.0004266798496246338,0.1253166883027348,0.21,dust
+clt,Psychology_GVFJY3QW.csv,71,8,30,cosine,cosine,no,True,,0.004947364330291748,0.1371409995920271,0.21,dust
+clt,Psychology_GVFJY3QW.csv,71,8,30,cosine,cosine,mix,True,,0.0006209015846252441,0.1270418787519965,0.21,dust
+our,Psychology_GVFJY3QW.csv,71,8,30,cosine,cosine,yes,True,,0.0004266798496246338,0.14828474171841213,0.33,dust
+our,Psychology_GVFJY3QW.csv,71,8,30,cosine,cosine,no,True,,0.0012457668781280518,0.16250822310732013,0.33,dust
+our,Psychology_GVFJY3QW.csv,71,8,30,cosine,cosine,mix,True,,0.0012457668781280518,0.1509626810501019,0.33,dust
+gmc,Religion_YDWVKF9R.csv,69,5,30,cosine,cosine,yes,True,,0.0002383589744567871,0.10976239027809587,0.11,dust
+gmc,Religion_YDWVKF9R.csv,69,5,30,cosine,cosine,no,True,,0.0002383589744567871,0.04319908913524671,0.11,dust
+gmc,Religion_YDWVKF9R.csv,69,5,30,cosine,cosine,mix,True,,0.0002383589744567871,0.10807286867181348,0.11,dust
+clt,Religion_YDWVKF9R.csv,69,5,30,cosine,cosine,yes,True,,0.0008662045001983643,0.2005471395105593,0.21,dust
+clt,Religion_YDWVKF9R.csv,69,5,30,cosine,cosine,no,True,,0.005224376916885376,0.20257620907110302,0.21,dust
+clt,Religion_YDWVKF9R.csv,69,5,30,cosine,cosine,mix,True,,0.003274261951446533,0.20040949395953273,0.21,dust
+our,Religion_YDWVKF9R.csv,69,5,30,cosine,cosine,yes,True,,0.0004994869232177734,0.24922332301532396,0.33,dust
+our,Religion_YDWVKF9R.csv,69,5,30,cosine,cosine,no,True,,0.0004994869232177734,0.2478103213344069,0.33,dust
+our,Religion_YDWVKF9R.csv,69,5,30,cosine,cosine,mix,True,,0.0004994869232177734,0.24991774897719932,0.33,dust
+gmc,Science_KWASAIE1.csv,55,8,30,cosine,cosine,yes,True,,0.00018858909606933594,0.06046118439956148,0.07,dust
+gmc,Science_KWASAIE1.csv,55,8,30,cosine,cosine,no,True,,0.00018858909606933594,0.009608937817058344,0.07,dust
+gmc,Science_KWASAIE1.csv,55,8,30,cosine,cosine,mix,True,,0.00018858909606933594,0.058994213464255964,0.07,dust
+clt,Science_KWASAIE1.csv,55,8,30,cosine,cosine,yes,True,,0.0007242262363433838,0.10987106420412385,0.18,dust
+clt,Science_KWASAIE1.csv,55,8,30,cosine,cosine,no,True,,0.0007301867008209229,0.10892640976556416,0.18,dust
+clt,Science_KWASAIE1.csv,55,8,30,cosine,cosine,mix,True,,0.0007242262363433838,0.1104536882829335,0.18,dust
+our,Science_KWASAIE1.csv,55,8,30,cosine,cosine,yes,True,,0.00018858909606933594,0.1400042640982238,0.29,dust
+our,Science_KWASAIE1.csv,55,8,30,cosine,cosine,no,True,,0.00018858909606933594,0.1435805910705835,0.29,dust
+our,Science_KWASAIE1.csv,55,8,30,cosine,cosine,mix,True,,0.00018858909606933594,0.14183685795041837,0.29,dust
+gmc,Sociology_BZ1WTJS5.csv,95,10,30,cosine,cosine,yes,True,,0.00022798776626586914,0.07730708709583642,0.21,dust
+gmc,Sociology_BZ1WTJS5.csv,95,10,30,cosine,cosine,no,True,,0.00022798776626586914,0.021296825080082335,0.21,dust
+gmc,Sociology_BZ1WTJS5.csv,95,10,30,cosine,cosine,mix,True,,0.00022798776626586914,0.07479490719760964,0.21,dust
+clt,Sociology_BZ1WTJS5.csv,95,10,30,cosine,cosine,yes,True,,0.0005010068416595459,0.13580588680454708,0.26,dust
+clt,Sociology_BZ1WTJS5.csv,95,10,30,cosine,cosine,no,True,,0.002203434705734253,0.14487427565946254,0.26,dust
+clt,Sociology_BZ1WTJS5.csv,95,10,30,cosine,cosine,mix,True,,0.0005010068416595459,0.13687526607215975,0.26,dust
+our,Sociology_BZ1WTJS5.csv,95,10,30,cosine,cosine,yes,True,,0.0006273984909057617,0.15271144115891402,0.37,dust
+our,Sociology_BZ1WTJS5.csv,95,10,30,cosine,cosine,no,True,,0.001701653003692627,0.16591258734550285,0.37,dust
+our,Sociology_BZ1WTJS5.csv,95,10,30,cosine,cosine,mix,True,,0.001701653003692627,0.15481585436658998,0.37,dust
+gmc,Sports_XNQ2V548.csv,85,5,30,cosine,cosine,yes,True,,0.0002536773681640625,0.04109266487991109,0.16,dust
+gmc,Sports_XNQ2V548.csv,85,5,30,cosine,cosine,no,True,,0.0002536773681640625,0.02389167245777174,0.16,dust
+gmc,Sports_XNQ2V548.csv,85,5,30,cosine,cosine,mix,True,,0.0002536773681640625,0.04036112888755961,0.16,dust
+clt,Sports_XNQ2V548.csv,85,5,30,cosine,cosine,yes,True,,0.0016652047634124756,0.11819546002925944,0.24,dust
+clt,Sports_XNQ2V548.csv,85,5,30,cosine,cosine,no,True,,0.0031583011150360107,0.1248076966696087,0.24,dust
+clt,Sports_XNQ2V548.csv,85,5,30,cosine,cosine,mix,True,,0.0016652047634124756,0.11878192053518744,0.24,dust
+our,Sports_XNQ2V548.csv,85,5,30,cosine,cosine,yes,True,,0.0019601285457611084,0.1183690285920596,0.36,dust
+our,Sports_XNQ2V548.csv,85,5,30,cosine,cosine,no,True,,0.0019601285457611084,0.1233101028221092,0.36,dust
+our,Sports_XNQ2V548.csv,85,5,30,cosine,cosine,mix,True,,0.0019601285457611084,0.11895845608196706,0.36,dust
+gmc,Technology_T7S94C89.csv,145,8,30,cosine,cosine,yes,True,,0.0002326369285583496,0.05772445794952713,0.5,dust
+gmc,Technology_T7S94C89.csv,145,8,30,cosine,cosine,no,True,,0.0002326369285583496,0.01662897166164442,0.5,dust
+gmc,Technology_T7S94C89.csv,145,8,30,cosine,cosine,mix,True,,0.0002326369285583496,0.0583806441227595,0.5,dust
+clt,Technology_T7S94C89.csv,145,8,30,cosine,cosine,yes,True,,0.0018467605113983154,0.14563251248591316,0.47,dust
+clt,Technology_T7S94C89.csv,145,8,30,cosine,cosine,no,True,,0.003260999917984009,0.17261139397006267,0.47,dust
+clt,Technology_T7S94C89.csv,145,8,30,cosine,cosine,mix,True,,0.0018467605113983154,0.1499352549954697,0.47,dust
+our,Technology_T7S94C89.csv,145,8,30,cosine,cosine,yes,True,,0.0022765696048736572,0.19478447568983073,0.54,dust
+our,Technology_T7S94C89.csv,145,8,30,cosine,cosine,no,True,,0.0022765696048736572,0.23247251722469242,0.54,dust
+our,Technology_T7S94C89.csv,145,8,30,cosine,cosine,mix,True,,0.0022765696048736572,0.20112611445080902,0.54,dust
+gmc,Veterinary Medicine_5MKZDV7M.csv,83,9,30,cosine,cosine,yes,True,,0.0002168715000152588,0.05862524747149705,0.15,dust
+gmc,Veterinary Medicine_5MKZDV7M.csv,83,9,30,cosine,cosine,no,True,,0.00023639202117919922,0.006050520244686083,0.15,dust
+gmc,Veterinary Medicine_5MKZDV7M.csv,83,9,30,cosine,cosine,mix,True,,0.0002168715000152588,0.05631970028320314,0.15,dust
+clt,Veterinary Medicine_5MKZDV7M.csv,83,9,30,cosine,cosine,yes,True,,0.00030624866485595703,0.09602256099330249,0.23,dust
+clt,Veterinary Medicine_5MKZDV7M.csv,83,9,30,cosine,cosine,no,True,,0.0015031099319458008,0.09476454859042818,0.23,dust
+clt,Veterinary Medicine_5MKZDV7M.csv,83,9,30,cosine,cosine,mix,True,,0.00030624866485595703,0.09562666385718588,0.23,dust
+our,Veterinary Medicine_5MKZDV7M.csv,83,9,30,cosine,cosine,yes,True,,0.0008768737316131592,0.08398937275344141,0.35,dust
+our,Veterinary Medicine_5MKZDV7M.csv,83,9,30,cosine,cosine,no,True,,0.0008768737316131592,0.07493738335096974,0.35,dust
+our,Veterinary Medicine_5MKZDV7M.csv,83,9,30,cosine,cosine,mix,True,,0.0008768737316131592,0.08297901494124679,0.35,dust
+gmc,Veterinary Science_69LHVLEQ.csv,54,4,30,cosine,cosine,yes,True,,0.00010505318641662598,0.019213462099034517,0.06,dust
+gmc,Veterinary Science_69LHVLEQ.csv,54,4,30,cosine,cosine,no,True,,0.00010505318641662598,0.013862281489646298,0.06,dust
+gmc,Veterinary Science_69LHVLEQ.csv,54,4,30,cosine,cosine,mix,True,,0.00010505318641662598,0.01901264131606162,0.06,dust
+clt,Veterinary Science_69LHVLEQ.csv,54,4,30,cosine,cosine,yes,True,,0.0009377598762512207,0.08018098869850716,0.18,dust
+clt,Veterinary Science_69LHVLEQ.csv,54,4,30,cosine,cosine,no,True,,0.0011515617370605469,0.08672645554460329,0.18,dust
+clt,Veterinary Science_69LHVLEQ.csv,54,4,30,cosine,cosine,mix,True,,0.0009377598762512207,0.08063927631120424,0.18,dust
+our,Veterinary Science_69LHVLEQ.csv,54,4,30,cosine,cosine,yes,True,,0.00023302435874938965,0.08393823453382906,0.28,dust
+our,Veterinary Science_69LHVLEQ.csv,54,4,30,cosine,cosine,no,True,,0.00023302435874938965,0.09073727478155459,0.28,dust
+our,Veterinary Science_69LHVLEQ.csv,54,4,30,cosine,cosine,mix,True,,0.00023302435874938965,0.0844371410204215,0.28,dust
+gmc,World Geography_8JTGEV49.csv,52,4,30,cosine,cosine,yes,True,,0.0008064508438110352,0.1496423428546996,0.06,dust
+gmc,World Geography_8JTGEV49.csv,52,4,30,cosine,cosine,no,True,,0.0008064508438110352,0.11856571603780505,0.06,dust
+gmc,World Geography_8JTGEV49.csv,52,4,30,cosine,cosine,mix,True,,0.0008064508438110352,0.15093973191446616,0.06,dust
+clt,World Geography_8JTGEV49.csv,52,4,30,cosine,cosine,yes,True,,0.0006021261215209961,0.1713252333486735,0.18,dust
+clt,World Geography_8JTGEV49.csv,52,4,30,cosine,cosine,no,True,,0.004419475793838501,0.16596847577769866,0.18,dust
+clt,World Geography_8JTGEV49.csv,52,4,30,cosine,cosine,mix,True,,0.0006021261215209961,0.17285703203540195,0.18,dust
+our,World Geography_8JTGEV49.csv,52,4,30,cosine,cosine,yes,True,,0.0008064508438110352,0.15831130012287137,0.27,dust
+our,World Geography_8JTGEV49.csv,52,4,30,cosine,cosine,no,True,,0.0008064508438110352,0.12910357393410013,0.27,dust
+our,World Geography_8JTGEV49.csv,52,4,30,cosine,cosine,mix,True,,0.0008064508438110352,0.15970240763959115,0.27,dust
